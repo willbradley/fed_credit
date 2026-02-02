@@ -15,10 +15,12 @@ from dashboard.data_loader import load_budget_formulation
 from dashboard.components.metrics import display_metrics, _fmt_dollars, _fmt_pct, _fmt_count
 
 st.set_page_config(
-    page_title="Federal Credit Scorecard",
+    page_title="All Programs",
     page_icon=":classical_building:",
     layout="wide",
 )
+
+st.sidebar.title("View Federal Credit Budget Data")
 
 # ---------------------------------------------------------------------------
 # Helpers
@@ -118,7 +120,7 @@ current_bf = bf[bf["cohort_type"] == "current"].copy()
 # Header + year picker
 # ---------------------------------------------------------------------------
 
-st.title("Federal Credit Supplement Scorecard")
+st.title("Federal Credit Budget Center")
 
 budget_year = st.selectbox(
     "Budget Year",
