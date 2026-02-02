@@ -1,0 +1,1468 @@
+{
+  "metadata": {
+    "source": "Federal Credit Supplement, Budget of the U.S. Government",
+    "table": "Table 9: Direct Loan Programs - Disbursement Schedules",
+    "description": "Percentage of total disbursements made in each year after origination",
+    "units": "percent"
+  },
+  "programs": [
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Agricultural Credit Insurance Fund",
+      "program": "Farm Ownership",
+      "disbursement_schedule_percent": {
+        "year_1": 80,
+        "year_2": 20,
+        "year_3": 1,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Agricultural Credit Insurance Fund",
+      "program": "Farm Operating",
+      "disbursement_schedule_percent": {
+        "year_1": 89,
+        "year_2": 11,
+        "year_3": 1,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Agricultural Credit Insurance Fund",
+      "program": "Emergency Disaster",
+      "disbursement_schedule_percent": {
+        "year_1": 92,
+        "year_2": 8,
+        "year_3": null,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Agricultural Credit Insurance Fund",
+      "program": "Indian Tribe Land Acquisition",
+      "disbursement_schedule_percent": {
+        "year_1": 72,
+        "year_2": 26,
+        "year_3": 2,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Agricultural Credit Insurance Fund",
+      "program": "Boll Weevil Eradication",
+      "disbursement_schedule_percent": {
+        "year_1": 99,
+        "year_2": 1,
+        "year_3": null,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Agricultural Credit Insurance Fund",
+      "program": "Conservation\u2014Direct",
+      "disbursement_schedule_percent": {
+        "year_1": 80,
+        "year_2": 20,
+        "year_3": 1,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Agricultural Credit Insurance Fund",
+      "program": "Heirs Property Relending Program",
+      "disbursement_schedule_percent": {
+        "year_1": 80,
+        "year_2": 20,
+        "year_3": 1,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Farm Storage Facility Loans",
+      "program": "Farm Storage Facility Loans",
+      "disbursement_schedule_percent": {
+        "year_1": 27,
+        "year_2": 73,
+        "year_3": null,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Farm Storage Facility Loans",
+      "program": "Sugar Storage Facility Loans",
+      "disbursement_schedule_percent": {
+        "year_1": 27,
+        "year_2": 73,
+        "year_3": null,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Community Facilities",
+      "program": "Community Facility Loans",
+      "disbursement_schedule_percent": {
+        "year_1": 10,
+        "year_2": 30,
+        "year_3": 29,
+        "year_4": 18,
+        "year_5": 7,
+        "year_6": 2,
+        "year_7": 1,
+        "year_8": 1,
+        "year_9": 1,
+        "year_10_plus": 1
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Housing Insurance Fund",
+      "program": "Section 502 Single Family Housing",
+      "disbursement_schedule_percent": {
+        "year_1": 78,
+        "year_2": 21,
+        "year_3": 1,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Housing Insurance Fund",
+      "program": "Section 515 Multifamily Housing",
+      "disbursement_schedule_percent": {
+        "year_1": 7,
+        "year_2": 36,
+        "year_3": 28,
+        "year_4": 13,
+        "year_5": 6,
+        "year_6": 4,
+        "year_7": 2,
+        "year_8": 1,
+        "year_9": 1,
+        "year_10_plus": 2
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Housing Insurance Fund",
+      "program": "Section 504 Housing Repair",
+      "disbursement_schedule_percent": {
+        "year_1": 87,
+        "year_2": 13,
+        "year_3": null,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Housing Insurance Fund",
+      "program": "Section 514 Farm Labor Housing",
+      "disbursement_schedule_percent": {
+        "year_1": 10,
+        "year_2": 16,
+        "year_3": 21,
+        "year_4": 21,
+        "year_5": 12,
+        "year_6": 10,
+        "year_7": 5,
+        "year_8": 4,
+        "year_9": 1,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Housing Insurance Fund",
+      "program": "Section 524 Site Development",
+      "disbursement_schedule_percent": {
+        "year_1": 21,
+        "year_2": 35,
+        "year_3": 30,
+        "year_4": 10,
+        "year_5": 4,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Housing Insurance Fund",
+      "program": "Section 523 Self-Help Housing",
+      "disbursement_schedule_percent": {
+        "year_1": 34,
+        "year_2": 53,
+        "year_3": 13,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Housing Insurance Fund",
+      "program": "Single Family Housing Credit Sales",
+      "disbursement_schedule_percent": {
+        "year_1": 100,
+        "year_2": null,
+        "year_3": null,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Housing Insurance Fund",
+      "program": "Multifamily Housing Revitalization Seconds",
+      "disbursement_schedule_percent": {
+        "year_1": 6,
+        "year_2": 34,
+        "year_3": 33,
+        "year_4": 16,
+        "year_5": 5,
+        "year_6": 2,
+        "year_7": 1,
+        "year_8": 3,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Housing Insurance Fund",
+      "program": "Multifamily Housing Revitalization Zero",
+      "disbursement_schedule_percent": {
+        "year_1": 10,
+        "year_2": 36,
+        "year_3": 38,
+        "year_4": 15,
+        "year_5": 1,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Housing Insurance Fund",
+      "program": "Native American Single Family Relending Pilot",
+      "disbursement_schedule_percent": {
+        "year_1": 78,
+        "year_2": 21,
+        "year_3": 1,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Business-Cooperative Service",
+      "account": null,
+      "program": "Rural Microenterprise Direct Loans",
+      "disbursement_schedule_percent": {
+        "year_1": 7,
+        "year_2": 32,
+        "year_3": 23,
+        "year_4": 21,
+        "year_5": 16,
+        "year_6": 1,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Business-Cooperative Service",
+      "account": null,
+      "program": "Intermediary Relending Program",
+      "disbursement_schedule_percent": {
+        "year_1": 5,
+        "year_2": 36,
+        "year_3": 24,
+        "year_4": 16,
+        "year_5": 11,
+        "year_6": 8,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Business-Cooperative Service",
+      "account": null,
+      "program": "Rural Economic Development Loans",
+      "disbursement_schedule_percent": {
+        "year_1": 23,
+        "year_2": 60,
+        "year_3": 13,
+        "year_4": 1,
+        "year_5": 1,
+        "year_6": 1,
+        "year_7": 1,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Utilities Service",
+      "account": "Rural Water and Waste Disposal",
+      "program": "Water and Waste Disposal Loans",
+      "disbursement_schedule_percent": {
+        "year_1": 3,
+        "year_2": 20,
+        "year_3": 29,
+        "year_4": 21,
+        "year_5": 12,
+        "year_6": 7,
+        "year_7": 3,
+        "year_8": 2,
+        "year_9": 1,
+        "year_10_plus": 2
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Utilities Service",
+      "account": "Rural Water and Waste Disposal",
+      "program": "Water and Waste 1%",
+      "disbursement_schedule_percent": {
+        "year_1": 3,
+        "year_2": 20,
+        "year_3": 29,
+        "year_4": 21,
+        "year_5": 12,
+        "year_6": 7,
+        "year_7": 3,
+        "year_8": 2,
+        "year_9": 1,
+        "year_10_plus": 2
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Utilities Service",
+      "account": "Rural Electrification and Telecommunications Loans",
+      "program": "Treasury Electric Loans",
+      "disbursement_schedule_percent": {
+        "year_1": 7,
+        "year_2": 30,
+        "year_3": 26,
+        "year_4": 17,
+        "year_5": 13,
+        "year_6": 6,
+        "year_7": 1,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Utilities Service",
+      "account": "Rural Electrification and Telecommunications Loans",
+      "program": "FFB Electric Loans",
+      "disbursement_schedule_percent": {
+        "year_1": 5,
+        "year_2": 25,
+        "year_3": 30,
+        "year_4": 19,
+        "year_5": 10,
+        "year_6": 7,
+        "year_7": 4,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Utilities Service",
+      "account": "Rural Electrification and Telecommunications Loans",
+      "program": "Treasury Telecommunications Loans",
+      "disbursement_schedule_percent": {
+        "year_1": 3,
+        "year_2": 22,
+        "year_3": 20,
+        "year_4": 18,
+        "year_5": 12,
+        "year_6": 7,
+        "year_7": 6,
+        "year_8": 4,
+        "year_9": 4,
+        "year_10_plus": 4
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Utilities Service",
+      "account": "Rural Electrification and Telecommunications Loans",
+      "program": "Rural Energy Savings Program",
+      "disbursement_schedule_percent": {
+        "year_1": 5,
+        "year_2": 25,
+        "year_3": 30,
+        "year_4": 19,
+        "year_5": 10,
+        "year_6": 7,
+        "year_7": 4,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Utilities Service",
+      "account": "Rural Electrification and Telecommunications Loans",
+      "program": "IRA Section 22004",
+      "disbursement_schedule_percent": {
+        "year_1": 5,
+        "year_2": 25,
+        "year_3": 30,
+        "year_4": 19,
+        "year_5": 10,
+        "year_6": 7,
+        "year_7": 4,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Utilities Service",
+      "account": "Rural Electrification and Telecommunications Loans",
+      "program": "IRA Section 22004 Zero",
+      "disbursement_schedule_percent": {
+        "year_1": 5,
+        "year_2": 25,
+        "year_3": 30,
+        "year_4": 19,
+        "year_5": 10,
+        "year_6": 7,
+        "year_7": 4,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Utilities Service",
+      "account": "Distance Learning, Telemedicine, and Broadband Program",
+      "program": "Broadband Treasury Rate Loans",
+      "disbursement_schedule_percent": {
+        "year_1": 7,
+        "year_2": 10,
+        "year_3": 24,
+        "year_4": 22,
+        "year_5": 36,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Utilities Service",
+      "account": "Distance Learning, Telemedicine, and Broadband Program",
+      "program": "ReConnect Direct Loans",
+      "disbursement_schedule_percent": {
+        "year_1": 7,
+        "year_2": 10,
+        "year_3": 24,
+        "year_4": 22,
+        "year_5": 36,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Utilities Service",
+      "account": "Distance Learning, Telemedicine, and Broadband Program",
+      "program": "ReConnect Grant Assisted Loans",
+      "disbursement_schedule_percent": {
+        "year_1": 14,
+        "year_2": 21,
+        "year_3": 48,
+        "year_4": 16,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Commerce",
+      "bureau": "National Oceanic and Atmospheric Administration",
+      "account": null,
+      "program": "Individual Fishing Quota Loans",
+      "disbursement_schedule_percent": {
+        "year_1": 23,
+        "year_2": 28,
+        "year_3": 4,
+        "year_4": 3,
+        "year_5": 1,
+        "year_6": 2,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Commerce",
+      "bureau": "National Oceanic and Atmospheric Administration",
+      "account": null,
+      "program": "Traditional Direct Loans",
+      "disbursement_schedule_percent": {
+        "year_1": 23,
+        "year_2": 53,
+        "year_3": 8,
+        "year_4": 1,
+        "year_5": 1,
+        "year_6": 2,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Commerce",
+      "bureau": "National Institute of Standards and Technology",
+      "account": null,
+      "program": "CHIPS Direct Loans",
+      "disbursement_schedule_percent": {
+        "year_1": 20,
+        "year_2": 20,
+        "year_3": 20,
+        "year_4": 20,
+        "year_5": 20,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Office of Postsecondary Education",
+      "account": null,
+      "program": "Historically Black Colleges and Universities",
+      "disbursement_schedule_percent": {
+        "year_1": 20,
+        "year_2": 20,
+        "year_3": 20,
+        "year_4": 20,
+        "year_5": 20,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Office of Federal Student Aid",
+      "account": "TEACH Grant",
+      "program": "TEACH Grants",
+      "disbursement_schedule_percent": {
+        "year_1": 68,
+        "year_2": 25,
+        "year_3": null,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Office of Federal Student Aid",
+      "account": "Federal Direct Student Loan",
+      "program": "Consolidation",
+      "disbursement_schedule_percent": {
+        "year_1": 100,
+        "year_2": 0,
+        "year_3": null,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Office of Federal Student Aid",
+      "account": "Federal Direct Student Loan",
+      "program": "PLUS",
+      "disbursement_schedule_percent": {
+        "year_1": 66,
+        "year_2": 34,
+        "year_3": null,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Office of Federal Student Aid",
+      "account": "Federal Direct Student Loan",
+      "program": "Stafford",
+      "disbursement_schedule_percent": {
+        "year_1": 75,
+        "year_2": 25,
+        "year_3": null,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Office of Federal Student Aid",
+      "account": "Federal Direct Student Loan",
+      "program": "Unsubsidized Stafford",
+      "disbursement_schedule_percent": {
+        "year_1": 75,
+        "year_2": 25,
+        "year_3": null,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Office of Federal Student Aid",
+      "account": "Federal Direct Student Loan",
+      "program": "Weighted Average of Total Obligations",
+      "disbursement_schedule_percent": {
+        "year_1": 78,
+        "year_2": 22,
+        "year_3": null,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Office of Federal Student Aid",
+      "account": "Federal Direct Student Loan",
+      "program": "Consolidation (Legislative Proposal)",
+      "disbursement_schedule_percent": {
+        "year_1": 100,
+        "year_2": 0,
+        "year_3": null,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Office of Federal Student Aid",
+      "account": "Federal Direct Student Loan",
+      "program": "PLUS (Legislative Proposal)",
+      "disbursement_schedule_percent": {
+        "year_1": 63,
+        "year_2": 32,
+        "year_3": null,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Office of Federal Student Aid",
+      "account": "Federal Direct Student Loan",
+      "program": "Stafford (Legislative Proposal)",
+      "disbursement_schedule_percent": {
+        "year_1": 75,
+        "year_2": 25,
+        "year_3": null,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Office of Federal Student Aid",
+      "account": "Federal Direct Student Loan",
+      "program": "Unsubsidized Stafford (Legislative Proposal)",
+      "disbursement_schedule_percent": {
+        "year_1": 75,
+        "year_2": 25,
+        "year_3": null,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Office of Federal Student Aid",
+      "account": "Federal Direct Student Loan",
+      "program": "Proposal)",
+      "disbursement_schedule_percent": {
+        "year_1": 78,
+        "year_2": 22,
+        "year_3": null,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Energy",
+      "bureau": null,
+      "account": "Advanced Technology Vehicles Manufacturing Loan",
+      "program": "Advanced Technology Vehicles Manufacturing Loans",
+      "disbursement_schedule_percent": {
+        "year_1": 15,
+        "year_2": 40,
+        "year_3": 44,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Energy",
+      "bureau": null,
+      "account": "Title 17 Innovative Technology Loan Guarantee Program",
+      "program": "Section 1703 FFB Loans",
+      "disbursement_schedule_percent": {
+        "year_1": 15,
+        "year_2": 85,
+        "year_3": null,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Energy",
+      "bureau": null,
+      "account": "Title 17 Innovative Technology Loan Guarantee Program",
+      "program": "Section 1706 FFB Loans",
+      "disbursement_schedule_percent": {
+        "year_1": 15,
+        "year_2": 85,
+        "year_3": null,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Energy",
+      "bureau": null,
+      "account": "Carbon Dioxide Transportation IFI",
+      "program": "CO2 Transportation Infrastructure Direct Loans",
+      "disbursement_schedule_percent": {
+        "year_1": 15,
+        "year_2": 85,
+        "year_3": null,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Energy",
+      "bureau": null,
+      "account": "Tribal Energy Loan Guarantee Program",
+      "program": "Tribal Energy FFB Loans",
+      "disbursement_schedule_percent": {
+        "year_1": 15,
+        "year_2": 40,
+        "year_3": 44,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Homeland Security",
+      "bureau": "Federal Emergency Management Agency",
+      "account": null,
+      "program": "Community Disaster Loan Program",
+      "disbursement_schedule_percent": {
+        "year_1": 30,
+        "year_2": 26,
+        "year_3": 7,
+        "year_4": 1,
+        "year_5": 1,
+        "year_6": 3,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Housing Programs",
+      "account": "Green and Resilient Retrofit Program for Multifamily Housing",
+      "program": "Surplus Cash Loan - 25%",
+      "disbursement_schedule_percent": {
+        "year_1": 90,
+        "year_2": 10,
+        "year_3": null,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Housing Programs",
+      "account": "Green and Resilient Retrofit Program for Multifamily Housing",
+      "program": "Surplus Cash Loan - 50%",
+      "disbursement_schedule_percent": {
+        "year_1": 80,
+        "year_2": 20,
+        "year_3": null,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Housing Programs",
+      "account": "Green and Resilient Retrofit Program for Multifamily Housing",
+      "program": "Amortizing Repayment Loan",
+      "disbursement_schedule_percent": {
+        "year_1": 67,
+        "year_2": 33,
+        "year_3": null,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Housing Programs",
+      "account": "FHA-General and Special Risk Insurance Fund",
+      "program": "FFB Risk Sharing",
+      "disbursement_schedule_percent": {
+        "year_1": 2,
+        "year_2": 98,
+        "year_3": null,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of State",
+      "bureau": null,
+      "account": null,
+      "program": "Repatriation Loans",
+      "disbursement_schedule_percent": {
+        "year_1": 100,
+        "year_2": null,
+        "year_3": null,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "International Assistance Programs",
+      "bureau": "International Security Assistance",
+      "account": null,
+      "program": "FMF Direct Loan Program",
+      "disbursement_schedule_percent": {
+        "year_1": 50,
+        "year_2": 50,
+        "year_3": null,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "International Assistance Programs",
+      "bureau": "Multilateral Assistance",
+      "account": null,
+      "program": "Clean Technology Fund Direct Loans",
+      "disbursement_schedule_percent": {
+        "year_1": null,
+        "year_2": null,
+        "year_3": 20,
+        "year_4": 20,
+        "year_5": 20,
+        "year_6": 20,
+        "year_7": 20,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "United States International Development Finance",
+      "bureau": null,
+      "account": "Corporation",
+      "program": "Direct Loans",
+      "disbursement_schedule_percent": {
+        "year_1": 75,
+        "year_2": 25,
+        "year_3": null,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "United States International Development Finance",
+      "bureau": null,
+      "account": "Corporation",
+      "program": "Direct Loan Investment Funds",
+      "disbursement_schedule_percent": {
+        "year_1": 12,
+        "year_2": 17,
+        "year_3": 19,
+        "year_4": 17,
+        "year_5": 17,
+        "year_6": 9,
+        "year_7": 3,
+        "year_8": 5,
+        "year_9": 2,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "United States International Development Finance",
+      "bureau": null,
+      "account": "Corporation",
+      "program": "Direct Loans in Foreign Currencies",
+      "disbursement_schedule_percent": {
+        "year_1": 100,
+        "year_2": null,
+        "year_3": null,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "United States International Development Finance",
+      "bureau": "International Monetary Programs",
+      "account": null,
+      "program": "Loans to Poverty Reduction and Growth Trust",
+      "disbursement_schedule_percent": {
+        "year_1": 20,
+        "year_2": 20,
+        "year_3": 20,
+        "year_4": 20,
+        "year_5": 20,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "United States International Development Finance",
+      "bureau": "International Monetary Programs",
+      "account": null,
+      "program": "Loans to Resilience and Sustainability Trust",
+      "disbursement_schedule_percent": {
+        "year_1": 10,
+        "year_2": 10,
+        "year_3": 10,
+        "year_4": 10,
+        "year_5": 10,
+        "year_6": 10,
+        "year_7": 10,
+        "year_8": 10,
+        "year_9": 10,
+        "year_10_plus": 10
+      }
+    },
+    {
+      "agency": "Department of Transportation",
+      "bureau": "Office of the Secretary",
+      "account": "TIFIA Highway Trust Fund",
+      "program": "Direct Loans",
+      "disbursement_schedule_percent": {
+        "year_1": 5,
+        "year_2": 10,
+        "year_3": 10,
+        "year_4": 10,
+        "year_5": 35,
+        "year_6": 30,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Transportation",
+      "bureau": "Office of the Secretary",
+      "account": "Railroad Rehabilitation and Improvement Program",
+      "program": "Direct Loans",
+      "disbursement_schedule_percent": {
+        "year_1": 36,
+        "year_2": 24,
+        "year_3": 29,
+        "year_4": 9,
+        "year_5": 1,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": 1
+      }
+    },
+    {
+      "agency": "Department of Transportation",
+      "bureau": "Maritime Administration",
+      "account": null,
+      "program": "Federal Ship Financing FFB Loan Guarantees",
+      "disbursement_schedule_percent": {
+        "year_1": 100,
+        "year_2": null,
+        "year_3": null,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of the Treasury",
+      "bureau": "Departmental Offices",
+      "account": null,
+      "program": "CDFI Assistance Program\u2026",
+      "disbursement_schedule_percent": {
+        "year_1": 100,
+        "year_2": null,
+        "year_3": null,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of the Treasury",
+      "bureau": "Departmental Offices",
+      "account": null,
+      "program": "Bond Guarantee Program",
+      "disbursement_schedule_percent": {
+        "year_1": null,
+        "year_2": 30,
+        "year_3": 18,
+        "year_4": 18,
+        "year_5": 18,
+        "year_6": 18,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Veterans Affairs",
+      "bureau": "Benefits Programs",
+      "account": "Veterans Housing Benefit Program Fund",
+      "program": "Acquired Direct Loans",
+      "disbursement_schedule_percent": {
+        "year_1": 100,
+        "year_2": null,
+        "year_3": null,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Veterans Affairs",
+      "bureau": "Benefits Programs",
+      "account": "Veterans Housing Benefit Program Fund",
+      "program": "Vendee Direct Loans",
+      "disbursement_schedule_percent": {
+        "year_1": 100,
+        "year_2": null,
+        "year_3": null,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Veterans Affairs",
+      "bureau": "Benefits Programs",
+      "account": "Native American Veteran Housing Loan",
+      "program": "Native American Direct Loans",
+      "disbursement_schedule_percent": {
+        "year_1": 85,
+        "year_2": 12,
+        "year_3": 3,
+        "year_4": null,
+        "year_5": 1,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Veterans Affairs",
+      "bureau": "Benefits Programs",
+      "account": "Native American Veteran Housing Loan",
+      "program": "Vocational Rehabilitation",
+      "disbursement_schedule_percent": {
+        "year_1": 100,
+        "year_2": null,
+        "year_3": null,
+        "year_4": null,
+        "year_5": 0,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Corps of Engineers\u2013Civil Works",
+      "bureau": null,
+      "account": null,
+      "program": "Water Infrastructure Finance and Innovation, Corps",
+      "disbursement_schedule_percent": {
+        "year_1": 20,
+        "year_2": 20,
+        "year_3": 20,
+        "year_4": 20,
+        "year_5": 20,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Corps of Engineers\u2013Civil Works",
+      "bureau": null,
+      "account": null,
+      "program": "Water Infrastructure Direct Loans",
+      "disbursement_schedule_percent": {
+        "year_1": 20,
+        "year_2": 20,
+        "year_3": 20,
+        "year_4": 20,
+        "year_5": 20,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Small Business Administration",
+      "bureau": null,
+      "account": "Business Loans",
+      "program": "7(m) Direct Microloans",
+      "disbursement_schedule_percent": {
+        "year_1": 31,
+        "year_2": 48,
+        "year_3": 15,
+        "year_4": 5,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Small Business Administration",
+      "bureau": null,
+      "account": "Business Loans",
+      "program": "General Business Small Loans",
+      "disbursement_schedule_percent": {
+        "year_1": 73,
+        "year_2": 27,
+        "year_3": null,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Small Business Administration",
+      "bureau": null,
+      "account": "Disaster Loans",
+      "program": "Disaster Assistance Loans",
+      "disbursement_schedule_percent": {
+        "year_1": 66,
+        "year_2": 29,
+        "year_3": 5,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,1252 @@
+{
+  "metadata": {
+    "source": "Federal Credit Supplement, Budget of the U.S. Government, FY 2020",
+    "table": "Table 1: Direct Loan Programs - Budget Formulation Estimates",
+    "cohort_years": [
+      2019,
+      2020
+    ],
+    "units": {
+      "subsidy_rate": "percent",
+      "obligations": "thousands of dollars",
+      "average_loan_size": "thousands of dollars"
+    }
+  },
+  "programs": [
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Agricultural Credit Insurance Fund",
+      "program": "Farm Ownership",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": -1.31,
+          "obligations_thousands": 1500000,
+          "average_loan_size_thousands": 179
+        },
+        "2020": {
+          "subsidy_rate_percent": -0.08,
+          "obligations_thousands": 1500000,
+          "average_loan_size_thousands": 184
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Agricultural Credit Insurance Fund",
+      "program": "Farm Operating",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": 3.9,
+          "obligations_thousands": 1801051,
+          "average_loan_size_thousands": 50
+        },
+        "2020": {
+          "subsidy_rate_percent": 3.77,
+          "obligations_thousands": 1773714,
+          "average_loan_size_thousands": 56
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Agricultural Credit Insurance Fund",
+      "program": "Emergency Disaster",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": 4.16,
+          "obligations_thousands": 72668,
+          "average_loan_size_thousands": 99
+        },
+        "2020": {
+          "subsidy_rate_percent": 5.37,
+          "obligations_thousands": 62011,
+          "average_loan_size_thousands": 122
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Agricultural Credit Insurance Fund",
+      "program": "Indian Tribe Land Acquisition",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": -29.87,
+          "obligations_thousands": 20000,
+          "average_loan_size_thousands": 985
+        },
+        "2020": {
+          "subsidy_rate_percent": -18.62,
+          "obligations_thousands": 20000,
+          "average_loan_size_thousands": 1000
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Agricultural Credit Insurance Fund",
+      "program": "Boll Weevil Eradication",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": -0.21,
+          "obligations_thousands": 60000,
+          "average_loan_size_thousands": 5000
+        },
+        "2020": {
+          "subsidy_rate_percent": 0.1,
+          "obligations_thousands": 60000,
+          "average_loan_size_thousands": 5000
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Agricultural Credit Insurance Fund",
+      "program": "Indian Highly Fractionated Land",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": 21.34,
+          "obligations_thousands": 10647,
+          "average_loan_size_thousands": 5000
+        },
+        "2020": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Farm Storage Facility Loans",
+      "program": "Farm Storage Facility Loans",
+      "bea_category": "Mandatory",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": -0.52,
+          "obligations_thousands": 300000,
+          "average_loan_size_thousands": 72
+        },
+        "2020": {
+          "subsidy_rate_percent": -0.23,
+          "obligations_thousands": 300000,
+          "average_loan_size_thousands": 72
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Farm Storage Facility Loans",
+      "program": "Sugar Storage Facility Loans",
+      "bea_category": "Mandatory",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": -0.96,
+          "obligations_thousands": 8500,
+          "average_loan_size_thousands": 4000
+        },
+        "2020": {
+          "subsidy_rate_percent": -0.38,
+          "obligations_thousands": 8500,
+          "average_loan_size_thousands": 4000
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Multifamily Housing Revitalization",
+      "program": "Multifamily Housing Relending Demo",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": 27.67,
+          "obligations_thousands": 1066,
+          "average_loan_size_thousands": 1040
+        },
+        "2020": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Multifamily Housing Revitalization",
+      "program": "Multifamily Housing Revitalization Seconds",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": 50.58,
+          "obligations_thousands": 15648,
+          "average_loan_size_thousands": 1140
+        },
+        "2020": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Community Facilities",
+      "program": "Community Facility Loans",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": -7.61,
+          "obligations_thousands": 2760578,
+          "average_loan_size_thousands": 3535
+        },
+        "2020": {
+          "subsidy_rate_percent": -4.96,
+          "obligations_thousands": 2500000,
+          "average_loan_size_thousands": 4848
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Housing Insurance Fund",
+      "program": "Section 502 Single Family Housing",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": 6.77,
+          "obligations_thousands": 626000,
+          "average_loan_size_thousands": 155
+        },
+        "2020": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Housing Insurance Fund",
+      "program": "Section 515 Multifamily Housing",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": 23.71,
+          "obligations_thousands": 115000,
+          "average_loan_size_thousands": 1081
+        },
+        "2020": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Housing Insurance Fund",
+      "program": "Section 504 Housing Repair",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": 12.21,
+          "obligations_thousands": 27997,
+          "average_loan_size_thousands": 6
+        },
+        "2020": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Housing Insurance Fund",
+      "program": "Section 514 Farm Labor Housing",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": 24.92,
+          "obligations_thousands": 37536,
+          "average_loan_size_thousands": 1988
+        },
+        "2020": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Housing Insurance Fund",
+      "program": "Section 524 Site Development",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": 3.51,
+          "obligations_thousands": 1652,
+          "average_loan_size_thousands": 2500
+        },
+        "2020": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Housing Insurance Fund",
+      "program": "Section 523 Self-Help Housing",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": 8.61,
+          "obligations_thousands": 4274,
+          "average_loan_size_thousands": 2500
+        },
+        "2020": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Housing Insurance Fund",
+      "program": "Single Family Housing Credit Sales",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": -2.42,
+          "obligations_thousands": 1600,
+          "average_loan_size_thousands": 115
+        },
+        "2020": {
+          "subsidy_rate_percent": -1.85,
+          "obligations_thousands": 1900,
+          "average_loan_size_thousands": 117
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Business-Cooperative Service",
+      "account": null,
+      "program": "Rural Microenterprise Direct Loans",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": 9.52,
+          "obligations_thousands": 2574,
+          "average_loan_size_thousands": 413
+        },
+        "2020": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Business-Cooperative Service",
+      "account": null,
+      "program": "Intermediary Relending Program",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": 22.01,
+          "obligations_thousands": 18887,
+          "average_loan_size_thousands": 674
+        },
+        "2020": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Business-Cooperative Service",
+      "account": null,
+      "program": "Rural Economic Development Loans",
+      "bea_category": "Mandatory",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": 13.35,
+          "obligations_thousands": 42554,
+          "average_loan_size_thousands": 1030
+        },
+        "2020": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Utilities Service",
+      "account": "Rural Water and Waste Disposal Loans",
+      "program": "Water and Waste Disposal Loans",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": -0.27,
+          "obligations_thousands": 2500000,
+          "average_loan_size_thousands": 2100
+        },
+        "2020": {
+          "subsidy_rate_percent": 4.56,
+          "obligations_thousands": 1200000,
+          "average_loan_size_thousands": 2750
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Utilities Service",
+      "account": "Rural Electrification and Telecommunications Loans",
+      "program": "FFB Electric Loans",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": -4.38,
+          "obligations_thousands": 3360204,
+          "average_loan_size_thousands": 30000
+        },
+        "2020": {
+          "subsidy_rate_percent": -3.87,
+          "obligations_thousands": 2924123,
+          "average_loan_size_thousands": 30000
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Utilities Service",
+      "account": "Rural Electrification and Telecommunications Loans",
+      "program": "Treasury Telecommunications Loans",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": 0.48,
+          "obligations_thousands": 51000,
+          "average_loan_size_thousands": 15000
+        },
+        "2020": {
+          "subsidy_rate_percent": 1.1,
+          "obligations_thousands": 42946,
+          "average_loan_size_thousands": 15000
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Utilities Service",
+      "account": "Rural Electrification and Telecommunications Loans",
+      "program": "FFB Telecommunications Loans",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": -2.71,
+          "obligations_thousands": 82561,
+          "average_loan_size_thousands": 18000
+        },
+        "2020": {
+          "subsidy_rate_percent": -2.42,
+          "obligations_thousands": 83015,
+          "average_loan_size_thousands": 15000
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Utilities Service",
+      "account": "Rural Electrification and Telecommunications Loans",
+      "program": "FFB Guaranteed Underwriting",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": -0.39,
+          "obligations_thousands": 750000,
+          "average_loan_size_thousands": 750000
+        },
+        "2020": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Utilities Service",
+      "account": "Rural Electrification and Telecommunications Loans",
+      "program": "Rural Energy Savings Program",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": 14.03,
+          "obligations_thousands": 72231,
+          "average_loan_size_thousands": 3000
+        },
+        "2020": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Utilities Service",
+      "account": "Distance Learning, Telemedicine, and Broadband Program",
+      "program": "Broadband Treasury Rate Loans",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": 19.53,
+          "obligations_thousands": 26231,
+          "average_loan_size_thousands": 8000
+        },
+        "2020": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Utilities Service",
+      "account": "Distance Learning, Telemedicine, and Broadband Program",
+      "program": "Reconnect Direct Loans",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": 31.14,
+          "obligations_thousands": 232113,
+          "average_loan_size_thousands": 25000
+        },
+        "2020": {
+          "subsidy_rate_percent": 34.45,
+          "obligations_thousands": 297300,
+          "average_loan_size_thousands": 25000
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Utilities Service",
+      "account": "Distance Learning, Telemedicine, and Broadband Program",
+      "program": "Reconnect Grant Assisted Loans",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": 24.05,
+          "obligations_thousands": 100000,
+          "average_loan_size_thousands": 15000
+        },
+        "2020": {
+          "subsidy_rate_percent": 22.53,
+          "obligations_thousands": 293276,
+          "average_loan_size_thousands": 15000
+        }
+      }
+    },
+    {
+      "agency": "Department of Commerce",
+      "bureau": "National Oceanic and Atmospheric Administration",
+      "account": "Fisheries Finance",
+      "program": "Individual Fishing Quota Loans",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": -11.81,
+          "obligations_thousands": 24000,
+          "average_loan_size_thousands": 300
+        },
+        "2020": {
+          "subsidy_rate_percent": -10.8,
+          "obligations_thousands": 24000,
+          "average_loan_size_thousands": 300
+        }
+      }
+    },
+    {
+      "agency": "Department of Commerce",
+      "bureau": "National Oceanic and Atmospheric Administration",
+      "account": "Fisheries Finance",
+      "program": "Traditional Direct Loans",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": -8.71,
+          "obligations_thousands": 100000,
+          "average_loan_size_thousands": 3200
+        },
+        "2020": {
+          "subsidy_rate_percent": -7.92,
+          "obligations_thousands": 100000,
+          "average_loan_size_thousands": 3200
+        }
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Office of Postsecondary Education",
+      "account": null,
+      "program": "Historically Black Colleges and Universities (HBCU)",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": 8.08,
+          "obligations_thousands": 285000,
+          "average_loan_size_thousands": 57000
+        },
+        "2020": {
+          "subsidy_rate_percent": 9.5,
+          "obligations_thousands": 280000,
+          "average_loan_size_thousands": 56000
+        }
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Office of Federal Student Aid",
+      "account": "Teacher Education Assistance",
+      "program": "TEACH Grants",
+      "bea_category": "Mandatory",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": 28.37,
+          "obligations_thousands": 102393,
+          "average_loan_size_thousands": 3
+        },
+        "2020": {
+          "subsidy_rate_percent": 28.79,
+          "obligations_thousands": 103860,
+          "average_loan_size_thousands": 3
+        }
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Office of Federal Student Aid",
+      "account": "Federal Direct Student Loan",
+      "program": "Consolidation",
+      "bea_category": "Mandatory",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": 12.03,
+          "obligations_thousands": 45325376,
+          "average_loan_size_thousands": 60
+        },
+        "2020": {
+          "subsidy_rate_percent": 20.58,
+          "obligations_thousands": 46384102,
+          "average_loan_size_thousands": 61
+        }
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Office of Federal Student Aid",
+      "account": "Federal Direct Student Loan",
+      "program": "PLUS",
+      "bea_category": "Mandatory",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": -19.04,
+          "obligations_thousands": 26104497,
+          "average_loan_size_thousands": 16
+        },
+        "2020": {
+          "subsidy_rate_percent": -14.77,
+          "obligations_thousands": 27343271,
+          "average_loan_size_thousands": 16
+        }
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Office of Federal Student Aid",
+      "account": "Federal Direct Student Loan",
+      "program": "Stafford",
+      "bea_category": "Mandatory",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": 8.65,
+          "obligations_thousands": 24350503,
+          "average_loan_size_thousands": 4
+        },
+        "2020": {
+          "subsidy_rate_percent": 13.15,
+          "obligations_thousands": 24548457,
+          "average_loan_size_thousands": 4
+        }
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Office of Federal Student Aid",
+      "account": "Federal Direct Student Loan",
+      "program": "Unsubsidized Stafford",
+      "bea_category": "Mandatory",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": -3.22,
+          "obligations_thousands": 59687860,
+          "average_loan_size_thousands": 6
+        },
+        "2020": {
+          "subsidy_rate_percent": -0.84,
+          "obligations_thousands": 60472000,
+          "average_loan_size_thousands": 6
+        }
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Office of Federal Student Aid",
+      "account": "Federal Direct Student Loan",
+      "program": "Weighted Average of Total Obligations",
+      "bea_category": "Mandatory",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": 0.25,
+          "obligations_thousands": 163009019,
+          "average_loan_size_thousands": 9
+        },
+        "2020": {
+          "subsidy_rate_percent": 5.18,
+          "obligations_thousands": 158747293,
+          "average_loan_size_thousands": 8
+        }
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Office of Federal Student Aid",
+      "account": "Federal Direct Student Loan",
+      "program": "Consolidation (Legislative Proposal)",
+      "bea_category": "Mandatory",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        },
+        "2020": {
+          "subsidy_rate_percent": 18.94,
+          "obligations_thousands": 46384102,
+          "average_loan_size_thousands": 61
+        }
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Office of Federal Student Aid",
+      "account": "Federal Direct Student Loan",
+      "program": "PLUS (Legislative Proposal)",
+      "bea_category": "Mandatory",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        },
+        "2020": {
+          "subsidy_rate_percent": -21.96,
+          "obligations_thousands": 27343271,
+          "average_loan_size_thousands": 16
+        }
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Office of Federal Student Aid",
+      "account": "Federal Direct Student Loan",
+      "program": "Stafford",
+      "bea_category": "Mandatory",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        },
+        "2020": {
+          "subsidy_rate_percent": 10.31,
+          "obligations_thousands": 15120780,
+          "average_loan_size_thousands": 4
+        }
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Office of Federal Student Aid",
+      "account": "Federal Direct Student Loan",
+      "program": "Unsubsidized Stafford (Legislative Proposal)",
+      "bea_category": "Mandatory",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        },
+        "2020": {
+          "subsidy_rate_percent": -6.9,
+          "obligations_thousands": 69990000,
+          "average_loan_size_thousands": 6
+        }
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Office of Federal Student Aid",
+      "account": "Federal Direct Student Loan",
+      "program": "Weighted Average of Total Obligations (Legislative Proposal)",
+      "bea_category": "Mandatory",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        },
+        "2020": {
+          "subsidy_rate_percent": -0.3,
+          "obligations_thousands": 158747293,
+          "average_loan_size_thousands": 8
+        }
+      }
+    },
+    {
+      "agency": "Department of Energy",
+      "bureau": null,
+      "account": "Title 17 Innovative Technology Loan Guarantee Program",
+      "program": "Section 1703 FFB Loans (Self Pay)",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": -2.69,
+          "obligations_thousands": 3702619,
+          "average_loan_size_thousands": 160983
+        },
+        "2020": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        }
+      }
+    },
+    {
+      "agency": "Department of Homeland Security",
+      "bureau": "Federal Emergency Management Agency",
+      "account": "Disaster Assistance Direct Loan",
+      "program": "Community Disaster Loan Program",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": 90.71,
+          "obligations_thousands": 115000,
+          "average_loan_size_thousands": 5000
+        },
+        "2020": {
+          "subsidy_rate_percent": 74.61,
+          "obligations_thousands": 65000,
+          "average_loan_size_thousands": 5000
+        }
+      }
+    },
+    {
+      "agency": "Department of Homeland Security",
+      "bureau": "Federal Emergency Management Agency",
+      "account": "Disaster Assistance Direct Loan",
+      "program": "Special Community Disaster Loans",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": 98.91,
+          "obligations_thousands": 196000,
+          "average_loan_size_thousands": 4900
+        },
+        "2020": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        }
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Housing Programs",
+      "account": null,
+      "program": "FFB Risk Sharing",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": -14.38,
+          "obligations_thousands": 726000,
+          "average_loan_size_thousands": 12095
+        },
+        "2020": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        }
+      }
+    },
+    {
+      "agency": "Department of State",
+      "bureau": "Administration of Foreign Affairs",
+      "account": null,
+      "program": "Repatriation Loans",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": 40.45,
+          "obligations_thousands": 2000,
+          "average_loan_size_thousands": 2
+        },
+        "2020": {
+          "subsidy_rate_percent": 41.34,
+          "obligations_thousands": 2000,
+          "average_loan_size_thousands": 2
+        }
+      }
+    },
+    {
+      "agency": "International Assistance Programs",
+      "bureau": "International Security Assistance",
+      "account": null,
+      "program": "FMF Direct Loan Program",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        },
+        "2020": {
+          "subsidy_rate_percent": 0,
+          "obligations_thousands": 4000000,
+          "average_loan_size_thousands": 4000000
+        }
+      }
+    },
+    {
+      "agency": "International Assistance Programs",
+      "bureau": "Overseas Private Investment Corporation",
+      "account": null,
+      "program": "OPIC Direct Loans",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": -12.83,
+          "obligations_thousands": 588000,
+          "average_loan_size_thousands": 20000
+        },
+        "2020": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        }
+      }
+    },
+    {
+      "agency": "International Assistance Programs",
+      "bureau": "Overseas Private Investment Corporation",
+      "account": "Development Finance Corporation",
+      "program": "Direct Loans",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        },
+        "2020": {
+          "subsidy_rate_percent": -13.99,
+          "obligations_thousands": 1500000,
+          "average_loan_size_thousands": 20000
+        }
+      }
+    },
+    {
+      "agency": "International Assistance Programs",
+      "bureau": "Overseas Private Investment Corporation",
+      "account": "Development Finance Corporation",
+      "program": "Direct Loan Investment Funds",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        },
+        "2020": {
+          "subsidy_rate_percent": -11.17,
+          "obligations_thousands": 600000,
+          "average_loan_size_thousands": 45000
+        }
+      }
+    },
+    {
+      "agency": "International Assistance Programs",
+      "bureau": "Overseas Private Investment Corporation",
+      "account": "Development Finance Corporation",
+      "program": "Direct Loans in Foreign Currencies",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        },
+        "2020": {
+          "subsidy_rate_percent": 0,
+          "obligations_thousands": 250000,
+          "average_loan_size_thousands": 50000
+        }
+      }
+    },
+    {
+      "agency": "Transportation, Infrastructure, Finance & Innovation",
+      "bureau": null,
+      "account": null,
+      "program": "(TIFIA) Direct Loans",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": 6.3,
+          "obligations_thousands": 4237000,
+          "average_loan_size_thousands": 423700
+        },
+        "2020": {
+          "subsidy_rate_percent": 5.72,
+          "obligations_thousands": 4233000,
+          "average_loan_size_thousands": 423300
+        }
+      }
+    },
+    {
+      "agency": "Railroad Rehabilitation and Improvement Financing",
+      "bureau": null,
+      "account": null,
+      "program": "(RRIF) Direct Loans",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": 0,
+          "obligations_thousands": 600000,
+          "average_loan_size_thousands": 200000
+        },
+        "2020": {
+          "subsidy_rate_percent": 0,
+          "obligations_thousands": 600000,
+          "average_loan_size_thousands": 200000
+        }
+      }
+    },
+    {
+      "agency": "Department of the Treasury",
+      "bureau": "Departmental Offices",
+      "account": null,
+      "program": "Community Development Financial Institutions (CDFI) Fund",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": 10.11,
+          "obligations_thousands": 25000,
+          "average_loan_size_thousands": 833
+        },
+        "2020": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        }
+      }
+    },
+    {
+      "agency": "Department of the Treasury",
+      "bureau": "Departmental Offices",
+      "account": null,
+      "program": "Bond Guarantee Program",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": 0,
+          "obligations_thousands": 500000,
+          "average_loan_size_thousands": 100000
+        },
+        "2020": {
+          "subsidy_rate_percent": 0,
+          "obligations_thousands": 500000,
+          "average_loan_size_thousands": 100000
+        }
+      }
+    },
+    {
+      "agency": "Department of Veterans Affairs",
+      "bureau": "Benefits Programs",
+      "account": "Veterans Housing Benefit Program Fund",
+      "program": "Acquired Direct Loans",
+      "bea_category": "Mandatory",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": 6.33,
+          "obligations_thousands": 16174,
+          "average_loan_size_thousands": 270
+        },
+        "2020": {
+          "subsidy_rate_percent": 17.77,
+          "obligations_thousands": 17934,
+          "average_loan_size_thousands": 275
+        }
+      }
+    },
+    {
+      "agency": "Department of Veterans Affairs",
+      "bureau": "Benefits Programs",
+      "account": "Veterans Housing Benefit Program Fund",
+      "program": "Vendee Direct Loans",
+      "bea_category": "Mandatory",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": -5.47,
+          "obligations_thousands": 31180,
+          "average_loan_size_thousands": 142
+        },
+        "2020": {
+          "subsidy_rate_percent": 8.51,
+          "obligations_thousands": 35787,
+          "average_loan_size_thousands": 145
+        }
+      }
+    },
+    {
+      "agency": "Department of Veterans Affairs",
+      "bureau": "Benefits Programs",
+      "account": "Native American Veteran Housing Loan",
+      "program": "Native American Direct Loans",
+      "bea_category": "Mandatory",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": -11.89,
+          "obligations_thousands": 8688,
+          "average_loan_size_thousands": 193
+        },
+        "2020": {
+          "subsidy_rate_percent": -5.23,
+          "obligations_thousands": 8861,
+          "average_loan_size_thousands": 197
+        }
+      }
+    },
+    {
+      "agency": "Department of Veterans Affairs",
+      "bureau": "Benefits Programs",
+      "account": "Native American Veteran Housing Loan",
+      "program": "Vocational Rehabilitation",
+      "bea_category": "Mandatory",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": 1.9,
+          "obligations_thousands": 2037,
+          "average_loan_size_thousands": 1
+        },
+        "2020": {
+          "subsidy_rate_percent": 2.87,
+          "obligations_thousands": 2008,
+          "average_loan_size_thousands": 1
+        }
+      }
+    },
+    {
+      "agency": "Department of Veterans Affairs",
+      "bureau": "Benefits Programs",
+      "account": "Water Infrastructure Finance and Innovation Program",
+      "program": "Water Infrastructure Direct Loans",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": 0.98,
+          "obligations_thousands": 5612245,
+          "average_loan_size_thousands": 280612
+        },
+        "2020": {
+          "subsidy_rate_percent": 0.91,
+          "obligations_thousands": 2192982,
+          "average_loan_size_thousands": 219298
+        }
+      }
+    },
+    {
+      "agency": "Small Business Administration",
+      "bureau": null,
+      "account": "Business Loans",
+      "program": "7(m) Direct Microloans",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": 8.77,
+          "obligations_thousands": 35887,
+          "average_loan_size_thousands": 796
+        },
+        "2020": {
+          "subsidy_rate_percent": 9.29,
+          "obligations_thousands": 40043,
+          "average_loan_size_thousands": 644
+        }
+      }
+    },
+    {
+      "agency": "Small Business Administration",
+      "bureau": null,
+      "account": "Disaster Loans",
+      "program": "Disaster Assistance Loans",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": 12.29,
+          "obligations_thousands": 3100000,
+          "average_loan_size_thousands": 36
+        },
+        "2020": {
+          "subsidy_rate_percent": 13.62,
+          "obligations_thousands": 1100000,
+          "average_loan_size_thousands": 34
+        }
+      }
+    }
+  ]
+}

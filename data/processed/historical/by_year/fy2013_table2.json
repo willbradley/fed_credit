@@ -1,0 +1,1385 @@
+{
+  "metadata": {
+    "source": "Federal Credit Supplement, Budget of the U.S. Government, FY 2013",
+    "table": "Table 2: Loan Guarantee Programs - Budget Formulation Estimates",
+    "cohort_years": [
+      2012,
+      2013
+    ],
+    "units": {
+      "subsidy_rate": "percent",
+      "obligations": "thousands of dollars",
+      "average_loan_size": "thousands of dollars"
+    }
+  },
+  "programs": [
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Agricultural Credit Insurance Fund",
+      "program": "Farm Ownership\u2014Unsubsidized",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": -0.01,
+          "obligations_thousands": 1500000,
+          "average_loan_size_thousands": 356
+        },
+        "2013": {
+          "subsidy_rate_percent": -0.07,
+          "obligations_thousands": 1500000,
+          "average_loan_size_thousands": 365
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Agricultural Credit Insurance Fund",
+      "program": "Farm Operating\u2014Unsubsidized",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": 1.74,
+          "obligations_thousands": 1500000,
+          "average_loan_size_thousands": 230
+        },
+        "2013": {
+          "subsidy_rate_percent": 1.19,
+          "obligations_thousands": 1500000,
+          "average_loan_size_thousands": 221
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Agricultural Credit Insurance Fund",
+      "program": "Conservation\u2014Guaranteed",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": -0.01,
+          "obligations_thousands": 150000,
+          "average_loan_size_thousands": 350
+        },
+        "2013": {
+          "subsidy_rate_percent": -0.28,
+          "obligations_thousands": 150000,
+          "average_loan_size_thousands": 275
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Commodity Credit Corporation Export Loans",
+      "program": "GSM 102",
+      "bea_category": "Mandatory",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": -0.69,
+          "obligations_thousands": 5400000,
+          "average_loan_size_thousands": 2081
+        },
+        "2013": {
+          "subsidy_rate_percent": -0.74,
+          "obligations_thousands": 5400000,
+          "average_loan_size_thousands": 1986
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Commodity Credit Corporation Export Loans",
+      "program": "Export Guarantee Program\u2013Facilities",
+      "bea_category": "Mandatory",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": -4.64,
+          "obligations_thousands": 100000,
+          "average_loan_size_thousands": 2000
+        },
+        "2013": {
+          "subsidy_rate_percent": -4.65,
+          "obligations_thousands": 100000,
+          "average_loan_size_thousands": 2000
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": null,
+      "program": "Community Facility Loan Guarantees",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": 4.73,
+          "obligations_thousands": 192802,
+          "average_loan_size_thousands": 2504
+        },
+        "2013": {
+          "subsidy_rate_percent": 6.75,
+          "obligations_thousands": 16000,
+          "average_loan_size_thousands": 2504
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Housing Insurance Fund",
+      "program": "Guaranteed 538 Multi-Family Housing",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": -0.06,
+          "obligations_thousands": 130000,
+          "average_loan_size_thousands": 259
+        },
+        "2013": {
+          "subsidy_rate_percent": -0.04,
+          "obligations_thousands": 150000,
+          "average_loan_size_thousands": 268
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Housing Insurance Fund",
+      "program": "Guaranteed 502 Single Family Housing",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": -0.03,
+          "obligations_thousands": 24000000,
+          "average_loan_size_thousands": 131
+        },
+        "2013": {
+          "subsidy_rate_percent": -0.28,
+          "obligations_thousands": 24000000,
+          "average_loan_size_thousands": 136
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Business Cooperative Service",
+      "program": "Business and Industry Loan Guarantees",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": 5.58,
+          "obligations_thousands": 870949,
+          "average_loan_size_thousands": 2783
+        },
+        "2013": {
+          "subsidy_rate_percent": 6.86,
+          "obligations_thousands": 806851,
+          "average_loan_size_thousands": 2882
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Business Cooperative Service",
+      "program": "Renewable Energy Loan Guarantees",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": 26.19,
+          "obligations_thousands": 143051,
+          "average_loan_size_thousands": 694
+        },
+        "2013": {
+          "subsidy_rate_percent": 24.01,
+          "obligations_thousands": 19054,
+          "average_loan_size_thousands": 706
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Business Cooperative Service",
+      "program": "Section 9003 Loan Guarantees",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": 26.8,
+          "obligations_thousands": 691334,
+          "average_loan_size_thousands": 62849
+        },
+        "2013": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Utilities Service",
+      "account": null,
+      "program": "Water and Waste Disposal Loan Guarantees",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": 1.59,
+          "obligations_thousands": 62893,
+          "average_loan_size_thousands": 3700
+        },
+        "2013": {
+          "subsidy_rate_percent": 1.06,
+          "obligations_thousands": 47000,
+          "average_loan_size_thousands": 3700
+        }
+      }
+    },
+    {
+      "agency": "Department of Commerce",
+      "bureau": null,
+      "account": "Economic Development Administration",
+      "program": "Science Parks Loan Guarantees",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": 15.5,
+          "obligations_thousands": 32000,
+          "average_loan_size_thousands": 6400
+        },
+        "2013": {
+          "subsidy_rate_percent": 18.06,
+          "obligations_thousands": 39000,
+          "average_loan_size_thousands": 13000
+        }
+      }
+    },
+    {
+      "agency": "Department of Commerce",
+      "bureau": null,
+      "account": "Economic Development Administration",
+      "program": "Innovative Manufacturing Loan Guarantees",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": 15.15,
+          "obligations_thousands": 33000,
+          "average_loan_size_thousands": 2200
+        },
+        "2013": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        }
+      }
+    },
+    {
+      "agency": "Department of Energy",
+      "bureau": "Energy Programs",
+      "account": "Title 17 Innovative Technology Loan Guarantee Program",
+      "program": "Section 1703 Loan Guarantees (Self Pay)",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": 0.0,
+          "obligations_thousands": 2200000,
+          "average_loan_size_thousands": 2200000
+        },
+        "2013": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        }
+      }
+    },
+    {
+      "agency": "Department of Health and Human Services",
+      "bureau": "Health Resources and Services Administration",
+      "account": "Health Resources and Services",
+      "program": "Facilities Renovation Loans",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": 2.67,
+          "obligations_thousands": 8000,
+          "average_loan_size_thousands": 2000
+        },
+        "2013": {
+          "subsidy_rate_percent": 2.16,
+          "obligations_thousands": 8000,
+          "average_loan_size_thousands": 2000
+        }
+      }
+    },
+    {
+      "agency": "Department of Health and Human Services",
+      "bureau": "Health Resources and Services Administration",
+      "account": "Health Resources and Services",
+      "program": "Managed Care Network Loans",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": 9.62,
+          "obligations_thousands": 2000,
+          "average_loan_size_thousands": 2000
+        },
+        "2013": {
+          "subsidy_rate_percent": 9.73,
+          "obligations_thousands": 1000,
+          "average_loan_size_thousands": 1000
+        }
+      }
+    },
+    {
+      "agency": "Department of Health and Human Services",
+      "bureau": "Health Resources and Services Administration",
+      "account": "Health Resources and Services",
+      "program": "Managed Care Plan Loans",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": 5.76,
+          "obligations_thousands": 5000,
+          "average_loan_size_thousands": 5000
+        },
+        "2013": {
+          "subsidy_rate_percent": 5.79,
+          "obligations_thousands": 3000,
+          "average_loan_size_thousands": 3000
+        }
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Public and Indian Housing Programs",
+      "account": null,
+      "program": "Title VI Indian Federal Guarantees Program",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": 10.8,
+          "obligations_thousands": 20000,
+          "average_loan_size_thousands": 2000
+        },
+        "2013": {
+          "subsidy_rate_percent": 10.91,
+          "obligations_thousands": 18000,
+          "average_loan_size_thousands": 1800
+        }
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Public and Indian Housing Programs",
+      "account": null,
+      "program": "Indian Housing Loan Guarantee",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": 1.46,
+          "obligations_thousands": 360000,
+          "average_loan_size_thousands": 86
+        },
+        "2013": {
+          "subsidy_rate_percent": 0.83,
+          "obligations_thousands": 900000,
+          "average_loan_size_thousands": 170
+        }
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Public and Indian Housing Programs",
+      "account": null,
+      "program": "Native Hawaiian Housing Loan Guarantees",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": 0.93,
+          "obligations_thousands": 33000,
+          "average_loan_size_thousands": 440
+        },
+        "2013": {
+          "subsidy_rate_percent": 0.5,
+          "obligations_thousands": 38000,
+          "average_loan_size_thousands": 422
+        }
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Community Planning and Development",
+      "account": null,
+      "program": "Community Development Loan Guarantees (Section 108)",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": 2.48,
+          "obligations_thousands": 240000,
+          "average_loan_size_thousands": 6857
+        },
+        "2013": {
+          "subsidy_rate_percent": 0.0,
+          "obligations_thousands": 500000,
+          "average_loan_size_thousands": 7042
+        }
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Housing Programs",
+      "account": "FHA Mutual Mortgage Insurance (MMI) Fund",
+      "program": "MMI Fund",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": -2.28,
+          "obligations_thousands": 160500000,
+          "average_loan_size_thousands": 178
+        },
+        "2013": {
+          "subsidy_rate_percent": -5.38,
+          "obligations_thousands": 149000000,
+          "average_loan_size_thousands": 178
+        }
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Housing Programs",
+      "account": "FHA Mutual Mortgage Insurance (MMI) Fund",
+      "program": "MMI HECM",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": -1.52,
+          "obligations_thousands": 18271000,
+          "average_loan_size_thousands": 244
+        },
+        "2013": {
+          "subsidy_rate_percent": -0.92,
+          "obligations_thousands": 18700000,
+          "average_loan_size_thousands": 249
+        }
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Housing Programs",
+      "account": "FHA Mutual Mortgage Insurance (MMI) Fund",
+      "program": "MMI Refi",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": 0.0,
+          "obligations_thousands": 51062019,
+          "average_loan_size_thousands": 178
+        },
+        "2013": {
+          "subsidy_rate_percent": 0.0,
+          "obligations_thousands": 51862019,
+          "average_loan_size_thousands": 178
+        }
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Housing Programs",
+      "account": "FHA General and Special Risk Insurance Fund",
+      "program": "Multifamily Development",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": -1.09,
+          "obligations_thousands": 2500000,
+          "average_loan_size_thousands": 15662
+        },
+        "2013": {
+          "subsidy_rate_percent": -2.45,
+          "obligations_thousands": 2525000,
+          "average_loan_size_thousands": 15662
+        }
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Housing Programs",
+      "account": "FHA General and Special Risk Insurance Fund",
+      "program": "221(d)(3) Cooperatives ",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": 11.81,
+          "obligations_thousands": 35000,
+          "average_loan_size_thousands": 26316
+        },
+        "2013": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        }
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Housing Programs",
+      "account": "FHA General and Special Risk Insurance Fund",
+      "program": "Tax Credit New Construction",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": -2.3,
+          "obligations_thousands": 1264000,
+          "average_loan_size_thousands": 7053
+        },
+        "2013": {
+          "subsidy_rate_percent": -3.15,
+          "obligations_thousands": 1322000,
+          "average_loan_size_thousands": 7053
+        }
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Housing Programs",
+      "account": "FHA General and Special Risk Insurance Fund",
+      "program": "238(c) Military Impact Area",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": 0.45,
+          "obligations_thousands": 65000,
+          "average_loan_size_thousands": 145
+        },
+        "2013": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        }
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Housing Programs",
+      "account": "FHA General and Special Risk Insurance Fund",
+      "program": "Apartments Refinance",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": -2.17,
+          "obligations_thousands": 6176000,
+          "average_loan_size_thousands": 8626
+        },
+        "2013": {
+          "subsidy_rate_percent": -4.66,
+          "obligations_thousands": 5457000,
+          "average_loan_size_thousands": 8626
+        }
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Housing Programs",
+      "account": "FHA General and Special Risk Insurance Fund",
+      "program": "241 Supplemental Loans ",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": 5.01,
+          "obligations_thousands": 18200,
+          "average_loan_size_thousands": 4550
+        },
+        "2013": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        }
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Housing Programs",
+      "account": "FHA General and Special Risk Insurance Fund",
+      "program": "Multifamily Operating Loss Loans ",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": 20.57,
+          "obligations_thousands": 2000,
+          "average_loan_size_thousands": 2000
+        },
+        "2013": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        }
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Housing Programs",
+      "account": "FHA General and Special Risk Insurance Fund",
+      "program": "Housing Finance Authority Risk Sharing",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": -0.99,
+          "obligations_thousands": 233000,
+          "average_loan_size_thousands": 9708
+        },
+        "2013": {
+          "subsidy_rate_percent": -3.41,
+          "obligations_thousands": 233000,
+          "average_loan_size_thousands": 9708.333333333334
+        }
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Housing Programs",
+      "account": "FHA General and Special Risk Insurance Fund",
+      "program": "GSE Risk Sharing",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": -0.99,
+          "obligations_thousands": 100000,
+          "average_loan_size_thousands": 8584
+        },
+        "2013": {
+          "subsidy_rate_percent": -2.15,
+          "obligations_thousands": 100000,
+          "average_loan_size_thousands": 8584
+        }
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Housing Programs",
+      "account": "FHA General and Special Risk Insurance Fund",
+      "program": "Health Care and Nursing Homes",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": -1.34,
+          "obligations_thousands": 763000,
+          "average_loan_size_thousands": 9529
+        },
+        "2013": {
+          "subsidy_rate_percent": -2.51,
+          "obligations_thousands": 512000,
+          "average_loan_size_thousands": 9259
+        }
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Housing Programs",
+      "account": "FHA General and Special Risk Insurance Fund",
+      "program": "Health Care Refinances",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": -1.96,
+          "obligations_thousands": 6885000,
+          "average_loan_size_thousands": 7826
+        },
+        "2013": {
+          "subsidy_rate_percent": -4.45,
+          "obligations_thousands": 4626000,
+          "average_loan_size_thousands": 7826
+        }
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Housing Programs",
+      "account": "FHA General and Special Risk Insurance Fund",
+      "program": "Hospitals",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": -3.82,
+          "obligations_thousands": 500000,
+          "average_loan_size_thousands": 50251
+        },
+        "2013": {
+          "subsidy_rate_percent": -6.56,
+          "obligations_thousands": 1078000,
+          "average_loan_size_thousands": 50233
+        }
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Housing Programs",
+      "account": "FHA General and Special Risk Insurance Fund",
+      "program": "Other Rental",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": -1.7,
+          "obligations_thousands": 626000,
+          "average_loan_size_thousands": 28716
+        },
+        "2013": {
+          "subsidy_rate_percent": -0.37,
+          "obligations_thousands": 461000,
+          "average_loan_size_thousands": 28705
+        }
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Housing Programs",
+      "account": "FHA General and Special Risk Insurance Fund",
+      "program": "Title 1 Property Improvement",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": -0.67,
+          "obligations_thousands": 90000,
+          "average_loan_size_thousands": 14
+        },
+        "2013": {
+          "subsidy_rate_percent": 0.0,
+          "obligations_thousands": 97000,
+          "average_loan_size_thousands": 14
+        }
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Housing Programs",
+      "account": "FHA General and Special Risk Insurance Fund",
+      "program": "Title 1 Manufactured Housing",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": -2.14,
+          "obligations_thousands": 28000,
+          "average_loan_size_thousands": 47
+        },
+        "2013": {
+          "subsidy_rate_percent": -2.58,
+          "obligations_thousands": 24000,
+          "average_loan_size_thousands": 47
+        }
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Government National Mortgage Association",
+      "account": null,
+      "program": "Guarantees of Mortgage-Backed Securities",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": -0.19,
+          "obligations_thousands": 278000000,
+          "average_loan_size_thousands": 179
+        },
+        "2013": {
+          "subsidy_rate_percent": -0.23,
+          "obligations_thousands": 252000000,
+          "average_loan_size_thousands": 155
+        }
+      }
+    },
+    {
+      "agency": "Department of the Interior",
+      "bureau": "Bureau of Indian Affairs",
+      "account": null,
+      "program": "Indian Guaranteed Loans",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": 8.42,
+          "obligations_thousands": 72366,
+          "average_loan_size_thousands": 3618
+        },
+        "2013": {
+          "subsidy_rate_percent": 5.57,
+          "obligations_thousands": 71723,
+          "average_loan_size_thousands": 3775
+        }
+      }
+    },
+    {
+      "agency": "Department of the Interior",
+      "bureau": "Bureau of Indian Affairs",
+      "account": null,
+      "program": "Indian Insured Loans",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": 5.68,
+          "obligations_thousands": 1000,
+          "average_loan_size_thousands": 71
+        },
+        "2013": {
+          "subsidy_rate_percent": 3,
+          "obligations_thousands": 1000,
+          "average_loan_size_thousands": 71
+        }
+      }
+    },
+    {
+      "agency": "International Assistance Programs",
+      "bureau": "Agency for International Development",
+      "account": null,
+      "program": "Loan Guarantees to Israel",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": 0.0,
+          "obligations_thousands": 3814000,
+          "average_loan_size_thousands": 3814000
+        },
+        "2013": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        }
+      }
+    },
+    {
+      "agency": "International Assistance Programs",
+      "bureau": "Agency for International Development",
+      "account": null,
+      "program": "Loan Guarantees to Tunisia",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": 7.48,
+          "obligations_thousands": 400000,
+          "average_loan_size_thousands": 400000
+        },
+        "2013": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        }
+      }
+    },
+    {
+      "agency": "International Assistance Programs",
+      "bureau": "Agency for International Development",
+      "account": null,
+      "program": "Development Credit Authority (DCA) Loan Guarantees",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": 7.56,
+          "obligations_thousands": 595000,
+          "average_loan_size_thousands": 13523
+        },
+        "2013": {
+          "subsidy_rate_percent": 6.19,
+          "obligations_thousands": 662000,
+          "average_loan_size_thousands": 33100
+        }
+      }
+    },
+    {
+      "agency": "International Assistance Programs",
+      "bureau": "Agency for International Development",
+      "account": null,
+      "program": "Development Credit Authority (DCA) Line of Credit Guarantees 1",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        },
+        "2013": {
+          "subsidy_rate_percent": 9.96,
+          "obligations_thousands": 50000,
+          "average_loan_size_thousands": 50000
+        }
+      }
+    },
+    {
+      "agency": "International Assistance Programs",
+      "bureau": "Overseas Private Investment Corporation",
+      "account": null,
+      "program": "OPIC Loan Guarantees",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": -5.41,
+          "obligations_thousands": 1150000,
+          "average_loan_size_thousands": 28750
+        },
+        "2013": {
+          "subsidy_rate_percent": -5.45,
+          "obligations_thousands": 2000000,
+          "average_loan_size_thousands": 50000
+        }
+      }
+    },
+    {
+      "agency": "International Assistance Programs",
+      "bureau": "Overseas Private Investment Corporation",
+      "account": null,
+      "program": "OPIC Investment Funds",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": -5.99,
+          "obligations_thousands": 900000,
+          "average_loan_size_thousands": 100000
+        },
+        "2013": {
+          "subsidy_rate_percent": -8.44,
+          "obligations_thousands": 900000,
+          "average_loan_size_thousands": 100000
+        }
+      }
+    },
+    {
+      "agency": "Department of Transportation",
+      "bureau": "Office of the Secretary",
+      "account": null,
+      "program": "Minority Business Resource Center Loan Guarantees",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": 1.81,
+          "obligations_thousands": 18367,
+          "average_loan_size_thousands": 510
+        },
+        "2013": {
+          "subsidy_rate_percent": 1.73,
+          "obligations_thousands": 21955,
+          "average_loan_size_thousands": 549
+        }
+      }
+    },
+    {
+      "agency": "Department of Transportation",
+      "bureau": "Office of the Secretary",
+      "account": "Federal Highway Administration",
+      "program": "Transportation Infrastructure, Finance & Innovation (TIFIA) Loan Guarantees",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": 10,
+          "obligations_thousands": 200000,
+          "average_loan_size_thousands": 200000
+        },
+        "2013": {
+          "subsidy_rate_percent": 9.5,
+          "obligations_thousands": 210526,
+          "average_loan_size_thousands": 210526
+        }
+      }
+    },
+    {
+      "agency": "Department of Transportation",
+      "bureau": "Office of the Secretary",
+      "account": "Federal Railroad Administration",
+      "program": "Railroad Rehabilitation and Improvement Financing Guarantees",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": 0.0,
+          "obligations_thousands": 100000,
+          "average_loan_size_thousands": 100000
+        },
+        "2013": {
+          "subsidy_rate_percent": 0.0,
+          "obligations_thousands": 100000,
+          "average_loan_size_thousands": 100000
+        }
+      }
+    },
+    {
+      "agency": "Department of Transportation",
+      "bureau": "Maritime Administration",
+      "account": "Maritime Guaranteed Loans (Title XI Program)",
+      "program": "Risk Category 4",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": 7.26,
+          "obligations_thousands": 370000,
+          "average_loan_size_thousands": 185000
+        },
+        "2013": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        }
+      }
+    },
+    {
+      "agency": "Department of Transportation",
+      "bureau": "Maritime Administration",
+      "account": "National Infrastructure Bank",
+      "program": "Infrastructure Loan Guarantees (Legislative Proposal)",
+      "bea_category": "Mandatory",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        },
+        "2013": {
+          "subsidy_rate_percent": 8.51,
+          "obligations_thousands": 200000,
+          "average_loan_size_thousands": 200000
+        }
+      }
+    },
+    {
+      "agency": "Department of the Treasury",
+      "bureau": "Departmental Offices",
+      "account": "Troubled Asset Relief Program, Housing Programs",
+      "program": "FHA Refi Letter of Credit",
+      "bea_category": "Mandatory",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": 5.34,
+          "obligations_thousands": 51862019,
+          "average_loan_size_thousands": 178
+        },
+        "2013": {
+          "subsidy_rate_percent": 4.76,
+          "obligations_thousands": 51862019,
+          "average_loan_size_thousands": 178
+        }
+      }
+    },
+    {
+      "agency": "Department of Veterans Affairs",
+      "bureau": "Benefits Programs",
+      "account": "Veterans Housing Benefit Program Fund",
+      "program": "Housing Guaranteed Loans",
+      "bea_category": "Mandatory",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": -0.13,
+          "obligations_thousands": 63941043,
+          "average_loan_size_thousands": 210
+        },
+        "2013": {
+          "subsidy_rate_percent": -0.1,
+          "obligations_thousands": 49639723,
+          "average_loan_size_thousands": 217
+        }
+      }
+    },
+    {
+      "agency": "Department of Veterans Affairs",
+      "bureau": "Benefits Programs",
+      "account": "Veterans Housing Benefit Program Fund",
+      "program": "Guaranteed Loan Sale Securities\u2014Vendee",
+      "bea_category": "Mandatory",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": 10.75,
+          "obligations_thousands": 1118522,
+          "average_loan_size_thousands": 109
+        },
+        "2013": {
+          "subsidy_rate_percent": 15.65,
+          "obligations_thousands": 1181207,
+          "average_loan_size_thousands": 111
+        }
+      }
+    },
+    {
+      "agency": "Small Business Administration",
+      "bureau": null,
+      "account": "Business Loans",
+      "program": "7(a) General Business Loan Guarantees",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": 0.87,
+          "obligations_thousands": 14492937,
+          "average_loan_size_thousands": 364
+        },
+        "2013": {
+          "subsidy_rate_percent": 1.55,
+          "obligations_thousands": 13650170,
+          "average_loan_size_thousands": 478
+        }
+      }
+    },
+    {
+      "agency": "Small Business Administration",
+      "bureau": null,
+      "account": "Business Loans",
+      "program": "Section 504 Certified Development Companies Debentures",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": 1.09,
+          "obligations_thousands": 7500000,
+          "average_loan_size_thousands": 693
+        },
+        "2013": {
+          "subsidy_rate_percent": 2.02,
+          "obligations_thousands": 6000000,
+          "average_loan_size_thousands": 599
+        }
+      }
+    },
+    {
+      "agency": "Small Business Administration",
+      "bureau": null,
+      "account": "Business Loans",
+      "program": "SBIC Debentures",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": 0.0,
+          "obligations_thousands": 3000000,
+          "average_loan_size_thousands": 25323
+        },
+        "2013": {
+          "subsidy_rate_percent": 0.0,
+          "obligations_thousands": 3000000,
+          "average_loan_size_thousands": 32852
+        }
+      }
+    },
+    {
+      "agency": "Small Business Administration",
+      "bureau": null,
+      "account": "Business Loans",
+      "program": "Secondary Market Guarantee",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": 0.0,
+          "obligations_thousands": 12000000,
+          "average_loan_size_thousands": 14652
+        },
+        "2013": {
+          "subsidy_rate_percent": 0.0,
+          "obligations_thousands": 12000000,
+          "average_loan_size_thousands": 15132
+        }
+      }
+    },
+    {
+      "agency": "Small Business Administration",
+      "bureau": null,
+      "account": "Business Loans",
+      "program": "Secondary Market 504 First Mortgage Guarantees\u2014ARRA",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": 0.0,
+          "obligations_thousands": 2571428,
+          "average_loan_size_thousands": 17613
+        },
+        "2013": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        }
+      }
+    },
+    {
+      "agency": "Small Business Administration",
+      "bureau": null,
+      "account": "Business Loans",
+      "program": "7(a) Dealer Floor Plan 1",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": 0.02,
+          "obligations_thousands": 15336492,
+          "average_loan_size_thousands": 51293
+        },
+        "2013": {
+          "subsidy_rate_percent": 0.03,
+          "obligations_thousands": 15051562,
+          "average_loan_size_thousands": 23518
+        }
+      }
+    },
+    {
+      "agency": "Small Business Administration",
+      "bureau": null,
+      "account": "Business Loans",
+      "program": "7(a) Revolvers 1",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": 0.12,
+          "obligations_thousands": 32722296,
+          "average_loan_size_thousands": 2345
+        },
+        "2013": {
+          "subsidy_rate_percent": 0.08,
+          "obligations_thousands": 45738073,
+          "average_loan_size_thousands": 4141
+        }
+      }
+    },
+    {
+      "agency": "Small Business Administration",
+      "bureau": null,
+      "account": "Business Loans",
+      "program": "504 Commercial Real Estate (CRE) Refinance Program",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": 0.0,
+          "obligations_thousands": 7500000,
+          "average_loan_size_thousands": 693
+        },
+        "2013": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        }
+      }
+    },
+    {
+      "agency": "Small Business Administration",
+      "bureau": null,
+      "account": "Disaster Loans",
+      "program": "Immediate Disaster Assistance",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": 1.96,
+          "obligations_thousands": 17977,
+          "average_loan_size_thousands": 20
+        },
+        "2013": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        }
+      }
+    },
+    {
+      "agency": "Small Business Administration",
+      "bureau": null,
+      "account": "Disaster Loans",
+      "program": "Expedited Disaster Assistance",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        },
+        "2013": {
+          "subsidy_rate_percent": 2.31,
+          "obligations_thousands": 57907,
+          "average_loan_size_thousands": 72
+        }
+      }
+    },
+    {
+      "agency": "Other Independent Agencies",
+      "bureau": "Export-Import Bank of the United States",
+      "account": null,
+      "program": "Long Term Guarantees",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": -1.68,
+          "obligations_thousands": 21054000,
+          "average_loan_size_thousands": 174000
+        },
+        "2013": {
+          "subsidy_rate_percent": -4.12,
+          "obligations_thousands": 26332000,
+          "average_loan_size_thousands": 170987
+        }
+      }
+    },
+    {
+      "agency": "Other Independent Agencies",
+      "bureau": "Export-Import Bank of the United States",
+      "account": null,
+      "program": "Medium Term Guarantees",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": 4.91,
+          "obligations_thousands": 510000,
+          "average_loan_size_thousands": 4322
+        },
+        "2013": {
+          "subsidy_rate_percent": 3.99,
+          "obligations_thousands": 215000,
+          "average_loan_size_thousands": 4135
+        }
+      }
+    },
+    {
+      "agency": "Other Independent Agencies",
+      "bureau": "Export-Import Bank of the United States",
+      "account": null,
+      "program": "Short Term Insurance",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": 0.12,
+          "obligations_thousands": 9889000,
+          "average_loan_size_thousands": 3139
+        },
+        "2013": {
+          "subsidy_rate_percent": 0.23,
+          "obligations_thousands": 7161000,
+          "average_loan_size_thousands": 3120
+        }
+      }
+    },
+    {
+      "agency": "Other Independent Agencies",
+      "bureau": "Export-Import Bank of the United States",
+      "account": null,
+      "program": "Medium Term Insurance",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": 6.09,
+          "obligations_thousands": 341000,
+          "average_loan_size_thousands": 2172
+        },
+        "2013": {
+          "subsidy_rate_percent": 3.88,
+          "obligations_thousands": 341000,
+          "average_loan_size_thousands": 2067
+        }
+      }
+    },
+    {
+      "agency": "Other Independent Agencies",
+      "bureau": "Export-Import Bank of the United States",
+      "account": null,
+      "program": "Working Capital Fund 1",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2012": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        },
+        "2013": {
+          "subsidy_rate_percent": 0.0,
+          "obligations_thousands": 12000000,
+          "average_loan_size_thousands": 17778
+        }
+      }
+    }
+  ]
+}

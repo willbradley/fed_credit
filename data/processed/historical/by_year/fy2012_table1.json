@@ -1,0 +1,1594 @@
+{
+  "metadata": {
+    "source": "Federal Credit Supplement, Budget of the U.S. Government, FY 2012",
+    "table": "Table 1: Direct Loan Programs - Budget Formulation Estimates",
+    "cohort_years": [
+      2011,
+      2012
+    ],
+    "units": {
+      "subsidy_rate": "percent",
+      "obligations": "thousands of dollars",
+      "average_loan_size": "thousands of dollars"
+    }
+  },
+  "programs": [
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Agricultural Credit Insurance Fund",
+      "program": "Farm Ownership",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": 6.92,
+          "obligations_thousands": 383237,
+          "average_loan_size_thousands": 162
+        },
+        "2012": {
+          "subsidy_rate_percent": 4.8,
+          "obligations_thousands": 475000,
+          "average_loan_size_thousands": 162
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Agricultural Credit Insurance Fund",
+      "program": "Farm Operating",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": 6.06,
+          "obligations_thousands": 783832,
+          "average_loan_size_thousands": 64
+        },
+        "2012": {
+          "subsidy_rate_percent": 5.63,
+          "obligations_thousands": 1050089,
+          "average_loan_size_thousands": 64
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Agricultural Credit Insurance Fund",
+      "program": "Emergency Disaster",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": 10.49,
+          "obligations_thousands": 57197,
+          "average_loan_size_thousands": 105
+        },
+        "2012": {
+          "subsidy_rate_percent": 5.01,
+          "obligations_thousands": 18008,
+          "average_loan_size_thousands": 105
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Agricultural Credit Insurance Fund",
+      "program": "IndianTribe Land Acquisition",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": -6.53,
+          "obligations_thousands": 3940,
+          "average_loan_size_thousands": 985
+        },
+        "2012": {
+          "subsidy_rate_percent": -13.89,
+          "obligations_thousands": 2000,
+          "average_loan_size_thousands": 1000
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Agricultural Credit Insurance Fund",
+      "program": "Boll Weevil Eradication",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": -2.09,
+          "obligations_thousands": 100000,
+          "average_loan_size_thousands": 5000
+        },
+        "2012": {
+          "subsidy_rate_percent": -2.16,
+          "obligations_thousands": 60000,
+          "average_loan_size_thousands": 5000
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Agricultural Credit Insurance Fund",
+      "program": "Indian Highly Fractionated Land",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": 2.14,
+          "obligations_thousands": 37056,
+          "average_loan_size_thousands": 975
+        },
+        "2012": {
+          "subsidy_rate_percent": 1.93,
+          "obligations_thousands": 10000,
+          "average_loan_size_thousands": 1000
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Agricultural Credit Insurance Fund",
+      "program": "Conservation - Direct",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": 2.99,
+          "obligations_thousands": 35619,
+          "average_loan_size_thousands": 152
+        },
+        "2012": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Farm Storage Facility Loans",
+      "program": "Farm Storage Facility Loans",
+      "bea_category": "Mandatory",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": -2.01,
+          "obligations_thousands": 300000,
+          "average_loan_size_thousands": 75
+        },
+        "2012": {
+          "subsidy_rate_percent": -2.3,
+          "obligations_thousands": 300000,
+          "average_loan_size_thousands": 75
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Farm Storage Facility Loans",
+      "program": "Sugar Storage Facility Loans",
+      "bea_category": "Mandatory",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": -0.21,
+          "obligations_thousands": 2500,
+          "average_loan_size_thousands": 833
+        },
+        "2012": {
+          "subsidy_rate_percent": -0.34,
+          "obligations_thousands": 2500,
+          "average_loan_size_thousands": 833
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": null,
+      "program": "Section 514 Farm Labor Housing",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": 38.38,
+          "obligations_thousands": 42686,
+          "average_loan_size_thousands": 521
+        },
+        "2012": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Multifamily Housing Revitalization",
+      "program": "Multi-Family Housing Relending Demo",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": 41.34,
+          "obligations_thousands": 17082,
+          "average_loan_size_thousands": 2135
+        },
+        "2012": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Multifamily Housing Revitalization",
+      "program": "Multi-Family Housing Revitalization Seconds",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": 62.71,
+          "obligations_thousands": 13340,
+          "average_loan_size_thousands": 513
+        },
+        "2012": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Multifamily Housing Revitalization",
+      "program": "Multi-Family Revitalization Zero",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": 45.18,
+          "obligations_thousands": 25874,
+          "average_loan_size_thousands": 424
+        },
+        "2012": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Multifamily Housing Revitalization",
+      "program": "Community Faclilty Loans",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": 1.33,
+          "obligations_thousands": 498492,
+          "average_loan_size_thousands": 2276
+        },
+        "2012": {
+          "subsidy_rate_percent": -3.03,
+          "obligations_thousands": 1000000,
+          "average_loan_size_thousands": 2353
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Housing Insurance Fund",
+      "program": "Section 502 Single-Family Housing",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": 6.26,
+          "obligations_thousands": 650319,
+          "average_loan_size_thousands": 125
+        },
+        "2012": {
+          "subsidy_rate_percent": 4.73,
+          "obligations_thousands": 211416,
+          "average_loan_size_thousands": 129
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Housing Insurance Fund",
+      "program": "Section 515 Multi-Family Housing",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": 33.73,
+          "obligations_thousands": 56308,
+          "average_loan_size_thousands": 605
+        },
+        "2012": {
+          "subsidy_rate_percent": 34.12,
+          "obligations_thousands": 95236,
+          "average_loan_size_thousands": 622
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Housing Insurance Fund",
+      "program": "Section 504 Housing Repair",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": 18.93,
+          "obligations_thousands": 23360,
+          "average_loan_size_thousands": 6
+        },
+        "2012": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Housing Insurance Fund",
+      "program": "Section 514 Farm Labor Housing",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        },
+        "2012": {
+          "subsidy_rate_percent": 34.15,
+          "obligations_thousands": 27288,
+          "average_loan_size_thousands": 535
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Housing Insurance Fund",
+      "program": "Single-Family Housing Credit Sales",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": -11.12,
+          "obligations_thousands": 10000,
+          "average_loan_size_thousands": 45
+        },
+        "2012": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Housing Insurance Fund",
+      "program": "Multi-Family Housing Credit Sales",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": 38.37,
+          "obligations_thousands": 1449,
+          "average_loan_size_thousands": 483
+        },
+        "2012": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Business Cooperative Service",
+      "program": "Rural Microenterprise Direct Loans",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": 21.39,
+          "obligations_thousands": 25406,
+          "average_loan_size_thousands": 1815
+        },
+        "2012": {
+          "subsidy_rate_percent": 15.59,
+          "obligations_thousands": 31315,
+          "average_loan_size_thousands": 1842
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Business Cooperative Service",
+      "program": "Intermediary Relending Program",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": 38.58,
+          "obligations_thousands": 20563,
+          "average_loan_size_thousands": 605
+        },
+        "2012": {
+          "subsidy_rate_percent": 33.88,
+          "obligations_thousands": 36375,
+          "average_loan_size_thousands": 627
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Business Cooperative Service",
+      "program": "Rural Economic Development Loans",
+      "bea_category": "Mandatory",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": 17.91,
+          "obligations_thousands": 56386,
+          "average_loan_size_thousands": 594
+        },
+        "2012": {
+          "subsidy_rate_percent": 12.98,
+          "obligations_thousands": 33077,
+          "average_loan_size_thousands": 613
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Utilities Service",
+      "account": null,
+      "program": "Water and Waste Disposal Loans",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": 8.58,
+          "obligations_thousands": 1002573,
+          "average_loan_size_thousands": 2189
+        },
+        "2012": {
+          "subsidy_rate_percent": 9.58,
+          "obligations_thousands": 770230,
+          "average_loan_size_thousands": 2259
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Utilities Service",
+      "account": "Rural Electrification and Telecommunications Loans",
+      "program": "Electric Hardship Loans",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": -7.38,
+          "obligations_thousands": 100000,
+          "average_loan_size_thousands": 25000
+        },
+        "2012": {
+          "subsidy_rate_percent": -14.4,
+          "obligations_thousands": 100000,
+          "average_loan_size_thousands": 25000
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Utilities Service",
+      "account": "Rural Electrification and Telecommunications Loans",
+      "program": "FFB Electric Loans",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": -4.43,
+          "obligations_thousands": 6500000,
+          "average_loan_size_thousands": 39394
+        },
+        "2012": {
+          "subsidy_rate_percent": -4,
+          "obligations_thousands": 6000000,
+          "average_loan_size_thousands": 40816
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Utilities Service",
+      "account": "Rural Electrification and Telecommunications Loans",
+      "program": "Telecommunication Hardship Loans",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": -7.37,
+          "obligations_thousands": 145000,
+          "average_loan_size_thousands": 14500
+        },
+        "2012": {
+          "subsidy_rate_percent": -13.78,
+          "obligations_thousands": 145000,
+          "average_loan_size_thousands": 16111
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Utilities Service",
+      "account": "Rural Electrification and Telecommunications Loans",
+      "program": "Treasury Telecommunications Loans",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": -0.32,
+          "obligations_thousands": 250000,
+          "average_loan_size_thousands": 13889
+        },
+        "2012": {
+          "subsidy_rate_percent": -1.19,
+          "obligations_thousands": 250000,
+          "average_loan_size_thousands": 14706
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Utilities Service",
+      "account": "Rural Electrification and Telecommunications Loans",
+      "program": "FFB Telecommunications Loans",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": -4.65,
+          "obligations_thousands": 295000,
+          "average_loan_size_thousands": 17353
+        },
+        "2012": {
+          "subsidy_rate_percent": -3.64,
+          "obligations_thousands": 295000,
+          "average_loan_size_thousands": 18438
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Utilities Service",
+      "account": "Distance Learning, Telemedicine, and Broadband Program",
+      "program": "Distance Learning and Telemedicine Loans",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": 1.47,
+          "obligations_thousands": 2039,
+          "average_loan_size_thousands": 1020
+        },
+        "2012": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Utilities Service",
+      "account": "Distance Learning, Telemedicine, and Broadband Program",
+      "program": "Broadband Treasury Rate Loans",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": 5.58,
+          "obligations_thousands": 1222108,
+          "average_loan_size_thousands": 6300
+        },
+        "2012": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        }
+      }
+    },
+    {
+      "agency": "Department of Commerce",
+      "bureau": "National Oceanic and Atmospheric Administration",
+      "account": "Fisheries Finance",
+      "program": "Individual Fishing Quota Loans",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": -15.25,
+          "obligations_thousands": 16000,
+          "average_loan_size_thousands": 320
+        },
+        "2012": {
+          "subsidy_rate_percent": -12.8,
+          "obligations_thousands": 24000,
+          "average_loan_size_thousands": 320
+        }
+      }
+    },
+    {
+      "agency": "Department of Commerce",
+      "bureau": "National Oceanic and Atmospheric Administration",
+      "account": "Fisheries Finance",
+      "program": "Traditional Direct Loans",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": -10.46,
+          "obligations_thousands": 59000,
+          "average_loan_size_thousands": 1903
+        },
+        "2012": {
+          "subsidy_rate_percent": -13.77,
+          "obligations_thousands": 59000,
+          "average_loan_size_thousands": 1903
+        }
+      }
+    },
+    {
+      "agency": "Department of Defense",
+      "bureau": null,
+      "account": "Family Housing",
+      "program": "Family Housing Improvement Fund Direct Loans",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": 16.66,
+          "obligations_thousands": 514000,
+          "average_loan_size_thousands": 171333
+        },
+        "2012": {
+          "subsidy_rate_percent": 6.17,
+          "obligations_thousands": 146000,
+          "average_loan_size_thousands": 146000
+        }
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Office of Postsecondary Education",
+      "account": null,
+      "program": "Historically Black Colleges and Universities",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": 7.24,
+          "obligations_thousands": 178220,
+          "average_loan_size_thousands": 22278
+        },
+        "2012": {
+          "subsidy_rate_percent": 5.5,
+          "obligations_thousands": 367982,
+          "average_loan_size_thousands": 22999
+        }
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Office of Federal Student Aid",
+      "account": "Teacher Education Assistance",
+      "program": "TEACH Grants",
+      "bea_category": "Mandatory",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": 13.31,
+          "obligations_thousands": 162887,
+          "average_loan_size_thousands": 3
+        },
+        "2012": {
+          "subsidy_rate_percent": 13.33,
+          "obligations_thousands": 187601,
+          "average_loan_size_thousands": 3
+        }
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Office of Federal Student Aid",
+      "account": "Teacher Education Assistance",
+      "program": "TEACH Grants (Legislative Proposal)",
+      "bea_category": "Mandatory",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        },
+        "2012": {
+          "subsidy_rate_percent": 16.83,
+          "obligations_thousands": 84069,
+          "average_loan_size_thousands": 3
+        }
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Office of Federal Student Aid",
+      "account": "Ford Direct Loan Program",
+      "program": "Weighted Average of Total Obligations",
+      "bea_category": "Mandatory",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": -14.08,
+          "obligations_thousands": 149798171,
+          "average_loan_size_thousands": 6
+        },
+        "2012": {
+          "subsidy_rate_percent": -15.41,
+          "obligations_thousands": 162332341,
+          "average_loan_size_thousands": 6
+        }
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Office of Federal Student Aid",
+      "account": "Ford Direct Loan Program",
+      "program": "Weighted Average of Total Obligations (Legislative Proposal)",
+      "bea_category": "Mandatory",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        },
+        "2012": {
+          "subsidy_rate_percent": -16.77,
+          "obligations_thousands": 162332341,
+          "average_loan_size_thousands": 6
+        }
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Office of Federal Student Aid",
+      "account": "Ford Direct Loan Program",
+      "program": "Stafford",
+      "bea_category": "Mandatory",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": 5.25,
+          "obligations_thousands": 49630753,
+          "average_loan_size_thousands": 4
+        },
+        "2012": {
+          "subsidy_rate_percent": 2.02,
+          "obligations_thousands": 51847026,
+          "average_loan_size_thousands": 4
+        }
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Office of Federal Student Aid",
+      "account": "Ford Direct Loan Program",
+      "program": "Stafford",
+      "bea_category": "Mandatory",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        },
+        "2012": {
+          "subsidy_rate_percent": 3.2,
+          "obligations_thousands": 43147614,
+          "average_loan_size_thousands": 4
+        }
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Office of Federal Student Aid",
+      "account": "Ford Direct Loan Program",
+      "program": "Unsubsidized Stafford",
+      "bea_category": "Mandatory",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": -25.89,
+          "obligations_thousands": 60470561,
+          "average_loan_size_thousands": 5
+        },
+        "2012": {
+          "subsidy_rate_percent": -25.77,
+          "obligations_thousands": 65971087,
+          "average_loan_size_thousands": 5
+        }
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Office of Federal Student Aid",
+      "account": "Ford Direct Loan Program",
+      "program": "Unsubsidized Stafford (Legislative Proposal)",
+      "bea_category": "Mandatory",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        },
+        "2012": {
+          "subsidy_rate_percent": -26.18,
+          "obligations_thousands": 74670498,
+          "average_loan_size_thousands": 5
+        }
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Office of Federal Student Aid",
+      "account": "Ford Direct Loan Program",
+      "program": "PLUS",
+      "bea_category": "Mandatory",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": -30.32,
+          "obligations_thousands": 20079784,
+          "average_loan_size_thousands": 12
+        },
+        "2012": {
+          "subsidy_rate_percent": -30.2,
+          "obligations_thousands": 21704370,
+          "average_loan_size_thousands": 13
+        }
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Office of Federal Student Aid",
+      "account": "Ford Direct Loan Program",
+      "program": "PLUS (Legislative Proposal)",
+      "bea_category": "Mandatory",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        },
+        "2012": {
+          "subsidy_rate_percent": -30.2,
+          "obligations_thousands": 21704370,
+          "average_loan_size_thousands": 13
+        }
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Office of Federal Student Aid",
+      "account": "Ford Direct Loan Program",
+      "program": "Consolidation",
+      "bea_category": "Mandatory",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": -9.97,
+          "obligations_thousands": 19617073,
+          "average_loan_size_thousands": 36
+        },
+        "2012": {
+          "subsidy_rate_percent": -10.96,
+          "obligations_thousands": 22809858,
+          "average_loan_size_thousands": 37
+        }
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Office of Federal Student Aid",
+      "account": "Ford Direct Loan Program",
+      "program": "Consolidation (Legislative Proposal)",
+      "bea_category": "Mandatory",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        },
+        "2012": {
+          "subsidy_rate_percent": -10.96,
+          "obligations_thousands": 22809858,
+          "average_loan_size_thousands": 37
+        }
+      }
+    },
+    {
+      "agency": "Weighted Average of Total Obligations \u2014 Student Loan Acquisition",
+      "bureau": null,
+      "account": null,
+      "program": "(Legislative Proposal)",
+      "bea_category": "Mandatory",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        },
+        "2012": {
+          "subsidy_rate_percent": -4.36,
+          "obligations_thousands": 38985470,
+          "average_loan_size_thousands": 8
+        }
+      }
+    },
+    {
+      "agency": "Weighted Average of Total Obligations \u2014 Student Loan Acquisition",
+      "bureau": null,
+      "account": null,
+      "program": "Student Loan Acquisition \u2014 Stafford (Legislative Proposal)",
+      "bea_category": "Mandatory",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        },
+        "2012": {
+          "subsidy_rate_percent": 11.2,
+          "obligations_thousands": 12714413,
+          "average_loan_size_thousands": 3
+        }
+      }
+    },
+    {
+      "agency": "Weighted Average of Total Obligations \u2014 Student Loan Acquisition",
+      "bureau": null,
+      "account": null,
+      "program": "Student Loan Acquisition \u2014 Unsubsidized Stafford (Legislative Proposal)",
+      "bea_category": "Mandatory",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        },
+        "2012": {
+          "subsidy_rate_percent": -15.66,
+          "obligations_thousands": 14141274,
+          "average_loan_size_thousands": 5
+        }
+      }
+    },
+    {
+      "agency": "Weighted Average of Total Obligations \u2014 Student Loan Acquisition",
+      "bureau": null,
+      "account": null,
+      "program": "Student Loan Acquisition \u2014 PLUS (Legislative Proposal)",
+      "bea_category": "Mandatory",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        },
+        "2012": {
+          "subsidy_rate_percent": -21.08,
+          "obligations_thousands": 2625677,
+          "average_loan_size_thousands": 13
+        }
+      }
+    },
+    {
+      "agency": "Weighted Average of Total Obligations \u2014 Student Loan Acquisition",
+      "bureau": null,
+      "account": null,
+      "program": "Student Loan Acquisition \u2014 Consolidation (Legislative Proposal)",
+      "bea_category": "Mandatory",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        },
+        "2012": {
+          "subsidy_rate_percent": -3.75,
+          "obligations_thousands": 9504106,
+          "average_loan_size_thousands": 17
+        }
+      }
+    },
+    {
+      "agency": "Weighted Average of Total Obligations \u2014 Student Loan Acquisition",
+      "bureau": null,
+      "account": null,
+      "program": "Federal Perkins Loans (Legislative Proposal)",
+      "bea_category": "Mandatory",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        },
+        "2012": {
+          "subsidy_rate_percent": -26.25,
+          "obligations_thousands": 4726850,
+          "average_loan_size_thousands": 2
+        }
+      }
+    },
+    {
+      "agency": "Department of Energy",
+      "bureau": "Energy Programs",
+      "account": null,
+      "program": "Advanced Technology Vehicles Manufacturing Loans",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": 26.01,
+          "obligations_thousands": 16244793,
+          "average_loan_size_thousands": 1160342
+        },
+        "2012": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        }
+      }
+    },
+    {
+      "agency": "Department of Energy",
+      "bureau": "Energy Programs",
+      "account": "Title 17 Innovative Technology Program",
+      "program": "Section 1703 FFB Loans (Self Pay)",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": 0,
+          "obligations_thousands": 11300000,
+          "average_loan_size_thousands": 1614286
+        },
+        "2012": {
+          "subsidy_rate_percent": 0,
+          "obligations_thousands": 24000000,
+          "average_loan_size_thousands": 1600000
+        }
+      }
+    },
+    {
+      "agency": "Department of Energy",
+      "bureau": "Energy Programs",
+      "account": "Title 17 Innovative Technology Program",
+      "program": "Section 1705 FFB Loans",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": 14.64,
+          "obligations_thousands": 14645108,
+          "average_loan_size_thousands": 418432
+        },
+        "2012": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        }
+      }
+    },
+    {
+      "agency": "Department of Energy",
+      "bureau": "Energy Programs",
+      "account": "Title 17 Innovative Technology Program",
+      "program": "Section 1703 FFB Loans (EERE)",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        },
+        "2012": {
+          "subsidy_rate_percent": 15.7,
+          "obligations_thousands": 1273000,
+          "average_loan_size_thousands": 127300
+        }
+      }
+    },
+    {
+      "agency": "Department of Health and Human Services",
+      "bureau": null,
+      "account": "Consumer Operated and Oriented Plan",
+      "program": "Startup Loans",
+      "bea_category": "Mandatory",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        },
+        "2012": {
+          "subsidy_rate_percent": 60,
+          "obligations_thousands": 208000,
+          "average_loan_size_thousands": 4078
+        }
+      }
+    },
+    {
+      "agency": "Department of Health and Human Services",
+      "bureau": null,
+      "account": "Consumer Operated and Oriented Plan",
+      "program": "Solvency Grants",
+      "bea_category": "Mandatory",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        },
+        "2012": {
+          "subsidy_rate_percent": 65,
+          "obligations_thousands": 382200,
+          "average_loan_size_thousands": 7494
+        }
+      }
+    },
+    {
+      "agency": "Department of Health and Human Services",
+      "bureau": null,
+      "account": "Consumer Operated and Oriented Plan",
+      "program": "Planning Grants",
+      "bea_category": "Mandatory",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        },
+        "2012": {
+          "subsidy_rate_percent": 100,
+          "obligations_thousands": 2500,
+          "average_loan_size_thousands": 49
+        }
+      }
+    },
+    {
+      "agency": "Department of Homeland Security",
+      "bureau": "Federal Emergency Management Agency",
+      "account": null,
+      "program": "Disaster Assistance Direct Loans",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": -1.22,
+          "obligations_thousands": 25,
+          "average_loan_size_thousands": 8
+        },
+        "2012": {
+          "subsidy_rate_percent": -1.17,
+          "obligations_thousands": 25,
+          "average_loan_size_thousands": 8
+        }
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Housing Programs",
+      "account": null,
+      "program": "Emergency Homeowners' Relief Fund",
+      "bea_category": "Mandatory",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": 97.72,
+          "obligations_thousands": 740000,
+          "average_loan_size_thousands": 24511
+        },
+        "2012": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        }
+      }
+    },
+    {
+      "agency": "Department of State",
+      "bureau": "Administration of Foreign Affairs",
+      "account": null,
+      "program": "Repatriation Loans",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": 58.57,
+          "obligations_thousands": 1261,
+          "average_loan_size_thousands": 1
+        },
+        "2012": {
+          "subsidy_rate_percent": 57.85,
+          "obligations_thousands": 1000,
+          "average_loan_size_thousands": 1
+        }
+      }
+    },
+    {
+      "agency": "International Assistance Programs",
+      "bureau": "Overseas Private Investment Corporation",
+      "account": null,
+      "program": "OPIC Direct Loans",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": -2.51,
+          "obligations_thousands": 950000,
+          "average_loan_size_thousands": 23750
+        },
+        "2012": {
+          "subsidy_rate_percent": -2.37,
+          "obligations_thousands": 1050000,
+          "average_loan_size_thousands": 21000
+        }
+      }
+    },
+    {
+      "agency": "International Monetary Programs: 2",
+      "bureau": null,
+      "account": null,
+      "program": "Quota",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": 2.34,
+          "obligations_thousands": 7879252,
+          "average_loan_size_thousands": 7879252
+        },
+        "2012": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        }
+      }
+    },
+    {
+      "agency": "International Monetary Programs: 2",
+      "bureau": null,
+      "account": null,
+      "program": "NAB",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": 0.34,
+          "obligations_thousands": 100000000,
+          "average_loan_size_thousands": 100000000
+        },
+        "2012": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        }
+      }
+    },
+    {
+      "agency": "Department of Transportation",
+      "bureau": null,
+      "account": "National Infrastructure Bank",
+      "program": "NIB Direct Loans (Legislative Proposal)",
+      "bea_category": "Mandatory",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        },
+        "2012": {
+          "subsidy_rate_percent": 20,
+          "obligations_thousands": 1000000,
+          "average_loan_size_thousands": 500000
+        }
+      }
+    },
+    {
+      "agency": "Department of Transportation",
+      "bureau": null,
+      "account": "Federal-aid Highways",
+      "program": "Transportation Infrastructure, Finance & Innovation (TIFIA) Lines of Credit",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": 10,
+          "obligations_thousands": 200000,
+          "average_loan_size_thousands": 200000
+        },
+        "2012": {
+          "subsidy_rate_percent": 10,
+          "obligations_thousands": 200000,
+          "average_loan_size_thousands": 200000
+        }
+      }
+    },
+    {
+      "agency": "Department of Transportation",
+      "bureau": null,
+      "account": "Federal-aid Highways",
+      "program": "TIFIA Direct Loans",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": 6.09,
+          "obligations_thousands": 1313629,
+          "average_loan_size_thousands": 328407
+        },
+        "2012": {
+          "subsidy_rate_percent": 9.51,
+          "obligations_thousands": 4258675,
+          "average_loan_size_thousands": 473186
+        }
+      }
+    },
+    {
+      "agency": "Department of Transportation",
+      "bureau": null,
+      "account": "Highway Infrastructure Investment, Recovery Act",
+      "program": "TIGER TIFIA Direct Loans",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": 4.42,
+          "obligations_thousands": 610360,
+          "average_loan_size_thousands": 305180
+        },
+        "2012": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        }
+      }
+    },
+    {
+      "agency": "Department of Transportation",
+      "bureau": null,
+      "account": "National Infrastructure Investments",
+      "program": "TIGER TIFIA Direct Loans",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        },
+        "2012": {
+          "subsidy_rate_percent": 3.21,
+          "obligations_thousands": 591900,
+          "average_loan_size_thousands": 591900
+        }
+      }
+    },
+    {
+      "agency": "Department of Transportation",
+      "bureau": null,
+      "account": "Federal Railroad Administration",
+      "program": "Railroad Rehabilitation and Improvement Financing Direct Loans",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": 0,
+          "obligations_thousands": 600000,
+          "average_loan_size_thousands": 200000
+        },
+        "2012": {
+          "subsidy_rate_percent": 0,
+          "obligations_thousands": 600000,
+          "average_loan_size_thousands": 200000
+        }
+      }
+    },
+    {
+      "agency": "Department of the Treasury",
+      "bureau": "Departmental Offices",
+      "account": null,
+      "program": "Community Development Financial Institutions Fund",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        },
+        "2012": {
+          "subsidy_rate_percent": 40.26,
+          "obligations_thousands": 10000,
+          "average_loan_size_thousands": 1000
+        }
+      }
+    },
+    {
+      "agency": "Department of the Treasury",
+      "bureau": "Departmental Offices",
+      "account": null,
+      "program": "Small Business Lending Fund Investments 2",
+      "bea_category": "Mandatory",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": 7.24,
+          "obligations_thousands": 17399000,
+          "average_loan_size_thousands": 12142
+        },
+        "2012": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        }
+      }
+    },
+    {
+      "agency": "Department of Veterans Affairs",
+      "bureau": "Benefits Programs",
+      "account": "Veterans Housing Benefit Program Fund",
+      "program": "Acquired Direct Loans",
+      "bea_category": "Mandatory",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": -0.13,
+          "obligations_thousands": 100764,
+          "average_loan_size_thousands": 202
+        },
+        "2012": {
+          "subsidy_rate_percent": 4.09,
+          "obligations_thousands": 122068,
+          "average_loan_size_thousands": 207
+        }
+      }
+    },
+    {
+      "agency": "Department of Veterans Affairs",
+      "bureau": "Benefits Programs",
+      "account": "Veterans Housing Benefit Program Fund",
+      "program": "Vendee Direct Loans",
+      "bea_category": "Mandatory",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": -2.42,
+          "obligations_thousands": 980836,
+          "average_loan_size_thousands": 215
+        },
+        "2012": {
+          "subsidy_rate_percent": -2.12,
+          "obligations_thousands": 1113710,
+          "average_loan_size_thousands": 218
+        }
+      }
+    },
+    {
+      "agency": "Department of Veterans Affairs",
+      "bureau": "Benefits Programs",
+      "account": "Native American Veteran Housing Loan",
+      "program": "Native American Direct Loans",
+      "bea_category": "Mandatory",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": -13.65,
+          "obligations_thousands": 21713,
+          "average_loan_size_thousands": 148
+        },
+        "2012": {
+          "subsidy_rate_percent": -11.97,
+          "obligations_thousands": 8987,
+          "average_loan_size_thousands": 150
+        }
+      }
+    },
+    {
+      "agency": "Department of Veterans Affairs",
+      "bureau": "Benefits Programs",
+      "account": "Native American Veteran Housing Loan",
+      "program": "Vocational Rehabilitation",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": 1.57,
+          "obligations_thousands": 1847,
+          "average_loan_size_thousands": 1
+        },
+        "2012": {
+          "subsidy_rate_percent": 0.63,
+          "obligations_thousands": 3019,
+          "average_loan_size_thousands": 1
+        }
+      }
+    },
+    {
+      "agency": "Small Business Administration",
+      "bureau": null,
+      "account": "Business Loans",
+      "program": "7(m) Direct Microloans",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": 15.06,
+          "obligations_thousands": 25000,
+          "average_loan_size_thousands": 543
+        },
+        "2012": {
+          "subsidy_rate_percent": 14.71,
+          "obligations_thousands": 25000,
+          "average_loan_size_thousands": 543
+        }
+      }
+    },
+    {
+      "agency": "Small Business Administration",
+      "bureau": null,
+      "account": "Business Loans",
+      "program": "Section 509 Secondary Market 7(a) Broker/Dealer Loans\u2014ARRA 3",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": -0.19,
+          "obligations_thousands": 666625,
+          "average_loan_size_thousands": 11695
+        },
+        "2012": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        }
+      }
+    },
+    {
+      "agency": "Small Business Administration",
+      "bureau": null,
+      "account": "Business Loans",
+      "program": "Intermediary Lending Program",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": 30.58,
+          "obligations_thousands": 20000,
+          "average_loan_size_thousands": 1000
+        },
+        "2012": {
+          "subsidy_rate_percent": 25.73,
+          "obligations_thousands": 20000,
+          "average_loan_size_thousands": 1000
+        }
+      }
+    },
+    {
+      "agency": "Small Business Administration",
+      "bureau": null,
+      "account": "Disaster Loans",
+      "program": "Disaster Assistance Loans",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": 13.53,
+          "obligations_thousands": 1100000,
+          "average_loan_size_thousands": 39
+        },
+        "2012": {
+          "subsidy_rate_percent": 11.28,
+          "obligations_thousands": 1100000,
+          "average_loan_size_thousands": 40
+        }
+      }
+    },
+    {
+      "agency": "Other Independent Agencies",
+      "bureau": "Export-Import Bank of the United States",
+      "account": null,
+      "program": "Direct Loans",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2011": {
+          "subsidy_rate_percent": 33.35,
+          "obligations_thousands": 25000,
+          "average_loan_size_thousands": 25000
+        },
+        "2012": {
+          "subsidy_rate_percent": 32.99,
+          "obligations_thousands": 25000,
+          "average_loan_size_thousands": 25000
+        }
+      }
+    }
+  ]
+}

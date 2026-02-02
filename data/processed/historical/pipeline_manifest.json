@@ -1,0 +1,191 @@
+{
+  "run_date": "2026-02-01 17:24:00",
+  "elapsed_seconds": 3.0,
+  "year_range": [
+    2010,
+    2026
+  ],
+  "tables": [
+    7,
+    8
+  ],
+  "summary": {
+    "success": 34,
+    "failed": 0,
+    "skipped": 0
+  },
+  "success": [
+    {
+      "year": 2010,
+      "table": 7,
+      "programs": 90
+    },
+    {
+      "year": 2010,
+      "table": 8,
+      "programs": 55
+    },
+    {
+      "year": 2011,
+      "table": 7,
+      "programs": 101
+    },
+    {
+      "year": 2011,
+      "table": 8,
+      "programs": 55
+    },
+    {
+      "year": 2012,
+      "table": 7,
+      "programs": 78
+    },
+    {
+      "year": 2012,
+      "table": 8,
+      "programs": 30
+    },
+    {
+      "year": 2013,
+      "table": 7,
+      "programs": 114
+    },
+    {
+      "year": 2013,
+      "table": 8,
+      "programs": 72
+    },
+    {
+      "year": 2014,
+      "table": 7,
+      "programs": 106
+    },
+    {
+      "year": 2014,
+      "table": 8,
+      "programs": 72
+    },
+    {
+      "year": 2015,
+      "table": 7,
+      "programs": 109
+    },
+    {
+      "year": 2015,
+      "table": 8,
+      "programs": 68
+    },
+    {
+      "year": 2016,
+      "table": 7,
+      "programs": 107
+    },
+    {
+      "year": 2016,
+      "table": 8,
+      "programs": 69
+    },
+    {
+      "year": 2017,
+      "table": 7,
+      "programs": 112
+    },
+    {
+      "year": 2017,
+      "table": 8,
+      "programs": 70
+    },
+    {
+      "year": 2018,
+      "table": 7,
+      "programs": 113
+    },
+    {
+      "year": 2018,
+      "table": 8,
+      "programs": 71
+    },
+    {
+      "year": 2019,
+      "table": 7,
+      "programs": 112
+    },
+    {
+      "year": 2019,
+      "table": 8,
+      "programs": 74
+    },
+    {
+      "year": 2020,
+      "table": 7,
+      "programs": 115
+    },
+    {
+      "year": 2020,
+      "table": 8,
+      "programs": 85
+    },
+    {
+      "year": 2021,
+      "table": 7,
+      "programs": 115
+    },
+    {
+      "year": 2021,
+      "table": 8,
+      "programs": 86
+    },
+    {
+      "year": 2022,
+      "table": 7,
+      "programs": 120
+    },
+    {
+      "year": 2022,
+      "table": 8,
+      "programs": 87
+    },
+    {
+      "year": 2023,
+      "table": 7,
+      "programs": 125
+    },
+    {
+      "year": 2023,
+      "table": 8,
+      "programs": 91
+    },
+    {
+      "year": 2024,
+      "table": 7,
+      "programs": 127
+    },
+    {
+      "year": 2024,
+      "table": 8,
+      "programs": 93
+    },
+    {
+      "year": 2025,
+      "table": 7,
+      "programs": 130
+    },
+    {
+      "year": 2025,
+      "table": 8,
+      "programs": 92
+    },
+    {
+      "year": 2026,
+      "table": 7,
+      "programs": 129
+    },
+    {
+      "year": 2026,
+      "table": 8,
+      "programs": 93
+    }
+  ],
+  "failed": [],
+  "skipped": []
+}

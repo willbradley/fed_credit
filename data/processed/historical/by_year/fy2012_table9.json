@@ -1,0 +1,1180 @@
+{
+  "metadata": {
+    "source": "Federal Credit Supplement, Budget of the U.S. Government",
+    "table": "Table 9: Direct Loan Programs - Disbursement Schedules",
+    "description": "Percentage of total disbursements made in each year after origination",
+    "units": "percent"
+  },
+  "programs": [
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Agricultural Credit Insurance Fund",
+      "program": "Farm Ownership",
+      "disbursement_schedule_percent": {
+        "year_1": 81,
+        "year_2": 18,
+        "year_3": 1,
+        "year_4": "\u2026\u2026",
+        "year_5": "\u2026\u2026",
+        "year_6": "\u2026\u2026",
+        "year_7": "\u2026\u2026",
+        "year_8": "\u2026\u2026",
+        "year_9": "\u2026\u2026",
+        "year_10_plus": "\u2026\u2026"
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Agricultural Credit Insurance Fund",
+      "program": "Farm Operating",
+      "disbursement_schedule_percent": {
+        "year_1": 90,
+        "year_2": 7,
+        "year_3": 3,
+        "year_4": "\u2026\u2026",
+        "year_5": "\u2026\u2026",
+        "year_6": "\u2026\u2026",
+        "year_7": "\u2026\u2026",
+        "year_8": "\u2026\u2026",
+        "year_9": "\u2026\u2026",
+        "year_10_plus": "\u2026\u2026"
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Agricultural Credit Insurance Fund",
+      "program": "Emergency Disaster",
+      "disbursement_schedule_percent": {
+        "year_1": 91,
+        "year_2": 6,
+        "year_3": 3,
+        "year_4": "\u2026\u2026",
+        "year_5": "\u2026\u2026",
+        "year_6": "\u2026\u2026",
+        "year_7": "\u2026\u2026",
+        "year_8": "\u2026\u2026",
+        "year_9": "\u2026\u2026",
+        "year_10_plus": "\u2026\u2026"
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Agricultural Credit Insurance Fund",
+      "program": "IndianTribe Land Acquisition",
+      "disbursement_schedule_percent": {
+        "year_1": 100,
+        "year_2": "\u2026\u2026",
+        "year_3": "\u2026\u2026",
+        "year_4": "\u2026\u2026",
+        "year_5": "\u2026\u2026",
+        "year_6": "\u2026\u2026",
+        "year_7": "\u2026\u2026",
+        "year_8": "\u2026\u2026",
+        "year_9": "\u2026\u2026",
+        "year_10_plus": "\u2026\u2026"
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Agricultural Credit Insurance Fund",
+      "program": "Boll Weevil Eradication",
+      "disbursement_schedule_percent": {
+        "year_1": 100,
+        "year_2": "\u2026\u2026",
+        "year_3": "\u2026\u2026",
+        "year_4": "\u2026\u2026",
+        "year_5": "\u2026\u2026",
+        "year_6": "\u2026\u2026",
+        "year_7": "\u2026\u2026",
+        "year_8": "\u2026\u2026",
+        "year_9": "\u2026\u2026",
+        "year_10_plus": "\u2026\u2026"
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Agricultural Credit Insurance Fund",
+      "program": "Indian Highly Fractionated Land",
+      "disbursement_schedule_percent": {
+        "year_1": 81,
+        "year_2": 18,
+        "year_3": 1,
+        "year_4": "\u2026\u2026",
+        "year_5": "\u2026\u2026",
+        "year_6": "\u2026\u2026",
+        "year_7": "\u2026\u2026",
+        "year_8": "\u2026\u2026",
+        "year_9": "\u2026\u2026",
+        "year_10_plus": "\u2026\u2026"
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Agricultural Credit Insurance Fund",
+      "program": "Conservation\u2014Direct",
+      "disbursement_schedule_percent": {
+        "year_1": 81,
+        "year_2": 18,
+        "year_3": 1,
+        "year_4": "\u2026\u2026",
+        "year_5": "\u2026\u2026",
+        "year_6": "\u2026\u2026",
+        "year_7": "\u2026\u2026",
+        "year_8": "\u2026\u2026",
+        "year_9": "\u2026\u2026",
+        "year_10_plus": "\u2026\u2026"
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Farm Storage Facility Loans",
+      "program": "Farm Storage Facility Loans",
+      "disbursement_schedule_percent": {
+        "year_1": 40,
+        "year_2": 60,
+        "year_3": "\u2026\u2026",
+        "year_4": "\u2026\u2026",
+        "year_5": "\u2026\u2026",
+        "year_6": "\u2026\u2026",
+        "year_7": "\u2026\u2026",
+        "year_8": "\u2026\u2026",
+        "year_9": "\u2026\u2026",
+        "year_10_plus": "\u2026\u2026"
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Farm Storage Facility Loans",
+      "program": "Sugar Storage Facility Loans",
+      "disbursement_schedule_percent": {
+        "year_1": 40,
+        "year_2": 60,
+        "year_3": "\u2026\u2026",
+        "year_4": "\u2026\u2026",
+        "year_5": "\u2026\u2026",
+        "year_6": "\u2026\u2026",
+        "year_7": "\u2026\u2026",
+        "year_8": "\u2026\u2026",
+        "year_9": "\u2026\u2026",
+        "year_10_plus": "\u2026\u2026"
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": null,
+      "program": "Community Facility Loans",
+      "disbursement_schedule_percent": {
+        "year_1": 11,
+        "year_2": 30,
+        "year_3": 30,
+        "year_4": 14,
+        "year_5": 7,
+        "year_6": 2,
+        "year_7": 1,
+        "year_8": 1,
+        "year_9": 1,
+        "year_10_plus": 3
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Housing Insurance Fund",
+      "program": "Section 502 Single-Family Housing",
+      "disbursement_schedule_percent": {
+        "year_1": 79,
+        "year_2": 20,
+        "year_3": 1,
+        "year_4": "\u2026\u2026",
+        "year_5": "\u2026\u2026",
+        "year_6": "\u2026\u2026",
+        "year_7": "\u2026\u2026",
+        "year_8": "\u2026\u2026",
+        "year_9": "\u2026\u2026",
+        "year_10_plus": "\u2026\u2026"
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Housing Insurance Fund",
+      "program": "Section 515 Multi-Family Housing",
+      "disbursement_schedule_percent": {
+        "year_1": 16,
+        "year_2": 41,
+        "year_3": 30,
+        "year_4": 13,
+        "year_5": "\u2026\u2026",
+        "year_6": "\u2026\u2026",
+        "year_7": "\u2026\u2026",
+        "year_8": "\u2026\u2026",
+        "year_9": "\u2026\u2026",
+        "year_10_plus": "\u2026\u2026"
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Housing Insurance Fund",
+      "program": "Section 514 Farm Labor Housing",
+      "disbursement_schedule_percent": {
+        "year_1": 26,
+        "year_2": 27,
+        "year_3": 23,
+        "year_4": 24,
+        "year_5": "\u2026\u2026",
+        "year_6": "\u2026\u2026",
+        "year_7": "\u2026\u2026",
+        "year_8": "\u2026\u2026",
+        "year_9": "\u2026\u2026",
+        "year_10_plus": "\u2026\u2026"
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Business\u2014Cooperative Service",
+      "account": null,
+      "program": "Rural Microenterprise Loans",
+      "disbursement_schedule_percent": {
+        "year_1": 100,
+        "year_2": "\u2026\u2026",
+        "year_3": "\u2026\u2026",
+        "year_4": "\u2026\u2026",
+        "year_5": "\u2026\u2026",
+        "year_6": "\u2026\u2026",
+        "year_7": "\u2026\u2026",
+        "year_8": "\u2026\u2026",
+        "year_9": "\u2026\u2026",
+        "year_10_plus": "\u2026\u2026"
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Business\u2014Cooperative Service",
+      "account": null,
+      "program": "Intermediary Relending Program",
+      "disbursement_schedule_percent": {
+        "year_1": 6,
+        "year_2": 29,
+        "year_3": 23,
+        "year_4": 17,
+        "year_5": 11,
+        "year_6": 5,
+        "year_7": 3,
+        "year_8": 2,
+        "year_9": 2,
+        "year_10_plus": 2
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Business\u2014Cooperative Service",
+      "account": null,
+      "program": "Rural Economic Development Loans",
+      "disbursement_schedule_percent": {
+        "year_1": 22,
+        "year_2": 55,
+        "year_3": 13,
+        "year_4": 3,
+        "year_5": 3,
+        "year_6": 3,
+        "year_7": 1,
+        "year_8": "\u2026\u2026",
+        "year_9": "\u2026\u2026",
+        "year_10_plus": "\u2026\u2026"
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Utilities Service",
+      "account": null,
+      "program": "Water and Waste Disposal Loans",
+      "disbursement_schedule_percent": {
+        "year_1": 4,
+        "year_2": 21,
+        "year_3": 27,
+        "year_4": 19,
+        "year_5": 10,
+        "year_6": 5,
+        "year_7": 3,
+        "year_8": 2,
+        "year_9": 3,
+        "year_10_plus": 6
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Utilities Service",
+      "account": "Rural Electrification and Telecommunications Loans",
+      "program": "Electric Hardship Loans",
+      "disbursement_schedule_percent": {
+        "year_1": 10,
+        "year_2": 31,
+        "year_3": 22,
+        "year_4": 18,
+        "year_5": 11,
+        "year_6": 5,
+        "year_7": 3,
+        "year_8": "\u2026\u2026",
+        "year_9": "\u2026\u2026",
+        "year_10_plus": "\u2026\u2026"
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Utilities Service",
+      "account": "Rural Electrification and Telecommunications Loans",
+      "program": "FFB Electric Loans",
+      "disbursement_schedule_percent": {
+        "year_1": 15,
+        "year_2": 21,
+        "year_3": 18,
+        "year_4": 13,
+        "year_5": 15,
+        "year_6": 10,
+        "year_7": 8,
+        "year_8": "\u2026\u2026",
+        "year_9": "\u2026\u2026",
+        "year_10_plus": "\u2026\u2026"
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Utilities Service",
+      "account": "Rural Electrification and Telecommunications Loans",
+      "program": "Telecommunication Hardship Loans",
+      "disbursement_schedule_percent": {
+        "year_1": 2,
+        "year_2": 18,
+        "year_3": 16,
+        "year_4": 13,
+        "year_5": 13,
+        "year_6": 13,
+        "year_7": 9,
+        "year_8": 9,
+        "year_9": 5,
+        "year_10_plus": 2
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Utilities Service",
+      "account": "Rural Electrification and Telecommunications Loans",
+      "program": "Treasury Telecommunications Loans",
+      "disbursement_schedule_percent": {
+        "year_1": 2,
+        "year_2": 21,
+        "year_3": 16,
+        "year_4": 14,
+        "year_5": 11,
+        "year_6": 11,
+        "year_7": 10,
+        "year_8": 10,
+        "year_9": 5,
+        "year_10_plus": "\u2026\u2026"
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Utilities Service",
+      "account": "Rural Electrification and Telecommunications Loans",
+      "program": "FFB Telecommunications Loans",
+      "disbursement_schedule_percent": {
+        "year_1": 6,
+        "year_2": 17,
+        "year_3": 14,
+        "year_4": 13,
+        "year_5": 14,
+        "year_6": 8,
+        "year_7": 8,
+        "year_8": 8,
+        "year_9": 2,
+        "year_10_plus": 10
+      }
+    },
+    {
+      "agency": "Department of Commerce",
+      "bureau": "National Oceanic and Atmospheric Administration",
+      "account": "Fisheries Finance",
+      "program": "Individual Fishing Quota Loans",
+      "disbursement_schedule_percent": {
+        "year_1": 19,
+        "year_2": 32,
+        "year_3": 4,
+        "year_4": 4,
+        "year_5": 1,
+        "year_6": 2,
+        "year_7": "\u2026\u2026",
+        "year_8": "\u2026\u2026",
+        "year_9": "\u2026\u2026",
+        "year_10_plus": "\u2026\u2026"
+      }
+    },
+    {
+      "agency": "Department of Commerce",
+      "bureau": "National Oceanic and Atmospheric Administration",
+      "account": "Fisheries Finance",
+      "program": "Traditional Direct Loans",
+      "disbursement_schedule_percent": {
+        "year_1": 17,
+        "year_2": 40,
+        "year_3": 18,
+        "year_4": 2,
+        "year_5": "\u2026\u2026",
+        "year_6": 2,
+        "year_7": "\u2026\u2026",
+        "year_8": "\u2026\u2026",
+        "year_9": "\u2026\u2026",
+        "year_10_plus": "\u2026\u2026"
+      }
+    },
+    {
+      "agency": "Department of Defense",
+      "bureau": "Family Housing",
+      "account": null,
+      "program": "Family Housing Improvement Fund Direct Loans",
+      "disbursement_schedule_percent": {
+        "year_1": 100,
+        "year_2": "\u2026\u2026",
+        "year_3": "\u2026\u2026",
+        "year_4": "\u2026\u2026",
+        "year_5": "\u2026\u2026",
+        "year_6": "\u2026\u2026",
+        "year_7": "\u2026\u2026",
+        "year_8": "\u2026\u2026",
+        "year_9": "\u2026\u2026",
+        "year_10_plus": "\u2026\u2026"
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Office of Postsecondary Education",
+      "account": null,
+      "program": "Historically Black Colleges and Universities",
+      "disbursement_schedule_percent": {
+        "year_1": 100,
+        "year_2": "\u2026\u2026",
+        "year_3": "\u2026\u2026",
+        "year_4": "\u2026\u2026",
+        "year_5": "\u2026\u2026",
+        "year_6": "\u2026\u2026",
+        "year_7": "\u2026\u2026",
+        "year_8": "\u2026\u2026",
+        "year_9": "\u2026\u2026",
+        "year_10_plus": "\u2026\u2026"
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Office of Federal Student Aid",
+      "account": "Teacher Education Assistance",
+      "program": "TEACH Grants",
+      "disbursement_schedule_percent": {
+        "year_1": 58,
+        "year_2": 22,
+        "year_3": "\u2026\u2026",
+        "year_4": "\u2026\u2026",
+        "year_5": "\u2026\u2026",
+        "year_6": "\u2026\u2026",
+        "year_7": "\u2026\u2026",
+        "year_8": "\u2026\u2026",
+        "year_9": "\u2026\u2026",
+        "year_10_plus": "\u2026\u2026"
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Office of Federal Student Aid",
+      "account": "Teacher Education Assistance",
+      "program": "TEACH Grants (Legislative Proposal)",
+      "disbursement_schedule_percent": {
+        "year_1": 79,
+        "year_2": 2,
+        "year_3": "\u2026\u2026",
+        "year_4": "\u2026\u2026",
+        "year_5": "\u2026\u2026",
+        "year_6": "\u2026\u2026",
+        "year_7": "\u2026\u2026",
+        "year_8": "\u2026\u2026",
+        "year_9": "\u2026\u2026",
+        "year_10_plus": "\u2026\u2026"
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Ford Direct Loan Program",
+      "account": null,
+      "program": "Weighted Average of Total Obligations",
+      "disbursement_schedule_percent": {
+        "year_1": 68,
+        "year_2": 22,
+        "year_3": "\u2026\u2026",
+        "year_4": "\u2026\u2026",
+        "year_5": "\u2026\u2026",
+        "year_6": "\u2026\u2026",
+        "year_7": "\u2026\u2026",
+        "year_8": "\u2026\u2026",
+        "year_9": "\u2026\u2026",
+        "year_10_plus": "\u2026\u2026"
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Ford Direct Loan Program",
+      "account": null,
+      "program": "Weighted Average of Total Obligations (Legislative Proposal)",
+      "disbursement_schedule_percent": {
+        "year_1": 68,
+        "year_2": 22,
+        "year_3": null,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Ford Direct Loan Program",
+      "account": null,
+      "program": "Stafford",
+      "disbursement_schedule_percent": {
+        "year_1": 65,
+        "year_2": 25,
+        "year_3": "\u2026\u2026",
+        "year_4": "\u2026\u2026",
+        "year_5": "\u2026\u2026",
+        "year_6": "\u2026\u2026",
+        "year_7": "\u2026\u2026",
+        "year_8": "\u2026\u2026",
+        "year_9": "\u2026\u2026",
+        "year_10_plus": "\u2026\u2026"
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Ford Direct Loan Program",
+      "account": null,
+      "program": "Stafford (Legislative Proposal)",
+      "disbursement_schedule_percent": {
+        "year_1": 68,
+        "year_2": 21,
+        "year_3": "\u2026\u2026",
+        "year_4": "\u2026\u2026",
+        "year_5": "\u2026\u2026",
+        "year_6": "\u2026\u2026",
+        "year_7": "\u2026\u2026",
+        "year_8": "\u2026\u2026",
+        "year_9": "\u2026\u2026",
+        "year_10_plus": "\u2026\u2026"
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Ford Direct Loan Program",
+      "account": null,
+      "program": "Unsubsidized Stafford",
+      "disbursement_schedule_percent": {
+        "year_1": 63,
+        "year_2": 24,
+        "year_3": "\u2026\u2026",
+        "year_4": "\u2026\u2026",
+        "year_5": "\u2026\u2026",
+        "year_6": "\u2026\u2026",
+        "year_7": "\u2026\u2026",
+        "year_8": "\u2026\u2026",
+        "year_9": "\u2026\u2026",
+        "year_10_plus": "\u2026\u2026"
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Ford Direct Loan Program",
+      "account": null,
+      "program": "Unsubsidized Stafford (Legislative Proposal)",
+      "disbursement_schedule_percent": {
+        "year_1": 61,
+        "year_2": 27,
+        "year_3": "\u2026\u2026",
+        "year_4": "\u2026\u2026",
+        "year_5": "\u2026\u2026",
+        "year_6": "\u2026\u2026",
+        "year_7": "\u2026\u2026",
+        "year_8": "\u2026\u2026",
+        "year_9": "\u2026\u2026",
+        "year_10_plus": "\u2026\u2026"
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Ford Direct Loan Program",
+      "account": null,
+      "program": "PLUS",
+      "disbursement_schedule_percent": {
+        "year_1": 61,
+        "year_2": 33,
+        "year_3": "\u2026\u2026",
+        "year_4": "\u2026\u2026",
+        "year_5": "\u2026\u2026",
+        "year_6": "\u2026\u2026",
+        "year_7": "\u2026\u2026",
+        "year_8": "\u2026\u2026",
+        "year_9": "\u2026\u2026",
+        "year_10_plus": "\u2026\u2026"
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Ford Direct Loan Program",
+      "account": null,
+      "program": "PLUS (Legislative Proposal)",
+      "disbursement_schedule_percent": {
+        "year_1": 61,
+        "year_2": 33,
+        "year_3": "\u2026\u2026",
+        "year_4": "\u2026\u2026",
+        "year_5": "\u2026\u2026",
+        "year_6": "\u2026\u2026",
+        "year_7": "\u2026\u2026",
+        "year_8": "\u2026\u2026",
+        "year_9": "\u2026\u2026",
+        "year_10_plus": "\u2026\u2026"
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Ford Direct Loan Program",
+      "account": null,
+      "program": "Consolidation",
+      "disbursement_schedule_percent": {
+        "year_1": 99,
+        "year_2": null,
+        "year_3": "\u2026\u2026",
+        "year_4": "\u2026\u2026",
+        "year_5": "\u2026\u2026",
+        "year_6": "\u2026\u2026",
+        "year_7": "\u2026\u2026",
+        "year_8": "\u2026\u2026",
+        "year_9": "\u2026\u2026",
+        "year_10_plus": "\u2026\u2026"
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Ford Direct Loan Program",
+      "account": null,
+      "program": "Consolidation (Legislative Proposal)",
+      "disbursement_schedule_percent": {
+        "year_1": 99,
+        "year_2": null,
+        "year_3": "\u2026\u2026",
+        "year_4": "\u2026\u2026",
+        "year_5": "\u2026\u2026",
+        "year_6": "\u2026\u2026",
+        "year_7": "\u2026\u2026",
+        "year_8": "\u2026\u2026",
+        "year_9": "\u2026\u2026",
+        "year_10_plus": "\u2026\u2026"
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Ford Direct Loan Program",
+      "account": "Federal Family Education Loan",
+      "program": "Student Loan Acquisition \u2014 Stafford (Legislative Proposal)",
+      "disbursement_schedule_percent": {
+        "year_1": 100,
+        "year_2": "\u2026\u2026",
+        "year_3": "\u2026\u2026",
+        "year_4": "\u2026\u2026",
+        "year_5": "\u2026\u2026",
+        "year_6": "\u2026\u2026",
+        "year_7": "\u2026\u2026",
+        "year_8": "\u2026\u2026",
+        "year_9": "\u2026\u2026",
+        "year_10_plus": "\u2026\u2026"
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Ford Direct Loan Program",
+      "account": "Federal Family Education Loan",
+      "program": "(Legislative Proposal)",
+      "disbursement_schedule_percent": {
+        "year_1": 100,
+        "year_2": "\u2026\u2026",
+        "year_3": "\u2026\u2026",
+        "year_4": "\u2026\u2026",
+        "year_5": "\u2026\u2026",
+        "year_6": "\u2026\u2026",
+        "year_7": "\u2026\u2026",
+        "year_8": "\u2026\u2026",
+        "year_9": "\u2026\u2026",
+        "year_10_plus": "\u2026\u2026"
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Ford Direct Loan Program",
+      "account": "Federal Family Education Loan",
+      "program": "Student Loan Acquisition \u2014 PLUS (Legislative Proposal)",
+      "disbursement_schedule_percent": {
+        "year_1": 100,
+        "year_2": "\u2026\u2026",
+        "year_3": "\u2026\u2026",
+        "year_4": "\u2026\u2026",
+        "year_5": "\u2026\u2026",
+        "year_6": "\u2026\u2026",
+        "year_7": "\u2026\u2026",
+        "year_8": "\u2026\u2026",
+        "year_9": "\u2026\u2026",
+        "year_10_plus": "\u2026\u2026"
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Ford Direct Loan Program",
+      "account": "Federal Family Education Loan",
+      "program": "(Legislative Proposal)",
+      "disbursement_schedule_percent": {
+        "year_1": 100,
+        "year_2": "\u2026\u2026",
+        "year_3": "\u2026\u2026",
+        "year_4": "\u2026\u2026",
+        "year_5": "\u2026\u2026",
+        "year_6": "\u2026\u2026",
+        "year_7": "\u2026\u2026",
+        "year_8": "\u2026\u2026",
+        "year_9": "\u2026\u2026",
+        "year_10_plus": "\u2026\u2026"
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Ford Direct Loan Program",
+      "account": "Federal Family Education Loan",
+      "program": "Federal Perkins Loans (Legislative Proposal)",
+      "disbursement_schedule_percent": {
+        "year_1": 47,
+        "year_2": 43,
+        "year_3": "\u2026\u2026",
+        "year_4": "\u2026\u2026",
+        "year_5": "\u2026\u2026",
+        "year_6": "\u2026\u2026",
+        "year_7": "\u2026\u2026",
+        "year_8": "\u2026\u2026",
+        "year_9": "\u2026\u2026",
+        "year_10_plus": "\u2026\u2026"
+      }
+    },
+    {
+      "agency": "Department of Energy",
+      "bureau": "Energy Programs",
+      "account": "Title 17 Innovative Technology Program",
+      "program": "Section 1703 FFB Loans (Self Pay)",
+      "disbursement_schedule_percent": {
+        "year_1": 27,
+        "year_2": 27,
+        "year_3": 17,
+        "year_4": 17,
+        "year_5": 12,
+        "year_6": "\u2026\u2026",
+        "year_7": "\u2026\u2026",
+        "year_8": "\u2026\u2026",
+        "year_9": "\u2026\u2026",
+        "year_10_plus": "\u2026\u2026"
+      }
+    },
+    {
+      "agency": "Department of Energy",
+      "bureau": "Energy Programs",
+      "account": "Title 17 Innovative Technology Program",
+      "program": "Section 1703 FFB Loans (EERE)",
+      "disbursement_schedule_percent": {
+        "year_1": 50,
+        "year_2": 50,
+        "year_3": "\u2026\u2026",
+        "year_4": "\u2026\u2026",
+        "year_5": "\u2026\u2026",
+        "year_6": "\u2026\u2026",
+        "year_7": "\u2026\u2026",
+        "year_8": "\u2026\u2026",
+        "year_9": "\u2026\u2026",
+        "year_10_plus": "\u2026\u2026"
+      }
+    },
+    {
+      "agency": "Department of Health and Human Services",
+      "bureau": "Centers for Medicare and Medicaid Services",
+      "account": "Consumer Operated and Oriented Plan",
+      "program": "Startup Loans",
+      "disbursement_schedule_percent": {
+        "year_1": 100,
+        "year_2": "\u2026\u2026",
+        "year_3": "\u2026\u2026",
+        "year_4": "\u2026\u2026",
+        "year_5": "\u2026\u2026",
+        "year_6": "\u2026\u2026",
+        "year_7": "\u2026\u2026",
+        "year_8": "\u2026\u2026",
+        "year_9": "\u2026\u2026",
+        "year_10_plus": "\u2026\u2026"
+      }
+    },
+    {
+      "agency": "Department of Health and Human Services",
+      "bureau": "Centers for Medicare and Medicaid Services",
+      "account": "Consumer Operated and Oriented Plan",
+      "program": "Solvency Grants",
+      "disbursement_schedule_percent": {
+        "year_1": 100,
+        "year_2": "\u2026\u2026",
+        "year_3": "\u2026\u2026",
+        "year_4": "\u2026\u2026",
+        "year_5": "\u2026\u2026",
+        "year_6": "\u2026\u2026",
+        "year_7": "\u2026\u2026",
+        "year_8": "\u2026\u2026",
+        "year_9": "\u2026\u2026",
+        "year_10_plus": "\u2026\u2026"
+      }
+    },
+    {
+      "agency": "Department of Health and Human Services",
+      "bureau": "Centers for Medicare and Medicaid Services",
+      "account": "Consumer Operated and Oriented Plan",
+      "program": "Planning Grants",
+      "disbursement_schedule_percent": {
+        "year_1": 100,
+        "year_2": "\u2026\u2026",
+        "year_3": "\u2026\u2026",
+        "year_4": "\u2026\u2026",
+        "year_5": "\u2026\u2026",
+        "year_6": "\u2026\u2026",
+        "year_7": "\u2026\u2026",
+        "year_8": "\u2026\u2026",
+        "year_9": "\u2026\u2026",
+        "year_10_plus": "\u2026\u2026"
+      }
+    },
+    {
+      "agency": "Department of Homeland Security",
+      "bureau": "Federal Emergency Management Agency",
+      "account": null,
+      "program": "Disaster Assistance Direct Loans",
+      "disbursement_schedule_percent": {
+        "year_1": 78,
+        "year_2": 22,
+        "year_3": "\u2026\u2026",
+        "year_4": "\u2026\u2026",
+        "year_5": "\u2026\u2026",
+        "year_6": "\u2026\u2026",
+        "year_7": "\u2026\u2026",
+        "year_8": "\u2026\u2026",
+        "year_9": "\u2026\u2026",
+        "year_10_plus": "\u2026\u2026"
+      }
+    },
+    {
+      "agency": "Department of State",
+      "bureau": "Administration of Foreign Affairs",
+      "account": null,
+      "program": "Repatriation Loans",
+      "disbursement_schedule_percent": {
+        "year_1": 83,
+        "year_2": 17,
+        "year_3": "\u2026\u2026",
+        "year_4": "\u2026\u2026",
+        "year_5": "\u2026\u2026",
+        "year_6": "\u2026\u2026",
+        "year_7": "\u2026\u2026",
+        "year_8": "\u2026\u2026",
+        "year_9": "\u2026\u2026",
+        "year_10_plus": "\u2026\u2026"
+      }
+    },
+    {
+      "agency": "International Assistance Programs",
+      "bureau": "Overseas Private Investment Corporation",
+      "account": null,
+      "program": "OPIC Direct Loans",
+      "disbursement_schedule_percent": {
+        "year_1": 40,
+        "year_2": 40,
+        "year_3": 20,
+        "year_4": "\u2026\u2026",
+        "year_5": "\u2026\u2026",
+        "year_6": "\u2026\u2026",
+        "year_7": "\u2026\u2026",
+        "year_8": "\u2026\u2026",
+        "year_9": "\u2026\u2026",
+        "year_10_plus": "\u2026\u2026"
+      }
+    },
+    {
+      "agency": "Department of Transportation",
+      "bureau": "National Infrastructure Bank",
+      "account": null,
+      "program": "NIB Direct Loans (Legislative Proposal)",
+      "disbursement_schedule_percent": {
+        "year_1": 3,
+        "year_2": 25,
+        "year_3": 30,
+        "year_4": 25,
+        "year_5": 17,
+        "year_6": "\u2026\u2026",
+        "year_7": "\u2026\u2026",
+        "year_8": "\u2026\u2026",
+        "year_9": "\u2026\u2026",
+        "year_10_plus": "\u2026\u2026"
+      }
+    },
+    {
+      "agency": "Department of Transportation",
+      "bureau": "Federal Highway Administration",
+      "account": "Federal-aid Highways",
+      "program": "Lines of Credit",
+      "disbursement_schedule_percent": {
+        "year_1": 20,
+        "year_2": 20,
+        "year_3": 20,
+        "year_4": 20,
+        "year_5": 20,
+        "year_6": "\u2026\u2026",
+        "year_7": "\u2026\u2026",
+        "year_8": "\u2026\u2026",
+        "year_9": "\u2026\u2026",
+        "year_10_plus": "\u2026\u2026"
+      }
+    },
+    {
+      "agency": "Department of Transportation",
+      "bureau": "Federal Highway Administration",
+      "account": "Federal-aid Highways",
+      "program": "TIFIA Direct Loans",
+      "disbursement_schedule_percent": {
+        "year_1": 20,
+        "year_2": 20,
+        "year_3": 20,
+        "year_4": 20,
+        "year_5": 20,
+        "year_6": "\u2026\u2026",
+        "year_7": "\u2026\u2026",
+        "year_8": "\u2026\u2026",
+        "year_9": "\u2026\u2026",
+        "year_10_plus": "\u2026\u2026"
+      }
+    },
+    {
+      "agency": "Department of Transportation",
+      "bureau": "Federal Highway Administration",
+      "account": "National Infrastructure Investments",
+      "program": "TIGER TIFIA Direct Loans",
+      "disbursement_schedule_percent": {
+        "year_1": 20,
+        "year_2": 20,
+        "year_3": 20,
+        "year_4": 20,
+        "year_5": 20,
+        "year_6": "\u2026\u2026",
+        "year_7": "\u2026\u2026",
+        "year_8": "\u2026\u2026",
+        "year_9": "\u2026\u2026",
+        "year_10_plus": "\u2026\u2026"
+      }
+    },
+    {
+      "agency": "Department of Transportation",
+      "bureau": "Federal Railroad Administration",
+      "account": null,
+      "program": "Direct Loans",
+      "disbursement_schedule_percent": {
+        "year_1": 67,
+        "year_2": 24,
+        "year_3": 5,
+        "year_4": 3,
+        "year_5": 1,
+        "year_6": "\u2026\u2026",
+        "year_7": "\u2026\u2026",
+        "year_8": "\u2026\u2026",
+        "year_9": "\u2026\u2026",
+        "year_10_plus": "\u2026\u2026"
+      }
+    },
+    {
+      "agency": "Department of the Treasury",
+      "bureau": "Departmental Offices",
+      "account": null,
+      "program": "Community Development Financial Institutions Fund",
+      "disbursement_schedule_percent": {
+        "year_1": 100,
+        "year_2": "\u2026\u2026",
+        "year_3": "\u2026\u2026",
+        "year_4": "\u2026\u2026",
+        "year_5": "\u2026\u2026",
+        "year_6": "\u2026\u2026",
+        "year_7": "\u2026\u2026",
+        "year_8": "\u2026\u2026",
+        "year_9": "\u2026\u2026",
+        "year_10_plus": "\u2026\u2026"
+      }
+    },
+    {
+      "agency": "Department of Veterans Affairs",
+      "bureau": "Benefits Programs",
+      "account": "Veterans Housing Benefit Program Fund",
+      "program": "Acquired Direct Loans",
+      "disbursement_schedule_percent": {
+        "year_1": 100,
+        "year_2": "\u2026\u2026",
+        "year_3": "\u2026\u2026",
+        "year_4": "\u2026\u2026",
+        "year_5": "\u2026\u2026",
+        "year_6": "\u2026\u2026",
+        "year_7": "\u2026\u2026",
+        "year_8": "\u2026\u2026",
+        "year_9": "\u2026\u2026",
+        "year_10_plus": "\u2026\u2026"
+      }
+    },
+    {
+      "agency": "Department of Veterans Affairs",
+      "bureau": "Benefits Programs",
+      "account": "Veterans Housing Benefit Program Fund",
+      "program": "Vendee Direct Loans",
+      "disbursement_schedule_percent": {
+        "year_1": 100,
+        "year_2": "\u2026\u2026",
+        "year_3": "\u2026\u2026",
+        "year_4": "\u2026\u2026",
+        "year_5": "\u2026\u2026",
+        "year_6": "\u2026\u2026",
+        "year_7": "\u2026\u2026",
+        "year_8": "\u2026\u2026",
+        "year_9": "\u2026\u2026",
+        "year_10_plus": "\u2026\u2026"
+      }
+    },
+    {
+      "agency": "Department of Veterans Affairs",
+      "bureau": "Benefits Programs",
+      "account": "Native American Veteran Housing Loan",
+      "program": "Native American Direct Loans",
+      "disbursement_schedule_percent": {
+        "year_1": 86,
+        "year_2": 12,
+        "year_3": 1,
+        "year_4": "\u2026\u2026",
+        "year_5": 1,
+        "year_6": "\u2026\u2026",
+        "year_7": "\u2026\u2026",
+        "year_8": "\u2026\u2026",
+        "year_9": "\u2026\u2026",
+        "year_10_plus": "\u2026\u2026"
+      }
+    },
+    {
+      "agency": "Department of Veterans Affairs",
+      "bureau": "Benefits Programs",
+      "account": "Native American Veteran Housing Loan",
+      "program": "Vocational Rehabilitation",
+      "disbursement_schedule_percent": {
+        "year_1": 100,
+        "year_2": "\u2026\u2026",
+        "year_3": "\u2026\u2026",
+        "year_4": "\u2026\u2026",
+        "year_5": "\u2026\u2026",
+        "year_6": "\u2026\u2026",
+        "year_7": "\u2026\u2026",
+        "year_8": "\u2026\u2026",
+        "year_9": "\u2026\u2026",
+        "year_10_plus": "\u2026\u2026"
+      }
+    },
+    {
+      "agency": "Small Business Administration",
+      "bureau": "Business Loans",
+      "account": null,
+      "program": "7(m) Direct Microloans",
+      "disbursement_schedule_percent": {
+        "year_1": 22,
+        "year_2": 48,
+        "year_3": 19,
+        "year_4": 7,
+        "year_5": 3,
+        "year_6": 1,
+        "year_7": "\u2026\u2026",
+        "year_8": "\u2026\u2026",
+        "year_9": "\u2026\u2026",
+        "year_10_plus": "\u2026\u2026"
+      }
+    },
+    {
+      "agency": "Small Business Administration",
+      "bureau": "Business Loans",
+      "account": null,
+      "program": "Intermediary Lending Program",
+      "disbursement_schedule_percent": {
+        "year_1": 12,
+        "year_2": 50,
+        "year_3": 38,
+        "year_4": "\u2026\u2026",
+        "year_5": "\u2026\u2026",
+        "year_6": "\u2026\u2026",
+        "year_7": "\u2026\u2026",
+        "year_8": "\u2026\u2026",
+        "year_9": "\u2026\u2026",
+        "year_10_plus": "\u2026\u2026"
+      }
+    },
+    {
+      "agency": "Small Business Administration",
+      "bureau": "Disaster Loans",
+      "account": null,
+      "program": "Disaster Assistance Loans",
+      "disbursement_schedule_percent": {
+        "year_1": 65,
+        "year_2": 30,
+        "year_3": 5,
+        "year_4": "\u2026\u2026",
+        "year_5": "\u2026\u2026",
+        "year_6": "\u2026\u2026",
+        "year_7": "\u2026\u2026",
+        "year_8": "\u2026\u2026",
+        "year_9": "\u2026\u2026",
+        "year_10_plus": "\u2026\u2026"
+      }
+    },
+    {
+      "agency": "Other Independent Agencies",
+      "bureau": "Export-Import Bank of the United States",
+      "account": null,
+      "program": "Direct Loans Tied Aid War Chest",
+      "disbursement_schedule_percent": {
+        "year_1": 25,
+        "year_2": 25,
+        "year_3": 25,
+        "year_4": 25,
+        "year_5": "\u2026\u2026",
+        "year_6": "\u2026\u2026",
+        "year_7": "\u2026\u2026",
+        "year_8": "\u2026\u2026",
+        "year_9": "\u2026\u2026",
+        "year_10_plus": "\u2026\u2026"
+      }
+    }
+  ]
+}

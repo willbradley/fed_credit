@@ -1,0 +1,1062 @@
+{
+  "metadata": {
+    "source": "Federal Credit Supplement, Budget of the U.S. Government, FY 2020",
+    "table": "Table 2: Loan Guarantee Programs - Budget Formulation Estimates",
+    "cohort_years": [
+      2019,
+      2020
+    ],
+    "units": {
+      "subsidy_rate": "percent",
+      "obligations": "thousands of dollars",
+      "average_loan_size": "thousands of dollars"
+    }
+  },
+  "programs": [
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Agricultural Credit Insurance Fund",
+      "program": "Farm Ownership\u2014Unsubsidized",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": -0.23,
+          "obligations_thousands": 2750000,
+          "average_loan_size_thousands": 390
+        },
+        "2020": {
+          "subsidy_rate_percent": -0.29,
+          "obligations_thousands": 2750000,
+          "average_loan_size_thousands": 390
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Agricultural Credit Insurance Fund",
+      "program": "Farm Operating\u2014Unsubsidized",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": 1.12,
+          "obligations_thousands": 2809375,
+          "average_loan_size_thousands": 252
+        },
+        "2020": {
+          "subsidy_rate_percent": 1.07,
+          "obligations_thousands": 1614953,
+          "average_loan_size_thousands": 252
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Agricultural Credit Insurance Fund",
+      "program": "Conservation\u2014Guaranteed",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": -0.4,
+          "obligations_thousands": 150000,
+          "average_loan_size_thousands": 477
+        },
+        "2020": {
+          "subsidy_rate_percent": -0.45,
+          "obligations_thousands": 150000,
+          "average_loan_size_thousands": 477
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Commodity Credit Corporation Export Loans",
+      "program": "GSM 102",
+      "bea_category": "Mandatory",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": -0.22,
+          "obligations_thousands": 5000000,
+          "average_loan_size_thousands": 1000
+        },
+        "2020": {
+          "subsidy_rate_percent": -0.21,
+          "obligations_thousands": 5000000,
+          "average_loan_size_thousands": 1000
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Commodity Credit Corporation Export Loans",
+      "program": "Export Guarantee Program\u2014Facilities",
+      "bea_category": "Mandatory",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": -2.52,
+          "obligations_thousands": 500000,
+          "average_loan_size_thousands": 2000
+        },
+        "2020": {
+          "subsidy_rate_percent": -2.17,
+          "obligations_thousands": 500000,
+          "average_loan_size_thousands": 2000
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Community Facilities",
+      "program": "Community Facility Loan Guarantees",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": 2.89,
+          "obligations_thousands": 187000,
+          "average_loan_size_thousands": 3535
+        },
+        "2020": {
+          "subsidy_rate_percent": -0.51,
+          "obligations_thousands": 500000,
+          "average_loan_size_thousands": 4848
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Housing Insurance Fund",
+      "program": "Guaranteed 538 Multifamily Housing",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": -4.79,
+          "obligations_thousands": 230000,
+          "average_loan_size_thousands": 1450
+        },
+        "2020": {
+          "subsidy_rate_percent": -4.53,
+          "obligations_thousands": 250000,
+          "average_loan_size_thousands": 1500
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Housing Insurance Fund",
+      "program": "Guaranteed 502 Single Family Housing",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": -0.71,
+          "obligations_thousands": 18237000,
+          "average_loan_size_thousands": 148
+        },
+        "2020": {
+          "subsidy_rate_percent": -0.56,
+          "obligations_thousands": 20835000,
+          "average_loan_size_thousands": 150
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Business-Cooperative Service",
+      "account": null,
+      "program": "Business and Industry Loan Guarantees",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": 2.32,
+          "obligations_thousands": 1343276,
+          "average_loan_size_thousands": 3536
+        },
+        "2020": {
+          "subsidy_rate_percent": 2.05,
+          "obligations_thousands": 1121951,
+          "average_loan_size_thousands": 3536
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Business-Cooperative Service",
+      "account": null,
+      "program": "Renewable Energy Loan Guarantees",
+      "bea_category": "Mandatory",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": 4.46,
+          "obligations_thousands": 495359,
+          "average_loan_size_thousands": 3968
+        },
+        "2020": {
+          "subsidy_rate_percent": 3.53,
+          "obligations_thousands": 361000,
+          "average_loan_size_thousands": 3731
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Business-Cooperative Service",
+      "account": null,
+      "program": "Section 9003 Loan Guarantees",
+      "bea_category": "Mandatory",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": 21.76,
+          "obligations_thousands": 330407,
+          "average_loan_size_thousands": 30000
+        },
+        "2020": {
+          "subsidy_rate_percent": 14.93,
+          "obligations_thousands": 241872,
+          "average_loan_size_thousands": 30000
+        }
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Utilities Service",
+      "account": null,
+      "program": "Water and Waste Disposal Loan Guarantees",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": 0.38,
+          "obligations_thousands": 26316,
+          "average_loan_size_thousands": 1000
+        },
+        "2020": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        }
+      }
+    },
+    {
+      "agency": "Department of Health and Human Services",
+      "bureau": "Health Resources and Services Administration",
+      "account": null,
+      "program": "Facilities Renovation Loans",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": 2.71,
+          "obligations_thousands": 3000,
+          "average_loan_size_thousands": 3000
+        },
+        "2020": {
+          "subsidy_rate_percent": 2.57,
+          "obligations_thousands": 60000,
+          "average_loan_size_thousands": 6000
+        }
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Public and Indian Housing Programs",
+      "account": null,
+      "program": "Title VI Indian Federal Guarantees Program",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": 11.26,
+          "obligations_thousands": 17000,
+          "average_loan_size_thousands": 4500
+        },
+        "2020": {
+          "subsidy_rate_percent": 6.25,
+          "obligations_thousands": 32000,
+          "average_loan_size_thousands": 2500
+        }
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Public and Indian Housing Programs",
+      "account": null,
+      "program": "Indian Housing Loan Guarantee",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": 0.26,
+          "obligations_thousands": 880000,
+          "average_loan_size_thousands": 180
+        },
+        "2020": {
+          "subsidy_rate_percent": 0.11,
+          "obligations_thousands": 880000,
+          "average_loan_size_thousands": 180
+        }
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Public and Indian Housing Programs",
+      "account": null,
+      "program": "Native Hawaiian Housing Loan Guarantees",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": -0.32,
+          "obligations_thousands": 23300,
+          "average_loan_size_thousands": 228
+        },
+        "2020": {
+          "subsidy_rate_percent": -0.34,
+          "obligations_thousands": 23300,
+          "average_loan_size_thousands": 226
+        }
+      }
+    },
+    {
+      "agency": "Section 108 Community Development Loan",
+      "bureau": null,
+      "account": null,
+      "program": "Guarantee (Fee)",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": 0,
+          "obligations_thousands": 125000,
+          "average_loan_size_thousands": 5000
+        },
+        "2020": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        }
+      }
+    },
+    {
+      "agency": "Section 108 Community Development Loan",
+      "bureau": "Housing Programs",
+      "account": "FHA-Mutual Mortgage Insurance (MMI) Fund",
+      "program": "Mutual Mortgage Insurance Program",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": -3.2,
+          "obligations_thousands": 207000000,
+          "average_loan_size_thousands": 210
+        },
+        "2020": {
+          "subsidy_rate_percent": -2.23,
+          "obligations_thousands": 205005000,
+          "average_loan_size_thousands": 214
+        }
+      }
+    },
+    {
+      "agency": "Section 108 Community Development Loan",
+      "bureau": "Housing Programs",
+      "account": "FHA-Mutual Mortgage Insurance (MMI) Fund",
+      "program": "MMI HECM",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": -0.15,
+          "obligations_thousands": 12330000,
+          "average_loan_size_thousands": 342
+        },
+        "2020": {
+          "subsidy_rate_percent": -0.08,
+          "obligations_thousands": 13610000,
+          "average_loan_size_thousands": 349
+        }
+      }
+    },
+    {
+      "agency": "Section 108 Community Development Loan",
+      "bureau": "Housing Programs",
+      "account": "FHA-General and Special Risk Insurance Fund",
+      "program": "Apartment New Construction / Substantial Rehab",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": -0.2,
+          "obligations_thousands": 4498000,
+          "average_loan_size_thousands": 23299
+        },
+        "2020": {
+          "subsidy_rate_percent": -1.18,
+          "obligations_thousands": 4943000,
+          "average_loan_size_thousands": 23447
+        }
+      }
+    },
+    {
+      "agency": "Section 108 Community Development Loan",
+      "bureau": "Housing Programs",
+      "account": "FHA-General and Special Risk Insurance Fund",
+      "program": "Tax Credits",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": -2.49,
+          "obligations_thousands": 5023000,
+          "average_loan_size_thousands": 14301
+        },
+        "2020": {
+          "subsidy_rate_percent": -2.25,
+          "obligations_thousands": 5137000,
+          "average_loan_size_thousands": 14314
+        }
+      }
+    },
+    {
+      "agency": "Section 108 Community Development Loan",
+      "bureau": "Housing Programs",
+      "account": "FHA-General and Special Risk Insurance Fund",
+      "program": "Apartment Refinances",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": -3.27,
+          "obligations_thousands": 5763000,
+          "average_loan_size_thousands": 14948
+        },
+        "2020": {
+          "subsidy_rate_percent": -3.18,
+          "obligations_thousands": 5112000,
+          "average_loan_size_thousands": 13548
+        }
+      }
+    },
+    {
+      "agency": "Section 108 Community Development Loan",
+      "bureau": "Housing Programs",
+      "account": "FHA-General and Special Risk Insurance Fund",
+      "program": "Housing Finance Agency Risk Sharing",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": -0.23,
+          "obligations_thousands": 84000,
+          "average_loan_size_thousands": 14948
+        },
+        "2020": {
+          "subsidy_rate_percent": -1.83,
+          "obligations_thousands": 84000,
+          "average_loan_size_thousands": 11199
+        }
+      }
+    },
+    {
+      "agency": "Section 108 Community Development Loan",
+      "bureau": "Housing Programs",
+      "account": "FHA-General and Special Risk Insurance Fund",
+      "program": "Qualified Participating Entity Risk Sharing",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": -0.32,
+          "obligations_thousands": 4000,
+          "average_loan_size_thousands": 4000
+        },
+        "2020": {
+          "subsidy_rate_percent": -0.26,
+          "obligations_thousands": 4000,
+          "average_loan_size_thousands": 4000
+        }
+      }
+    },
+    {
+      "agency": "Section 108 Community Development Loan",
+      "bureau": "Housing Programs",
+      "account": "FHA-General and Special Risk Insurance Fund",
+      "program": "Residential Care Facilities",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": -5.81,
+          "obligations_thousands": 301000,
+          "average_loan_size_thousands": 12542
+        },
+        "2020": {
+          "subsidy_rate_percent": -5.2,
+          "obligations_thousands": 301000,
+          "average_loan_size_thousands": 12542
+        }
+      }
+    },
+    {
+      "agency": "Section 108 Community Development Loan",
+      "bureau": "Housing Programs",
+      "account": "FHA-General and Special Risk Insurance Fund",
+      "program": "Residential Care Facility Refinances",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": -5.23,
+          "obligations_thousands": 3672000,
+          "average_loan_size_thousands": 11769
+        },
+        "2020": {
+          "subsidy_rate_percent": -4.89,
+          "obligations_thousands": 3672000,
+          "average_loan_size_thousands": 11769
+        }
+      }
+    },
+    {
+      "agency": "Section 108 Community Development Loan",
+      "bureau": "Housing Programs",
+      "account": "FHA-General and Special Risk Insurance Fund",
+      "program": "Hospitals",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": -5.59,
+          "obligations_thousands": 620000,
+          "average_loan_size_thousands": 103293
+        },
+        "2020": {
+          "subsidy_rate_percent": -5.56,
+          "obligations_thousands": 620000,
+          "average_loan_size_thousands": 103293
+        }
+      }
+    },
+    {
+      "agency": "Section 108 Community Development Loan",
+      "bureau": "Housing Programs",
+      "account": "FHA-General and Special Risk Insurance Fund",
+      "program": "Other Rental",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": -0.89,
+          "obligations_thousands": 233000,
+          "average_loan_size_thousands": 45746
+        },
+        "2020": {
+          "subsidy_rate_percent": -1.77,
+          "obligations_thousands": 235500,
+          "average_loan_size_thousands": 45272
+        }
+      }
+    },
+    {
+      "agency": "Section 108 Community Development Loan",
+      "bureau": "Housing Programs",
+      "account": "FHA-General and Special Risk Insurance Fund",
+      "program": "Title 1 Property Improvement",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": -1,
+          "obligations_thousands": 51000,
+          "average_loan_size_thousands": 20
+        },
+        "2020": {
+          "subsidy_rate_percent": -1.42,
+          "obligations_thousands": 47000,
+          "average_loan_size_thousands": 19
+        }
+      }
+    },
+    {
+      "agency": "Section 108 Community Development Loan",
+      "bureau": "Housing Programs",
+      "account": "FHA-General and Special Risk Insurance Fund",
+      "program": "Title 1 Manufactured Housing",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": -3.87,
+          "obligations_thousands": 22000,
+          "average_loan_size_thousands": 49
+        },
+        "2020": {
+          "subsidy_rate_percent": -4.79,
+          "obligations_thousands": 16000,
+          "average_loan_size_thousands": 48
+        }
+      }
+    },
+    {
+      "agency": "Section 108 Community Development Loan",
+      "bureau": "Government National Mortgage Association",
+      "account": null,
+      "program": "Guarantees of Mortgage-backed Securities",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": -0.44,
+          "obligations_thousands": 435000000,
+          "average_loan_size_thousands": 218
+        },
+        "2020": {
+          "subsidy_rate_percent": -0.29,
+          "obligations_thousands": 408000000,
+          "average_loan_size_thousands": 232
+        }
+      }
+    },
+    {
+      "agency": "Department of the Interior",
+      "bureau": "Bureau of Indian Affairs",
+      "account": null,
+      "program": "Indian Guaranteed Loans",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": 5.33,
+          "obligations_thousands": 105000,
+          "average_loan_size_thousands": 3442
+        },
+        "2020": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        }
+      }
+    },
+    {
+      "agency": "Department of the Interior",
+      "bureau": "Bureau of Indian Affairs",
+      "account": null,
+      "program": "Indian Insured Loans",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": 5.92,
+          "obligations_thousands": 1000,
+          "average_loan_size_thousands": 114
+        },
+        "2020": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        }
+      }
+    },
+    {
+      "agency": "International Assistance Programs",
+      "bureau": "International Security Assistance",
+      "account": null,
+      "program": "FMF Guaranteed Loan Program",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        },
+        "2020": {
+          "subsidy_rate_percent": 0,
+          "obligations_thousands": 4000000,
+          "average_loan_size_thousands": 4000000
+        }
+      }
+    },
+    {
+      "agency": "International Assistance Programs",
+      "bureau": "Agency for International Development",
+      "account": null,
+      "program": "Loan Guarantees to Israel",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": 0,
+          "obligations_thousands": 2000000,
+          "average_loan_size_thousands": 1000000
+        },
+        "2020": {
+          "subsidy_rate_percent": 0,
+          "obligations_thousands": 1814000,
+          "average_loan_size_thousands": 1000000
+        }
+      }
+    },
+    {
+      "agency": "International Assistance Programs",
+      "bureau": "Agency for International Development",
+      "account": null,
+      "program": "Development Credit Authority\u2014Loan Guarantees",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": 6.74,
+          "obligations_thousands": 815000,
+          "average_loan_size_thousands": 37045
+        },
+        "2020": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        }
+      }
+    },
+    {
+      "agency": "International Assistance Programs",
+      "bureau": "Overseas Private Investment Corporation",
+      "account": null,
+      "program": "OPIC Loan Guarantees",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": -13.73,
+          "obligations_thousands": 1755000,
+          "average_loan_size_thousands": 50000
+        },
+        "2020": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        }
+      }
+    },
+    {
+      "agency": "International Assistance Programs",
+      "bureau": "Overseas Private Investment Corporation",
+      "account": null,
+      "program": "OPIC Investment Funds",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": -7.75,
+          "obligations_thousands": 591000,
+          "average_loan_size_thousands": 100000
+        },
+        "2020": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        }
+      }
+    },
+    {
+      "agency": "International Assistance Programs",
+      "bureau": "Overseas Private Investment Corporation",
+      "account": null,
+      "program": "Limited Arbitral Award Coverage",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": -2.39,
+          "obligations_thousands": 150000,
+          "average_loan_size_thousands": 150000
+        },
+        "2020": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        }
+      }
+    },
+    {
+      "agency": "International Assistance Programs",
+      "bureau": "Overseas Private Investment Corporation",
+      "account": null,
+      "program": "Non-Honoring of Sovereign Guarantees",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": -6.16,
+          "obligations_thousands": 150000,
+          "average_loan_size_thousands": 150000
+        },
+        "2020": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        }
+      }
+    },
+    {
+      "agency": "International Assistance Programs",
+      "bureau": "Overseas Private Investment Corporation",
+      "account": "Development Finance Corporation",
+      "program": "USAID Mission-led Guarantees",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        },
+        "2020": {
+          "subsidy_rate_percent": 3.28,
+          "obligations_thousands": 956000,
+          "average_loan_size_thousands": 20000
+        }
+      }
+    },
+    {
+      "agency": "International Assistance Programs",
+      "bureau": "Overseas Private Investment Corporation",
+      "account": "Development Finance Corporation",
+      "program": "Loan Guarantees",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        },
+        "2020": {
+          "subsidy_rate_percent": -9.51,
+          "obligations_thousands": 850000,
+          "average_loan_size_thousands": 42000
+        }
+      }
+    },
+    {
+      "agency": "International Assistance Programs",
+      "bureau": "Overseas Private Investment Corporation",
+      "account": "Development Finance Corporation",
+      "program": "Guaranteed Loan Investment Funds",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        },
+        "2020": {
+          "subsidy_rate_percent": 1.41,
+          "obligations_thousands": 400000,
+          "average_loan_size_thousands": 90000
+        }
+      }
+    },
+    {
+      "agency": "International Assistance Programs",
+      "bureau": "Overseas Private Investment Corporation",
+      "account": "Development Finance Corporation",
+      "program": "Non-Honoring of Sovereign Guarantees",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        },
+        "2020": {
+          "subsidy_rate_percent": -6.16,
+          "obligations_thousands": 150000,
+          "average_loan_size_thousands": 150000
+        }
+      }
+    },
+    {
+      "agency": "International Assistance Programs",
+      "bureau": "Overseas Private Investment Corporation",
+      "account": "Development Finance Corporation",
+      "program": "Limited Arbitral Award Coverage",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": null,
+          "obligations_thousands": null,
+          "average_loan_size_thousands": null
+        },
+        "2020": {
+          "subsidy_rate_percent": -2.39,
+          "obligations_thousands": 150000,
+          "average_loan_size_thousands": 150000
+        }
+      }
+    },
+    {
+      "agency": "Department of Veterans Affairs",
+      "bureau": "Benefits Programs",
+      "account": null,
+      "program": "Housing Guaranteed Loans",
+      "bea_category": "Mandatory",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": 0.07,
+          "obligations_thousands": 153752904,
+          "average_loan_size_thousands": 276
+        },
+        "2020": {
+          "subsidy_rate_percent": -0.3,
+          "obligations_thousands": 158024427,
+          "average_loan_size_thousands": 281
+        }
+      }
+    },
+    {
+      "agency": "Small Business Administration",
+      "bureau": null,
+      "account": "Business Loans",
+      "program": "7(a) General Business Loan Guarantees",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": 0,
+          "obligations_thousands": 29000000,
+          "average_loan_size_thousands": 422
+        },
+        "2020": {
+          "subsidy_rate_percent": -0.31,
+          "obligations_thousands": 30000000,
+          "average_loan_size_thousands": 439
+        }
+      }
+    },
+    {
+      "agency": "Section 504 Certified Development Companies",
+      "bureau": null,
+      "account": null,
+      "program": "Debentures",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": 0,
+          "obligations_thousands": 7500000,
+          "average_loan_size_thousands": 809
+        },
+        "2020": {
+          "subsidy_rate_percent": -0.43,
+          "obligations_thousands": 7500000,
+          "average_loan_size_thousands": 823
+        }
+      }
+    },
+    {
+      "agency": "Section 504 Certified Development Companies",
+      "bureau": null,
+      "account": null,
+      "program": "SBIC Debentures",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": 0,
+          "obligations_thousands": 4000000,
+          "average_loan_size_thousands": 41697
+        },
+        "2020": {
+          "subsidy_rate_percent": -0.52,
+          "obligations_thousands": 4000000,
+          "average_loan_size_thousands": 43481
+        }
+      }
+    },
+    {
+      "agency": "Section 504 Certified Development Companies",
+      "bureau": null,
+      "account": null,
+      "program": "Secondary Market Guarantee",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": 0,
+          "obligations_thousands": 12000000,
+          "average_loan_size_thousands": 28444
+        },
+        "2020": {
+          "subsidy_rate_percent": -0.04,
+          "obligations_thousands": 12000000,
+          "average_loan_size_thousands": 28444
+        }
+      }
+    },
+    {
+      "agency": "Section 504 Certified Development Companies",
+      "bureau": null,
+      "account": null,
+      "program": "504 Commercial Real Estate (CRE) Refinance Program",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": 0,
+          "obligations_thousands": 7500000,
+          "average_loan_size_thousands": 1036
+        },
+        "2020": {
+          "subsidy_rate_percent": -0.43,
+          "obligations_thousands": 1000000,
+          "average_loan_size_thousands": 956
+        }
+      }
+    },
+    {
+      "agency": "Export-Import Bank of the United States",
+      "bureau": null,
+      "account": null,
+      "program": "Long Term Guarantees",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": -8.03,
+          "obligations_thousands": 11533700,
+          "average_loan_size_thousands": 226200
+        },
+        "2020": {
+          "subsidy_rate_percent": -6,
+          "obligations_thousands": 18628729,
+          "average_loan_size_thousands": 388099
+        }
+      }
+    },
+    {
+      "agency": "Export-Import Bank of the United States",
+      "bureau": null,
+      "account": null,
+      "program": "Medium Term Guarantees",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": -0.11,
+          "obligations_thousands": 374000,
+          "average_loan_size_thousands": 559
+        },
+        "2020": {
+          "subsidy_rate_percent": -0.21,
+          "obligations_thousands": 420000,
+          "average_loan_size_thousands": 2014
+        }
+      }
+    },
+    {
+      "agency": "Export-Import Bank of the United States",
+      "bureau": null,
+      "account": null,
+      "program": "Short Term Insurance",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": 0,
+          "obligations_thousands": 3040000,
+          "average_loan_size_thousands": 1000
+        },
+        "2020": {
+          "subsidy_rate_percent": 0,
+          "obligations_thousands": 2760000,
+          "average_loan_size_thousands": 1283
+        }
+      }
+    },
+    {
+      "agency": "Export-Import Bank of the United States",
+      "bureau": null,
+      "account": null,
+      "program": "Medium Term Insurance",
+      "bea_category": "Discretionary",
+      "cohorts": {
+        "2019": {
+          "subsidy_rate_percent": -2.25,
+          "obligations_thousands": 126000,
+          "average_loan_size_thousands": 1500
+        },
+        "2020": {
+          "subsidy_rate_percent": -2.8,
+          "obligations_thousands": 80000,
+          "average_loan_size_thousands": 1368
+        }
+      }
+    }
+  ]
+}

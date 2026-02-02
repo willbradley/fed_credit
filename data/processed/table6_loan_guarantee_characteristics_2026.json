@@ -1,0 +1,1115 @@
+{
+  "metadata": {
+    "source": "Federal Credit Supplement, Budget of the U.S. Government, FY 2026",
+    "table": "Table 6: Loan Guarantee Programs - Subsidy Estimates and Loan Characteristics",
+    "cohort_year": 2026,
+    "units": {
+      "rates": "percent",
+      "maturity": "years",
+      "grace_period": "years",
+      "guarantee": "percent of loan"
+    }
+  },
+  "programs": [
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Agricultural Credit Insurance Fund",
+      "program": "Farm Ownership--Unsubsidized",
+      "cohort_year": 2026,
+      "subsidy_rate_percent": -0.53,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.59,
+        "interest": null,
+        "fees": -1.12,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 20,
+        "borrower_rate_percent": 8.5,
+        "grace_period_years": null,
+        "upfront_fees_percent": 1.13,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 0.76,
+        "recovery_rate_percent": 6.61,
+        "guarantee_percent": 90
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Agricultural Credit Insurance Fund",
+      "program": "Farm Operating--Unsubsidized",
+      "cohort_year": 2026,
+      "subsidy_rate_percent": -0.26,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.99,
+        "interest": null,
+        "fees": -1.25,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 5,
+        "borrower_rate_percent": 7.5,
+        "grace_period_years": null,
+        "upfront_fees_percent": 1.25,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 1.18,
+        "recovery_rate_percent": 5.1,
+        "guarantee_percent": 90
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Commodity Credit Corporation Export Loans",
+      "program": "GSM",
+      "cohort_year": 2026,
+      "subsidy_rate_percent": -0.25,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.24,
+        "interest": null,
+        "fees": -0.5,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 2,
+        "borrower_rate_percent": 4.34,
+        "grace_period_years": null,
+        "upfront_fees_percent": 0.5,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 0.62,
+        "recovery_rate_percent": 68.21,
+        "guarantee_percent": 98
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Commodity Credit Corporation Export Loans",
+      "program": "Export Guarantee Program--Facilities",
+      "cohort_year": 2026,
+      "subsidy_rate_percent": -0.13,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 1.93,
+        "interest": null,
+        "fees": -2.06,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 2,
+        "borrower_rate_percent": 4.93,
+        "grace_period_years": null,
+        "upfront_fees_percent": 2.06,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 4.8,
+        "recovery_rate_percent": 66.11,
+        "guarantee_percent": 100
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Community Facilities",
+      "program": "Community Facility Loan Guarantees",
+      "cohort_year": 2026,
+      "subsidy_rate_percent": -0.83,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 2.98,
+        "interest": null,
+        "fees": -3.81,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 22,
+        "borrower_rate_percent": 4.23,
+        "grace_period_years": null,
+        "upfront_fees_percent": 1.35,
+        "annual_fees_percent": 0.5,
+        "other_fees_percent": null,
+        "default_rate_percent": 4.12,
+        "recovery_rate_percent": 12.68,
+        "guarantee_percent": 80
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Housing Insurance Fund",
+      "program": "Guaranteed 538 Multifamily Housing",
+      "cohort_year": 2026,
+      "subsidy_rate_percent": -0.88,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 3.25,
+        "interest": null,
+        "fees": -4.14,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 39,
+        "borrower_rate_percent": 5.94,
+        "grace_period_years": null,
+        "upfront_fees_percent": 0.63,
+        "annual_fees_percent": 0.3,
+        "other_fees_percent": null,
+        "default_rate_percent": 7.18,
+        "recovery_rate_percent": 38.95,
+        "guarantee_percent": 89.92
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Housing Insurance Fund",
+      "program": "Guaranteed 502 Single Family Housing",
+      "cohort_year": 2026,
+      "subsidy_rate_percent": -0.81,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 2.46,
+        "interest": null,
+        "fees": -3.27,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 30,
+        "borrower_rate_percent": 5.93,
+        "grace_period_years": null,
+        "upfront_fees_percent": 1,
+        "annual_fees_percent": 0.35,
+        "other_fees_percent": null,
+        "default_rate_percent": 3.19,
+        "recovery_rate_percent": 0.42,
+        "guarantee_percent": 90
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Business-Cooperative Service",
+      "account": "Rural Business",
+      "program": "Business and Industry Loan Guarantees",
+      "cohort_year": 2026,
+      "subsidy_rate_percent": 0.89,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 5.46,
+        "interest": null,
+        "fees": -4.57,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 20,
+        "borrower_rate_percent": 8.28,
+        "grace_period_years": null,
+        "upfront_fees_percent": 2.76,
+        "annual_fees_percent": 0.54,
+        "other_fees_percent": null,
+        "default_rate_percent": 7.79,
+        "recovery_rate_percent": 21.52,
+        "guarantee_percent": 81.2
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Business-Cooperative Service",
+      "account": "Rural Energy for America Program",
+      "program": "Renewable Energy Loan Guarantees",
+      "cohort_year": 2026,
+      "subsidy_rate_percent": -1.16,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 1.35,
+        "interest": null,
+        "fees": -2.52,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 21,
+        "borrower_rate_percent": 8.38,
+        "grace_period_years": null,
+        "upfront_fees_percent": 1.4,
+        "annual_fees_percent": 0.25,
+        "other_fees_percent": null,
+        "default_rate_percent": 1.66,
+        "recovery_rate_percent": 7.98,
+        "guarantee_percent": 80
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Business-Cooperative Service",
+      "account": "Biorefinery Assistance",
+      "program": "Section 9003 Loan Guarantees",
+      "cohort_year": 2026,
+      "subsidy_rate_percent": 31.65,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 35.44,
+        "interest": null,
+        "fees": -3.92,
+        "other": 0.13
+      },
+      "loan_characteristics": {
+        "maturity_years": 18,
+        "borrower_rate_percent": 8.33,
+        "grace_period_years": 2,
+        "upfront_fees_percent": 1.14,
+        "annual_fees_percent": 0.57,
+        "other_fees_percent": null,
+        "default_rate_percent": 54.46,
+        "recovery_rate_percent": 24.01,
+        "guarantee_percent": 80
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Utilities Service",
+      "account": "Rural Water and Waste Disposal",
+      "program": "Water and Waste Disposal Loan Guarantees",
+      "cohort_year": 2026,
+      "subsidy_rate_percent": -0.19,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.8,
+        "interest": null,
+        "fees": -0.99,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 20,
+        "borrower_rate_percent": 4.23,
+        "grace_period_years": null,
+        "upfront_fees_percent": 1.1,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 0.99,
+        "recovery_rate_percent": null,
+        "guarantee_percent": 90
+      }
+    },
+    {
+      "agency": "Department of Energy",
+      "bureau": "Energy Programs",
+      "account": "Tribal Energy Loan Guarantee Program",
+      "program": "Tribal Energy Loan Guarantees",
+      "cohort_year": 2026,
+      "subsidy_rate_percent": 0.39,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 4.15,
+        "interest": null,
+        "fees": -3.76,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 10,
+        "borrower_rate_percent": 4.59,
+        "grace_period_years": 3,
+        "upfront_fees_percent": 3.76,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 9.73,
+        "recovery_rate_percent": 49.5,
+        "guarantee_percent": 90
+      }
+    },
+    {
+      "agency": "Department of Health and Human Services",
+      "bureau": "Administration for a Healthy America",
+      "account": "Primary Care",
+      "program": "AHA Facilities Renovation Loans",
+      "cohort_year": 2026,
+      "subsidy_rate_percent": 2.51,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 2.51,
+        "interest": null,
+        "fees": null,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 20,
+        "borrower_rate_percent": 8.25,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 13.6,
+        "recovery_rate_percent": 77.44,
+        "guarantee_percent": 80
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Public and Indian Housing Programs",
+      "account": "Native American Programs",
+      "program": "Title VI Indian Federal Guarantees Program",
+      "cohort_year": 2026,
+      "subsidy_rate_percent": 5.13,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 5.13,
+        "interest": null,
+        "fees": null,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 14,
+        "borrower_rate_percent": 5.51,
+        "grace_period_years": 1,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 8.76,
+        "recovery_rate_percent": 26.9,
+        "guarantee_percent": 95
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Public and Indian Housing Programs",
+      "account": "Indian Housing Loan Guarantee Fund",
+      "program": "Indian Housing Loan Guarantee",
+      "cohort_year": 2026,
+      "subsidy_rate_percent": 0.74,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 1.46,
+        "interest": null,
+        "fees": -1,
+        "other": 0.27
+      },
+      "loan_characteristics": {
+        "maturity_years": 30,
+        "borrower_rate_percent": 5.94,
+        "grace_period_years": 5,
+        "upfront_fees_percent": 1,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 3.83,
+        "recovery_rate_percent": 50.05,
+        "guarantee_percent": 100
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Housing Programs",
+      "account": "FHA-Mutual Mortgage Insurance",
+      "program": "MMI Fund",
+      "cohort_year": 2026,
+      "subsidy_rate_percent": -2.59,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 1.73,
+        "interest": null,
+        "fees": -4.99,
+        "other": 0.67
+      },
+      "loan_characteristics": {
+        "maturity_years": 30,
+        "borrower_rate_percent": 5.62,
+        "grace_period_years": null,
+        "upfront_fees_percent": 1.75,
+        "annual_fees_percent": 0.53,
+        "other_fees_percent": null,
+        "default_rate_percent": 3.05,
+        "recovery_rate_percent": 29.76,
+        "guarantee_percent": 100
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Housing Programs",
+      "account": "FHA-Mutual Mortgage Insurance",
+      "program": "MMI HECM",
+      "cohort_year": 2026,
+      "subsidy_rate_percent": -3.13,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.37,
+        "interest": null,
+        "fees": -3.5,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 36,
+        "borrower_rate_percent": 5.37,
+        "grace_period_years": null,
+        "upfront_fees_percent": 1.87,
+        "annual_fees_percent": 0.5,
+        "other_fees_percent": null,
+        "default_rate_percent": 16.25,
+        "recovery_rate_percent": 120.13,
+        "guarantee_percent": 100
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Housing Programs",
+      "account": "FHA-General and Special Risk",
+      "program": "Apartment New Construction / Substantial Rehab",
+      "cohort_year": 2026,
+      "subsidy_rate_percent": -1.95,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.78,
+        "interest": null,
+        "fees": -2.73,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 40,
+        "borrower_rate_percent": 3.29,
+        "grace_period_years": null,
+        "upfront_fees_percent": 1.05,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 2.63,
+        "recovery_rate_percent": 67.29,
+        "guarantee_percent": 100
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Housing Programs",
+      "account": "FHA-General and Special Risk",
+      "program": "Tax Credits",
+      "cohort_year": 2026,
+      "subsidy_rate_percent": -2.04,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.37,
+        "interest": null,
+        "fees": -2.42,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 38,
+        "borrower_rate_percent": 3.03,
+        "grace_period_years": null,
+        "upfront_fees_percent": 0.73,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 1.18,
+        "recovery_rate_percent": 64.95,
+        "guarantee_percent": 100
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Housing Programs",
+      "account": "FHA-General and Special Risk",
+      "program": "Apartment Refinances",
+      "cohort_year": 2026,
+      "subsidy_rate_percent": -2.47,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.11,
+        "interest": null,
+        "fees": -2.58,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 35,
+        "borrower_rate_percent": 2.76,
+        "grace_period_years": null,
+        "upfront_fees_percent": 0.74,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 0.41,
+        "recovery_rate_percent": 71.43,
+        "guarantee_percent": 100
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Housing Programs",
+      "account": "FHA-General and Special Risk",
+      "program": "Housing Finance Agency Risk Sharing",
+      "cohort_year": 2026,
+      "subsidy_rate_percent": -0.9,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.05,
+        "interest": null,
+        "fees": -0.94,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 38,
+        "borrower_rate_percent": 0.28,
+        "grace_period_years": null,
+        "upfront_fees_percent": 0.13,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 0.26,
+        "recovery_rate_percent": 82.88,
+        "guarantee_percent": 60.47
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Housing Programs",
+      "account": "FHA-General and Special Risk",
+      "program": "Residential Care Facilities",
+      "cohort_year": 2026,
+      "subsidy_rate_percent": -3.7,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 2.13,
+        "interest": null,
+        "fees": -5.83,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 37,
+        "borrower_rate_percent": 3.28,
+        "grace_period_years": null,
+        "upfront_fees_percent": 1.55,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 4.64,
+        "recovery_rate_percent": 48.8,
+        "guarantee_percent": 100
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Housing Programs",
+      "account": "FHA-General and Special Risk",
+      "program": "Residential Care Facility Refinances",
+      "cohort_year": 2026,
+      "subsidy_rate_percent": -3.42,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 1.86,
+        "interest": null,
+        "fees": -5.28,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 33,
+        "borrower_rate_percent": 2.77,
+        "grace_period_years": null,
+        "upfront_fees_percent": 1.25,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 3.17,
+        "recovery_rate_percent": 33.45,
+        "guarantee_percent": 100
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Housing Programs",
+      "account": "FHA-General and Special Risk",
+      "program": "Hospitals",
+      "cohort_year": 2026,
+      "subsidy_rate_percent": -5.27,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.25,
+        "interest": null,
+        "fees": -5.52,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 25,
+        "borrower_rate_percent": 3.06,
+        "grace_period_years": null,
+        "upfront_fees_percent": 1.33,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 0.51,
+        "recovery_rate_percent": 44.59,
+        "guarantee_percent": 100
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Housing Programs",
+      "account": "FHA-General and Special Risk",
+      "program": "Other Rental",
+      "cohort_year": 2026,
+      "subsidy_rate_percent": -6.91,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.59,
+        "interest": null,
+        "fees": -7.5,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 40,
+        "borrower_rate_percent": 3.32,
+        "grace_period_years": null,
+        "upfront_fees_percent": 2.18,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 1.97,
+        "recovery_rate_percent": 69.16,
+        "guarantee_percent": 100
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Housing Programs",
+      "account": "FHA-General and Special Risk",
+      "program": "Title 1 Property Improvement",
+      "cohort_year": 2026,
+      "subsidy_rate_percent": -2.46,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 3.22,
+        "interest": null,
+        "fees": -5.68,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 20,
+        "borrower_rate_percent": 5.61,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": 6.71,
+        "other_fees_percent": null,
+        "default_rate_percent": 4.84,
+        "recovery_rate_percent": 16.22,
+        "guarantee_percent": 100
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Housing Programs",
+      "account": "FHA-General and Special Risk",
+      "program": "Title 1 Manufactured Housing",
+      "cohort_year": 2026,
+      "subsidy_rate_percent": -6.87,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 2.86,
+        "interest": null,
+        "fees": -9.74,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 20,
+        "borrower_rate_percent": 5.61,
+        "grace_period_years": null,
+        "upfront_fees_percent": 2.25,
+        "annual_fees_percent": 9.4,
+        "other_fees_percent": null,
+        "default_rate_percent": 4.78,
+        "recovery_rate_percent": 21.53,
+        "guarantee_percent": 100
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Government National Mortgage Association",
+      "account": "Guarantees of Mortgage-backed Securities Loan Guarantee Program",
+      "program": "Guarantees of Mortgage-backed Securities",
+      "cohort_year": 2026,
+      "subsidy_rate_percent": -0.25,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.01,
+        "interest": null,
+        "fees": -0.24,
+        "other": -0.02
+      },
+      "loan_characteristics": {
+        "maturity_years": 31,
+        "borrower_rate_percent": 6.61,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": 0.06,
+        "other_fees_percent": null,
+        "default_rate_percent": 0.08,
+        "recovery_rate_percent": 87.45,
+        "guarantee_percent": 100
+      }
+    },
+    {
+      "agency": "International Assistance Programs",
+      "bureau": "International Security Assistance",
+      "account": "Foreign Military Financing Loan",
+      "program": "FMF Guaranteed Loan Program",
+      "cohort_year": 2026,
+      "subsidy_rate_percent": 3.75,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 3.75,
+        "interest": null,
+        "fees": null,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 17,
+        "borrower_rate_percent": 4.37,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 4.62,
+        "recovery_rate_percent": null,
+        "guarantee_percent": 80
+      }
+    },
+    {
+      "agency": "International Assistance Programs",
+      "bureau": "United States International Development Finance Corporation",
+      "account": "Insurance of Debt",
+      "program": "Insurance of Debt",
+      "cohort_year": 2026,
+      "subsidy_rate_percent": 0,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 4.29,
+        "interest": null,
+        "fees": -4.29,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 25,
+        "borrower_rate_percent": 3.73,
+        "grace_period_years": 8,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": 5.77,
+        "default_rate_percent": 49.46,
+        "recovery_rate_percent": 85,
+        "guarantee_percent": 100
+      }
+    },
+    {
+      "agency": "International Assistance Programs",
+      "bureau": "United States International Development Finance Corporation",
+      "account": "Program Account",
+      "program": "USAID Mission-led Guarantees",
+      "cohort_year": 2026,
+      "subsidy_rate_percent": 4.48,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 5.46,
+        "interest": null,
+        "fees": -0.99,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 7,
+        "borrower_rate_percent": null,
+        "grace_period_years": 3,
+        "upfront_fees_percent": 0.84,
+        "annual_fees_percent": 0.66,
+        "other_fees_percent": null,
+        "default_rate_percent": 6.2,
+        "recovery_rate_percent": 5.4,
+        "guarantee_percent": 55.88
+      }
+    },
+    {
+      "agency": "International Assistance Programs",
+      "bureau": "United States International Development Finance Corporation",
+      "account": "Program Account",
+      "program": "Loan Guarantees",
+      "cohort_year": 2026,
+      "subsidy_rate_percent": 1.12,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 4.91,
+        "interest": null,
+        "fees": -3.78,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 5,
+        "borrower_rate_percent": 5.26,
+        "grace_period_years": null,
+        "upfront_fees_percent": 0.06,
+        "annual_fees_percent": 1.59,
+        "other_fees_percent": null,
+        "default_rate_percent": 9.45,
+        "recovery_rate_percent": 48.73,
+        "guarantee_percent": 100
+      }
+    },
+    {
+      "agency": "International Assistance Programs",
+      "bureau": "United States International Development Finance Corporation",
+      "account": "Program Account",
+      "program": "Loan Guarantees in Foreign Currencies",
+      "cohort_year": 2026,
+      "subsidy_rate_percent": 3.95,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 14.35,
+        "interest": null,
+        "fees": -10.4,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 10,
+        "borrower_rate_percent": 6.39,
+        "grace_period_years": 3,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": 2,
+        "other_fees_percent": null,
+        "default_rate_percent": 37.1,
+        "recovery_rate_percent": 65.14,
+        "guarantee_percent": 100
+      }
+    },
+    {
+      "agency": "Department of Veterans Affairs",
+      "bureau": "Benefits Programs",
+      "account": "Veterans Housing Benefit Program Fund",
+      "program": "Housing Guaranteed Loans",
+      "cohort_year": 2026,
+      "subsidy_rate_percent": 0.15,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.9,
+        "interest": null,
+        "fees": -0.75,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 30,
+        "borrower_rate_percent": 5.94,
+        "grace_period_years": null,
+        "upfront_fees_percent": 0.73,
+        "annual_fees_percent": 0.03,
+        "other_fees_percent": null,
+        "default_rate_percent": 2.52,
+        "recovery_rate_percent": 56.08,
+        "guarantee_percent": 25
+      }
+    },
+    {
+      "agency": "Small Business Administration",
+      "bureau": "Small Business Administration",
+      "account": "Business Loans",
+      "program": "7(a) General Business Loan Guarantees",
+      "cohort_year": 2026,
+      "subsidy_rate_percent": 0,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 4.45,
+        "interest": null,
+        "fees": -4.46,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 15,
+        "borrower_rate_percent": 8.59,
+        "grace_period_years": null,
+        "upfront_fees_percent": 2.67,
+        "annual_fees_percent": 2.03,
+        "other_fees_percent": null,
+        "default_rate_percent": 7,
+        "recovery_rate_percent": 31.86,
+        "guarantee_percent": 73.11
+      }
+    },
+    {
+      "agency": "Small Business Administration",
+      "bureau": "Small Business Administration",
+      "account": "Business Loans",
+      "program": "Section 504 Certified Development Companies Debentures",
+      "cohort_year": 2026,
+      "subsidy_rate_percent": 0,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 3.37,
+        "interest": null,
+        "fees": -3.73,
+        "other": 0.37
+      },
+      "loan_characteristics": {
+        "maturity_years": 25,
+        "borrower_rate_percent": 4.37,
+        "grace_period_years": null,
+        "upfront_fees_percent": 1.27,
+        "annual_fees_percent": 2.92,
+        "other_fees_percent": null,
+        "default_rate_percent": 6.32,
+        "recovery_rate_percent": 43.61,
+        "guarantee_percent": 100
+      }
+    },
+    {
+      "agency": "Small Business Administration",
+      "bureau": "Small Business Administration",
+      "account": "Business Loans",
+      "program": "SBIC Debentures",
+      "cohort_year": 2026,
+      "subsidy_rate_percent": 0,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 5.13,
+        "interest": null,
+        "fees": -5.15,
+        "other": 0.02
+      },
+      "loan_characteristics": {
+        "maturity_years": 10,
+        "borrower_rate_percent": 4.35,
+        "grace_period_years": null,
+        "upfront_fees_percent": 3.11,
+        "annual_fees_percent": 2.36,
+        "other_fees_percent": null,
+        "default_rate_percent": 21.27,
+        "recovery_rate_percent": 75.54,
+        "guarantee_percent": 100
+      }
+    },
+    {
+      "agency": "Small Business Administration",
+      "bureau": "Small Business Administration",
+      "account": "Business Loans",
+      "program": "Secondary Market Guarantee",
+      "cohort_year": 2026,
+      "subsidy_rate_percent": 0,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": null,
+        "interest": null,
+        "fees": null,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 18,
+        "borrower_rate_percent": 6.86,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": null,
+        "recovery_rate_percent": null,
+        "guarantee_percent": 100
+      }
+    },
+    {
+      "agency": "Small Business Administration",
+      "bureau": "Small Business Administration",
+      "account": "Business Loans",
+      "program": "504 Commercial Real Estate (CRE) Refinance Program",
+      "cohort_year": 2026,
+      "subsidy_rate_percent": 0,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 3.36,
+        "interest": null,
+        "fees": -3.73,
+        "other": 0.37
+      },
+      "loan_characteristics": {
+        "maturity_years": 24,
+        "borrower_rate_percent": 4.39,
+        "grace_period_years": null,
+        "upfront_fees_percent": 1.27,
+        "annual_fees_percent": 2.9,
+        "other_fees_percent": null,
+        "default_rate_percent": 6.28,
+        "recovery_rate_percent": 43.45,
+        "guarantee_percent": 100
+      }
+    },
+    {
+      "agency": "Export-Import Bank of the United States",
+      "bureau": "Export-Import Bank of the United States",
+      "account": "Export-Import Bank Loans",
+      "program": "Short Term Insurance",
+      "cohort_year": 2026,
+      "subsidy_rate_percent": 0,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 1.3,
+        "interest": null,
+        "fees": -1.3,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 2,
+        "borrower_rate_percent": 3,
+        "grace_period_years": null,
+        "upfront_fees_percent": 1.3,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 1.81,
+        "recovery_rate_percent": 25,
+        "guarantee_percent": 100
+      }
+    },
+    {
+      "agency": "Export-Import Bank of the United States",
+      "bureau": "Export-Import Bank of the United States",
+      "account": "Export-Import Bank Loans",
+      "program": "Medium Term Insurance",
+      "cohort_year": 2026,
+      "subsidy_rate_percent": -5.6,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.46,
+        "interest": null,
+        "fees": -6.06,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 5,
+        "borrower_rate_percent": 6,
+        "grace_period_years": null,
+        "upfront_fees_percent": 6.06,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 2.17,
+        "recovery_rate_percent": 76.95,
+        "guarantee_percent": 100
+      }
+    },
+    {
+      "agency": "Export-Import Bank of the United States",
+      "bureau": "Export-Import Bank of the United States",
+      "account": "Export-Import Bank Loans",
+      "program": "Medium Term Guarantees",
+      "cohort_year": 2026,
+      "subsidy_rate_percent": -2.59,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 1.9,
+        "interest": null,
+        "fees": -4.49,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 5,
+        "borrower_rate_percent": 6,
+        "grace_period_years": null,
+        "upfront_fees_percent": 4.51,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 5.25,
+        "recovery_rate_percent": 60.7,
+        "guarantee_percent": 100
+      }
+    },
+    {
+      "agency": "Export-Import Bank of the United States",
+      "bureau": "Export-Import Bank of the United States",
+      "account": "Export-Import Bank Loans",
+      "program": "Long Term Guarantees",
+      "cohort_year": 2026,
+      "subsidy_rate_percent": -9.51,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 3.56,
+        "interest": null,
+        "fees": -13.07,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 10,
+        "borrower_rate_percent": 6,
+        "grace_period_years": null,
+        "upfront_fees_percent": 13.11,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 10.31,
+        "recovery_rate_percent": 60.7,
+        "guarantee_percent": 100
+      }
+    },
+    {
+      "agency": "Export-Import Bank of the United States",
+      "bureau": "Export-Import Bank of the United States",
+      "account": "Export-Import Bank Loans",
+      "program": "Working Capital Fund",
+      "cohort_year": 2026,
+      "subsidy_rate_percent": 0,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.5,
+        "interest": null,
+        "fees": -0.5,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 1,
+        "borrower_rate_percent": 0.68,
+        "grace_period_years": null,
+        "upfront_fees_percent": 0.5,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 0.51,
+        "recovery_rate_percent": null,
+        "guarantee_percent": 100
+      }
+    }
+  ]
+}

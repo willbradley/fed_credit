@@ -1,0 +1,244 @@
+{
+  "download_date": "2026-02-01 12:52:22",
+  "years": {
+    "2010": {
+      "type": "tables",
+      "success": true,
+      "tables_found": 10,
+      "tables_total": 10,
+      "details": {
+        "1": true,
+        "2": true,
+        "3": true,
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true,
+        "9": true,
+        "10": true
+      }
+    },
+    "2011": {
+      "type": "tables",
+      "success": true,
+      "tables_found": 10,
+      "tables_total": 10,
+      "details": {
+        "1": true,
+        "2": true,
+        "3": true,
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true,
+        "9": true,
+        "10": true
+      }
+    },
+    "2012": {
+      "type": "tables",
+      "success": true,
+      "tables_found": 10,
+      "tables_total": 10,
+      "details": {
+        "1": true,
+        "2": true,
+        "3": true,
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true,
+        "9": true,
+        "10": true
+      }
+    },
+    "2013": {
+      "type": "tables",
+      "success": true,
+      "tables_found": 10,
+      "tables_total": 10,
+      "details": {
+        "1": true,
+        "2": true,
+        "3": true,
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true,
+        "9": true,
+        "10": true
+      }
+    },
+    "2014": {
+      "type": "tables",
+      "success": true,
+      "tables_found": 10,
+      "tables_total": 10,
+      "details": {
+        "1": true,
+        "2": true,
+        "3": true,
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true,
+        "9": true,
+        "10": true
+      }
+    },
+    "2015": {
+      "type": "tables",
+      "success": true,
+      "tables_found": 10,
+      "tables_total": 10,
+      "details": {
+        "1": true,
+        "2": true,
+        "3": true,
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true,
+        "9": true,
+        "10": true
+      }
+    },
+    "2016": {
+      "type": "tables",
+      "success": true,
+      "tables_found": 10,
+      "tables_total": 10,
+      "details": {
+        "1": true,
+        "2": true,
+        "3": true,
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true,
+        "9": true,
+        "10": true
+      }
+    },
+    "2017": {
+      "type": "tables",
+      "success": true,
+      "tables_found": 10,
+      "tables_total": 10,
+      "details": {
+        "1": true,
+        "2": true,
+        "3": true,
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true,
+        "9": true,
+        "10": true
+      }
+    },
+    "2018": {
+      "type": "tables",
+      "success": false,
+      "tables_found": 0,
+      "tables_total": 10,
+      "details": {
+        "1": false,
+        "2": false,
+        "3": false,
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false,
+        "9": false,
+        "10": false
+      },
+      "pdf_fallback": true
+    },
+    "2019": {
+      "type": "tables",
+      "success": false,
+      "tables_found": 0,
+      "tables_total": 10,
+      "details": {
+        "1": false,
+        "2": false,
+        "3": false,
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false,
+        "9": false,
+        "10": false
+      },
+      "pdf_fallback": true
+    },
+    "2020": {
+      "type": "tables",
+      "success": false,
+      "tables_found": 0,
+      "tables_total": 10,
+      "details": {
+        "1": false,
+        "2": false,
+        "3": false,
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false,
+        "8": false,
+        "9": false,
+        "10": false
+      },
+      "pdf_fallback": true
+    },
+    "2021": {
+      "type": "tables",
+      "success": true,
+      "tables_found": 10,
+      "tables_total": 10,
+      "details": {
+        "1": true,
+        "2": true,
+        "3": true,
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true,
+        "9": true,
+        "10": true
+      }
+    },
+    "2022": {
+      "type": "single",
+      "success": true
+    },
+    "2023": {
+      "type": "single",
+      "success": true
+    },
+    "2024": {
+      "type": "single",
+      "success": true
+    },
+    "2025": {
+      "type": "single",
+      "success": true
+    },
+    "2026": {
+      "type": "single",
+      "success": true
+    }
+  }
+}

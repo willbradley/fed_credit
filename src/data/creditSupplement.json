@@ -1,0 +1,198 @@
+{
+  "metadata": {
+    "source": "Federal Credit Supplement, Budget of the U.S. Government",
+    "fiscal_year": 2024,
+    "last_updated": "2024-03-01",
+    "notes": "Sample data structure - to be populated with actual Federal Credit Supplement data"
+  },
+  "programs": [
+    {
+      "cfda_number": "59.012",
+      "program_name": "7(a) Loans",
+      "agency_name": "Small Business Administration",
+      "subsidy_rate": 0.0023,
+      "default_rate": 0.0412,
+      "average_maturity_years": 10,
+      "grace_period_months": 0,
+      "interest_rate_type": "variable",
+      "cohort_data": [
+        {
+          "cohort_year": 2024,
+          "obligations": 28500000000,
+          "disbursements": 26800000000,
+          "unpaid_principal": 95000000000,
+          "subsidy_cost": 65550000,
+          "default_amount": 1100000000
+        },
+        {
+          "cohort_year": 2023,
+          "obligations": 27200000000,
+          "disbursements": 25500000000,
+          "unpaid_principal": 87000000000,
+          "subsidy_cost": 62560000,
+          "default_amount": 980000000
+        },
+        {
+          "cohort_year": 2022,
+          "obligations": 25800000000,
+          "disbursements": 24200000000,
+          "unpaid_principal": 78000000000,
+          "subsidy_cost": 59340000,
+          "default_amount": 890000000
+        },
+        {
+          "cohort_year": 2021,
+          "obligations": 30100000000,
+          "disbursements": 28500000000,
+          "unpaid_principal": 72000000000,
+          "subsidy_cost": 69230000,
+          "default_amount": 750000000
+        }
+      ]
+    },
+    {
+      "cfda_number": "59.036",
+      "program_name": "504 Loans (Certified Development Company)",
+      "agency_name": "Small Business Administration",
+      "subsidy_rate": -0.0089,
+      "default_rate": 0.0156,
+      "average_maturity_years": 20,
+      "grace_period_months": 0,
+      "interest_rate_type": "fixed",
+      "cohort_data": [
+        {
+          "cohort_year": 2024,
+          "obligations": 7500000000,
+          "disbursements": 7200000000,
+          "unpaid_principal": 32000000000,
+          "subsidy_cost": -66750000,
+          "default_amount": 112000000
+        },
+        {
+          "cohort_year": 2023,
+          "obligations": 7100000000,
+          "disbursements": 6800000000,
+          "unpaid_principal": 28500000000,
+          "subsidy_cost": -63190000,
+          "default_amount": 98000000
+        }
+      ]
+    },
+    {
+      "cfda_number": "84.268",
+      "program_name": "Federal Direct Student Loans",
+      "agency_name": "Department of Education",
+      "subsidy_rate": 0.0812,
+      "default_rate": 0.1023,
+      "average_maturity_years": 10,
+      "grace_period_months": 6,
+      "interest_rate_type": "fixed",
+      "cohort_data": [
+        {
+          "cohort_year": 2024,
+          "obligations": 95000000000,
+          "disbursements": 92000000000,
+          "unpaid_principal": 1200000000000,
+          "subsidy_cost": 7714000000,
+          "default_amount": 12500000000
+        },
+        {
+          "cohort_year": 2023,
+          "obligations": 89000000000,
+          "disbursements": 86000000000,
+          "unpaid_principal": 1150000000000,
+          "subsidy_cost": 7226800000,
+          "default_amount": 11800000000
+        }
+      ]
+    },
+    {
+      "cfda_number": "10.410",
+      "program_name": "Very Low to Moderate Income Housing Loans",
+      "agency_name": "Department of Agriculture",
+      "subsidy_rate": 0.1245,
+      "default_rate": 0.0234,
+      "average_maturity_years": 33,
+      "grace_period_months": 0,
+      "interest_rate_type": "fixed",
+      "cohort_data": [
+        {
+          "cohort_year": 2024,
+          "obligations": 1200000000,
+          "disbursements": 1100000000,
+          "unpaid_principal": 18500000000,
+          "subsidy_cost": 149400000,
+          "default_amount": 43000000
+        }
+      ]
+    },
+    {
+      "cfda_number": "14.117",
+      "program_name": "Mortgage Insurance - Homes",
+      "agency_name": "Department of Housing and Urban Development",
+      "subsidy_rate": -0.0234,
+      "default_rate": 0.0678,
+      "average_maturity_years": 30,
+      "grace_period_months": 0,
+      "interest_rate_type": "fixed",
+      "cohort_data": [
+        {
+          "cohort_year": 2024,
+          "obligations": 225000000000,
+          "disbursements": 218000000000,
+          "unpaid_principal": 1350000000000,
+          "subsidy_cost": -5265000000,
+          "default_amount": 9100000000
+        },
+        {
+          "cohort_year": 2023,
+          "obligations": 198000000000,
+          "disbursements": 192000000000,
+          "unpaid_principal": 1280000000000,
+          "subsidy_cost": -4633200000,
+          "default_amount": 8700000000
+        }
+      ]
+    },
+    {
+      "cfda_number": "64.114",
+      "program_name": "Veterans Housing - Guaranteed and Insured Loans",
+      "agency_name": "Department of Veterans Affairs",
+      "subsidy_rate": -0.0312,
+      "default_rate": 0.0234,
+      "average_maturity_years": 30,
+      "grace_period_months": 0,
+      "interest_rate_type": "fixed",
+      "cohort_data": [
+        {
+          "cohort_year": 2024,
+          "obligations": 180000000000,
+          "disbursements": 175000000000,
+          "unpaid_principal": 720000000000,
+          "subsidy_cost": -5616000000,
+          "default_amount": 4200000000
+        }
+      ]
+    },
+    {
+      "cfda_number": "83.500",
+      "program_name": "National Flood Insurance Program",
+      "agency_name": "Federal Emergency Management Agency",
+      "subsidy_rate": 0.2145,
+      "default_rate": 0.0012,
+      "average_maturity_years": 1,
+      "grace_period_months": 0,
+      "interest_rate_type": "fixed",
+      "cohort_data": [
+        {
+          "cohort_year": 2024,
+          "obligations": 1800000000,
+          "disbursements": 1650000000,
+          "unpaid_principal": 1800000000,
+          "subsidy_cost": 386100000,
+          "default_amount": 2000000
+        }
+      ]
+    }
+  ]
+}

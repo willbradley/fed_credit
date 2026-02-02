@@ -1,0 +1,2054 @@
+{
+  "metadata": {
+    "source": "Federal Credit Supplement, Budget of the U.S. Government, FY 2010",
+    "table": "Table 3: Direct Loan Programs - Subsidy Estimates and Loan Characteristics",
+    "cohort_year": 2009,
+    "units": {
+      "rates": "percent",
+      "maturity": "years",
+      "grace_period": "years"
+    }
+  },
+  "programs": [
+    {
+      "agency": "Department of Agriculture",
+      "bureau": null,
+      "account": "Agricultural Credit Insurance Fund",
+      "program": "Farm Ownership",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": 6.3488,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 1.7025,
+        "interest": 4.369,
+        "fees": null,
+        "other": 0.2772
+      },
+      "loan_characteristics": {
+        "maturity_years": 37,
+        "borrower_rate_percent": 4.29,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 5.82,
+        "recovery_rate_percent": 41.45
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": null,
+      "account": "Agricultural Credit Insurance Fund",
+      "program": "Farm Operating",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": 11.7864,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 13.0509,
+        "interest": -1.255,
+        "fees": null,
+        "other": -0.0095
+      },
+      "loan_characteristics": {
+        "maturity_years": 4,
+        "borrower_rate_percent": 5.07,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 22.93,
+        "recovery_rate_percent": 47.95
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": null,
+      "account": "Agricultural Credit Insurance Fund",
+      "program": "Indian Tribe Land Acquisition",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": 6.2896,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 6.2263,
+        "interest": 0.0633,
+        "fees": null,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 40,
+        "borrower_rate_percent": 5,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 34.66,
+        "recovery_rate_percent": 11.56
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": null,
+      "account": "Agricultural Credit Insurance Fund",
+      "program": "Emergency Disaster",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": 14.2164,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 10.6351,
+        "interest": 4.0872,
+        "fees": null,
+        "other": -0.5058
+      },
+      "loan_characteristics": {
+        "maturity_years": 10,
+        "borrower_rate_percent": 3.75,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 31.29,
+        "recovery_rate_percent": 91.02
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": null,
+      "account": "Agricultural Credit Insurance Fund",
+      "program": "Boll Weevil Eradication",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": -0.5619,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.1691,
+        "interest": -1.6525,
+        "fees": null,
+        "other": 0.9213
+      },
+      "loan_characteristics": {
+        "maturity_years": 7,
+        "borrower_rate_percent": 4.95,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 3.84,
+        "recovery_rate_percent": 111.29
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": null,
+      "account": "Agricultural Credit Insurance Fund",
+      "program": "Farm Storage Facility Loan Program",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": 6.2481,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 7.204,
+        "interest": -0.8198,
+        "fees": -0.136,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 7,
+        "borrower_rate_percent": 4.75,
+        "grace_period_years": null,
+        "upfront_fees_percent": 0.14,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 9.09,
+        "recovery_rate_percent": 0
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": null,
+      "account": "Agricultural Credit Insurance Fund",
+      "program": "Sugar Storage Facility Loan Program",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": -1.0818,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.637,
+        "interest": -1.7188,
+        "fees": null,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 15,
+        "borrower_rate_percent": 5,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 10.54,
+        "recovery_rate_percent": 87.45
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Utilities Service",
+      "account": null,
+      "program": "Water and Waste Disposal Loans",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": 14.6171,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 1.6369,
+        "interest": 13.4074,
+        "fees": null,
+        "other": -0.4272
+      },
+      "loan_characteristics": {
+        "maturity_years": 38,
+        "borrower_rate_percent": 3.83,
+        "grace_period_years": 1,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 8.04,
+        "recovery_rate_percent": 46.78
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Utilities Service",
+      "account": null,
+      "program": "Distance Learning and Telemedicine Loans",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": 2.4575,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 2.4752,
+        "interest": "*",
+        "fees": null,
+        "other": -0.021
+      },
+      "loan_characteristics": {
+        "maturity_years": 8,
+        "borrower_rate_percent": 4.218,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 20.94,
+        "recovery_rate_percent": 90
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Utilities Service",
+      "account": null,
+      "program": "Broadband Treasury Loans",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": 3.9042,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 3.6541,
+        "interest": "*",
+        "fees": null,
+        "other": 0.2486
+      },
+      "loan_characteristics": {
+        "maturity_years": 12,
+        "borrower_rate_percent": 4.6,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 33.26,
+        "recovery_rate_percent": 90
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Utilities Service",
+      "account": "Electrification",
+      "program": "Electric Hardship Loans",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": -2.3818,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.9866,
+        "interest": -2.5546,
+        "fees": null,
+        "other": -0.8138
+      },
+      "loan_characteristics": {
+        "maturity_years": 33,
+        "borrower_rate_percent": 5,
+        "grace_period_years": 1,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 10.2,
+        "recovery_rate_percent": 83.03
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Utilities Service",
+      "account": "Electrification",
+      "program": "FFB Electric Loans",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": -2.2779,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.6984,
+        "interest": -2.974,
+        "fees": null,
+        "other": "*"
+      },
+      "loan_characteristics": {
+        "maturity_years": 28,
+        "borrower_rate_percent": 5,
+        "grace_period_years": 1,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 5.47,
+        "recovery_rate_percent": 83.03
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Utilities Service",
+      "account": "Telephone",
+      "program": "Telecommunication Hardship Loans",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": -1.7634,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 1.0224,
+        "interest": -2.8587,
+        "fees": null,
+        "other": 0.0728
+      },
+      "loan_characteristics": {
+        "maturity_years": 19,
+        "borrower_rate_percent": 5,
+        "grace_period_years": 1,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 7.06,
+        "recovery_rate_percent": 83.01
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Utilities Service",
+      "account": "Telephone",
+      "program": "FFB Telecommunications Loans",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": -0.9354,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.8023,
+        "interest": -1.4724,
+        "fees": null,
+        "other": -0.2652
+      },
+      "loan_characteristics": {
+        "maturity_years": 16,
+        "borrower_rate_percent": 4.69,
+        "grace_period_years": 1,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 5.16,
+        "recovery_rate_percent": 83.03
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Utilities Service",
+      "account": "Telephone",
+      "program": "Treasury Telecommunication Loans",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": 0.2105,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.2349,
+        "interest": 0.0359,
+        "fees": null,
+        "other": -0.0603
+      },
+      "loan_characteristics": {
+        "maturity_years": 17,
+        "borrower_rate_percent": 4.61,
+        "grace_period_years": 1,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 1.74,
+        "recovery_rate_percent": 83.03
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": null,
+      "program": "Community Facility Loans",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": 5.7192,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 4.77,
+        "interest": 1.2711,
+        "fees": null,
+        "other": -0.3218
+      },
+      "loan_characteristics": {
+        "maturity_years": 30,
+        "borrower_rate_percent": 4.67,
+        "grace_period_years": 1,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 11.44,
+        "recovery_rate_percent": 21.45
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Housing Insurance Fund",
+      "program": "Single-Family Housing Credit Sales",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": -2.5914,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 7.7699,
+        "interest": -10.36,
+        "fees": null,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 20,
+        "borrower_rate_percent": 6.59,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 46.22,
+        "recovery_rate_percent": 64.66
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Housing Insurance Fund",
+      "program": "Multi-Family Housing Credit Sales",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": 36.1207,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 8.7427,
+        "interest": 27.43,
+        "fees": null,
+        "other": -0.05
+      },
+      "loan_characteristics": {
+        "maturity_years": 50,
+        "borrower_rate_percent": 1.4,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 29.1,
+        "recovery_rate_percent": 22.49
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Housing Insurance Fund",
+      "program": "Section 502 Single-Family Housing",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": 6.72,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 5.07,
+        "interest": 1.64,
+        "fees": null,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 34,
+        "borrower_rate_percent": 3.79,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 27.3,
+        "recovery_rate_percent": 32.76
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Housing Insurance Fund",
+      "program": "Section 504 Housing Repair",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": 26.87,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.9777,
+        "interest": 27.685,
+        "fees": null,
+        "other": -1.8
+      },
+      "loan_characteristics": {
+        "maturity_years": 19,
+        "borrower_rate_percent": 1,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 7.15,
+        "recovery_rate_percent": 56.86
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Housing Insurance Fund",
+      "program": "Section 515 Multi-Family Housing",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": 41.1638,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 1.5795,
+        "interest": 39.73,
+        "fees": null,
+        "other": -0.14
+      },
+      "loan_characteristics": {
+        "maturity_years": 50,
+        "borrower_rate_percent": 1.4,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 15.08,
+        "recovery_rate_percent": 72.38
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Housing Insurance Fund",
+      "program": "Section 523 Self-Help Housing",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": 1.6508,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": null,
+        "interest": 1.6508,
+        "fees": null,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 2,
+        "borrower_rate_percent": 3,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": null,
+        "recovery_rate_percent": null
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Housing Insurance Fund",
+      "program": "Section 524 Site Development",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": -1.8399,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.9343,
+        "interest": -2.7742,
+        "fees": null,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 2,
+        "borrower_rate_percent": 6.09,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 0.99,
+        "recovery_rate_percent": null
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Housing Insurance Fund",
+      "program": "Section 514 Farm Labor Housing",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": 42.1354,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 9.4989,
+        "interest": 40.98,
+        "fees": null,
+        "other": -8.35
+      },
+      "loan_characteristics": {
+        "maturity_years": 33,
+        "borrower_rate_percent": 1,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 55.8,
+        "recovery_rate_percent": 59.45
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Housing Insurance Fund",
+      "program": "Multi-Family Housing Relending Program",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": 44.9848,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": "*",
+        "interest": 44.9835,
+        "fees": null,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 30,
+        "borrower_rate_percent": 1,
+        "grace_period_years": 3,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 0.02,
+        "recovery_rate_percent": 90
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Housing Insurance Fund",
+      "program": "Multi-Family Housing Revitalization Seconds",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": 85.51,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 12.72,
+        "interest": 72.78,
+        "fees": null,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 50,
+        "borrower_rate_percent": null,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 54.34,
+        "recovery_rate_percent": null
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Housing Insurance Fund",
+      "program": "Multi-Family Housing Revitalization Zero",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": 60.59,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 1,
+        "interest": 59.59,
+        "fees": null,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 50,
+        "borrower_rate_percent": null,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 3.22,
+        "recovery_rate_percent": 70.08
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Business \u2014 Cooperative Service",
+      "program": "Intermediary Relending Program",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": 41.8468,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.4031,
+        "interest": 42.088,
+        "fees": null,
+        "other": -0.6443
+      },
+      "loan_characteristics": {
+        "maturity_years": 30,
+        "borrower_rate_percent": 1,
+        "grace_period_years": 3,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 10.47,
+        "recovery_rate_percent": 99.85
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Business \u2014 Cooperative Service",
+      "program": "Rural Economic Development Loans",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": 20.88,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.21,
+        "interest": 21.4883,
+        "fees": null,
+        "other": -0.8088
+      },
+      "loan_characteristics": {
+        "maturity_years": 10,
+        "borrower_rate_percent": null,
+        "grace_period_years": 1,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 5.6,
+        "recovery_rate_percent": 100
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Business \u2014 Cooperative Service",
+      "program": "Rural Microenterprise Loans",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": 34.03,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 1.8,
+        "interest": 32.95,
+        "fees": null,
+        "other": -0.72
+      },
+      "loan_characteristics": {
+        "maturity_years": 20,
+        "borrower_rate_percent": 1,
+        "grace_period_years": 2,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 4.18,
+        "recovery_rate_percent": 2.39
+      }
+    },
+    {
+      "agency": "Department of Commerce",
+      "bureau": "National Oceanic and Atmospheric Administration",
+      "account": "Fisheries Finance",
+      "program": "Individual Fishing Quota Loans",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": -12.7756,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.3875,
+        "interest": -20.1068,
+        "fees": -0.6852,
+        "other": 7.6288
+      },
+      "loan_characteristics": {
+        "maturity_years": 21,
+        "borrower_rate_percent": 6.25,
+        "grace_period_years": null,
+        "upfront_fees_percent": 0.5,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 3.94,
+        "recovery_rate_percent": 81.47
+      }
+    },
+    {
+      "agency": "Department of Commerce",
+      "bureau": "National Oceanic and Atmospheric Administration",
+      "account": "Fisheries Finance",
+      "program": "Traditional Direct Loans",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": -6.428,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.1577,
+        "interest": -16.2136,
+        "fees": -0.568,
+        "other": 10.1958
+      },
+      "loan_characteristics": {
+        "maturity_years": 14,
+        "borrower_rate_percent": 5.8,
+        "grace_period_years": null,
+        "upfront_fees_percent": 0.5,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 1.94,
+        "recovery_rate_percent": 86.62
+      }
+    },
+    {
+      "agency": "Department of Defense",
+      "bureau": null,
+      "account": "Family Housing",
+      "program": "Family Housing Improvement Fund Direct Loans",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": 31.31,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 11.85,
+        "interest": 19.46,
+        "fees": null,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 30,
+        "borrower_rate_percent": 3.47,
+        "grace_period_years": 5,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 49.06,
+        "recovery_rate_percent": 51.63
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": null,
+      "account": "Ford Direct Loan Program",
+      "program": "Weighted Average of Total Obligations",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": -16.3,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 2.1,
+        "interest": -25.71,
+        "fees": -1.33,
+        "other": 8.64
+      },
+      "loan_characteristics": {
+        "maturity_years": 12,
+        "borrower_rate_percent": 6.48,
+        "grace_period_years": "*",
+        "upfront_fees_percent": 1.33,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 12.66,
+        "recovery_rate_percent": "104.38 4"
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": null,
+      "account": "Ford Direct Loan Program",
+      "program": "Subsidized Stafford",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": -2.8818,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.7111,
+        "interest": -9.2397,
+        "fees": -1.88,
+        "other": 7.5266
+      },
+      "loan_characteristics": {
+        "maturity_years": 10,
+        "borrower_rate_percent": 6.04,
+        "grace_period_years": "*",
+        "upfront_fees_percent": 1.88,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 11.97,
+        "recovery_rate_percent": "114.60 4"
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": null,
+      "account": "Ford Direct Loan Program",
+      "program": "Unsubsidized Stafford",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": -28.4613,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.9924,
+        "interest": -37.1996,
+        "fees": -1.88,
+        "other": 9.6258
+      },
+      "loan_characteristics": {
+        "maturity_years": 10,
+        "borrower_rate_percent": 6.46,
+        "grace_period_years": "*",
+        "upfront_fees_percent": 1.88,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 11.82,
+        "recovery_rate_percent": "114.60 4"
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": null,
+      "account": "Ford Direct Loan Program",
+      "program": "PLUS",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": -28.6002,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.5862,
+        "interest": -34.1289,
+        "fees": -4,
+        "other": 8.9425
+      },
+      "loan_characteristics": {
+        "maturity_years": 10,
+        "borrower_rate_percent": 7.9,
+        "grace_period_years": null,
+        "upfront_fees_percent": 4,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 5.37,
+        "recovery_rate_percent": "114.17 4"
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": null,
+      "account": "Ford Direct Loan Program",
+      "program": "Consolidated",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": -12.8809,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 4.0103,
+        "interest": -25.4186,
+        "fees": null,
+        "other": 8.5274
+      },
+      "loan_characteristics": {
+        "maturity_years": 15,
+        "borrower_rate_percent": 6.4,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 15.19,
+        "recovery_rate_percent": "93.46 4"
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": null,
+      "account": "Ford Direct Loan Program",
+      "program": "TEACH Grants",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": -3.6313,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.5613,
+        "interest": -15.4363,
+        "fees": null,
+        "other": 11.2436
+      },
+      "loan_characteristics": {
+        "maturity_years": 9,
+        "borrower_rate_percent": 6.8,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 7.54,
+        "recovery_rate_percent": "114.60 4"
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": null,
+      "account": "Temporary Loan Purchase Authority Put",
+      "program": "Weighted Average of Total Obligations",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": -16.02,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.7,
+        "interest": -28.75,
+        "fees": null,
+        "other": 12.03
+      },
+      "loan_characteristics": {
+        "maturity_years": 9,
+        "borrower_rate_percent": 6.6,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": "2.70 5",
+        "default_rate_percent": 10.38,
+        "recovery_rate_percent": "122.14 4"
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": null,
+      "account": "Temporary Loan Purchase Authority Put",
+      "program": "Subsidized Stafford",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": 0.84,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.6332,
+        "interest": -10.54,
+        "fees": null,
+        "other": 10.75
+      },
+      "loan_characteristics": {
+        "maturity_years": 9,
+        "borrower_rate_percent": 6.1,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": "3.01 5",
+        "default_rate_percent": 11.49,
+        "recovery_rate_percent": "123.00 4"
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": null,
+      "account": "Temporary Loan Purchase Authority Put",
+      "program": "Unsubsidized Stafford",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": -26.46,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.8311,
+        "interest": -40.13,
+        "fees": null,
+        "other": 12.84
+      },
+      "loan_characteristics": {
+        "maturity_years": 9,
+        "borrower_rate_percent": 6.46,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": "2.76 5",
+        "default_rate_percent": 11.21,
+        "recovery_rate_percent": "123.00 4"
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": null,
+      "account": "Temporary Loan Purchase Authority Put",
+      "program": "PLUS",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": -24.87,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.3922,
+        "interest": -37.9,
+        "fees": null,
+        "other": 12.64
+      },
+      "loan_characteristics": {
+        "maturity_years": 8,
+        "borrower_rate_percent": 8.5,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": "1.65 5",
+        "default_rate_percent": 4.3,
+        "recovery_rate_percent": "109.00 4"
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": null,
+      "account": "Temporary Loan Purchase Authority Short Term Put",
+      "program": "Weighted Average of Total Obligations",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": -14.12,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.7,
+        "interest": -19.72,
+        "fees": null,
+        "other": 4.89
+      },
+      "loan_characteristics": {
+        "maturity_years": 9,
+        "borrower_rate_percent": 7.04,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 9.79,
+        "recovery_rate_percent": "121.54 4"
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": null,
+      "account": "Temporary Loan Purchase Authority Short Term Put",
+      "program": "Subsidized Stafford",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": -3.58,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.86,
+        "interest": -9.11,
+        "fees": null,
+        "other": 4.67
+      },
+      "loan_characteristics": {
+        "maturity_years": 9,
+        "borrower_rate_percent": 6.8,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 11.7,
+        "recovery_rate_percent": "123.00 4"
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": null,
+      "account": "Temporary Loan Purchase Authority Short Term Put",
+      "program": "Unsubsidized Stafford",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": -20.98,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.63,
+        "interest": -26.79,
+        "fees": null,
+        "other": 5.18
+      },
+      "loan_characteristics": {
+        "maturity_years": 9,
+        "borrower_rate_percent": 6.46,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 10.65,
+        "recovery_rate_percent": "123.00 4"
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": null,
+      "account": "Temporary Loan Purchase Authority Short Term Put",
+      "program": "PLUS",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": -23.78,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.51,
+        "interest": -29.15,
+        "fees": null,
+        "other": 4.86
+      },
+      "loan_characteristics": {
+        "maturity_years": 8,
+        "borrower_rate_percent": 8.5,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 4.51,
+        "recovery_rate_percent": "109.00 4"
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": null,
+      "account": "Temporary Loan Purchase Authority Participation",
+      "program": "Weighted Average of Total Obligations",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": -7.47,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.67,
+        "interest": -18.21,
+        "fees": null,
+        "other": 10.06
+      },
+      "loan_characteristics": {
+        "maturity_years": 9,
+        "borrower_rate_percent": 6.6,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": "0.49 5",
+        "default_rate_percent": 10.43,
+        "recovery_rate_percent": "122.19 4"
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": null,
+      "account": "Temporary Loan Purchase Authority Participation",
+      "program": "Subsidized Stafford",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": 4.99,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.6072,
+        "interest": -3.85,
+        "fees": null,
+        "other": 8.23
+      },
+      "loan_characteristics": {
+        "maturity_years": 9,
+        "borrower_rate_percent": 6.1,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": "-0.18 5",
+        "default_rate_percent": 11.49,
+        "recovery_rate_percent": "123.00 4"
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": null,
+      "account": "Temporary Loan Purchase Authority Participation",
+      "program": "Unsubsidized Stafford",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": -15.89,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.7959,
+        "interest": -27.98,
+        "fees": null,
+        "other": 11.29
+      },
+      "loan_characteristics": {
+        "maturity_years": 9,
+        "borrower_rate_percent": 6.46,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": "1.72 5",
+        "default_rate_percent": 11.21,
+        "recovery_rate_percent": "123.00 4"
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": null,
+      "account": "Temporary Loan Purchase Authority Participation",
+      "program": "PLUS",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": -10.35,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.373,
+        "interest": -21.25,
+        "fees": null,
+        "other": 10.53
+      },
+      "loan_characteristics": {
+        "maturity_years": 8,
+        "borrower_rate_percent": 8.5,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": "-2.39 5",
+        "default_rate_percent": 4.3,
+        "recovery_rate_percent": "109.00 4"
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": null,
+      "account": "Temporary Loan Purchase Authority Conduit",
+      "program": "Weighted Average of Total Obligations",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": -7.32,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 2.4,
+        "interest": -14.21,
+        "fees": -4.98,
+        "other": 9.47
+      },
+      "loan_characteristics": {
+        "maturity_years": 9,
+        "borrower_rate_percent": 6.33,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": 0.1,
+        "other_fees_percent": null,
+        "default_rate_percent": 10.9,
+        "recovery_rate_percent": "122.58 4"
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": null,
+      "account": "Temporary Loan Purchase Authority Conduit",
+      "program": "Subsidized Stafford",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": -1.94,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": -0.52,
+        "interest": -7.49,
+        "fees": -3.79,
+        "other": 9.86
+      },
+      "loan_characteristics": {
+        "maturity_years": 9,
+        "borrower_rate_percent": 6.35,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": 0.1,
+        "other_fees_percent": null,
+        "default_rate_percent": 11.49,
+        "recovery_rate_percent": "122.94 4"
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": null,
+      "account": "Temporary Loan Purchase Authority Conduit",
+      "program": "Unsubsidized Stafford",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": -12.25,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 5.76,
+        "interest": -20.57,
+        "fees": -6.45,
+        "other": 9.01
+      },
+      "loan_characteristics": {
+        "maturity_years": 9,
+        "borrower_rate_percent": 5.97,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": 0.1,
+        "other_fees_percent": null,
+        "default_rate_percent": 11.21,
+        "recovery_rate_percent": "122.94 4"
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": null,
+      "account": "Temporary Loan Purchase Authority Conduit",
+      "program": "PLUS",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": -11.62,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": -0.33,
+        "interest": -18.05,
+        "fees": -3.1,
+        "other": 9.86
+      },
+      "loan_characteristics": {
+        "maturity_years": 8,
+        "borrower_rate_percent": 7.47,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": 0.1,
+        "other_fees_percent": null,
+        "default_rate_percent": 4.3,
+        "recovery_rate_percent": "108.69 4"
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": null,
+      "account": "Temporary Loan Purchase Authority Conduit",
+      "program": "Temporary Purchase Program - Conduit Liquidity",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": -6.19,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": null,
+        "interest": -1.3042,
+        "fees": -4.88,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": null,
+        "borrower_rate_percent": 5.47,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": 0.25,
+        "other_fees_percent": -4.88,
+        "default_rate_percent": null,
+        "recovery_rate_percent": null
+      }
+    },
+    {
+      "agency": "Historically Black College and University Capital",
+      "bureau": null,
+      "account": null,
+      "program": "Financing Program",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": 16.3051,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 20.6174,
+        "interest": 0.0002,
+        "fees": -4.3125,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 30,
+        "borrower_rate_percent": 6,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": 0.13,
+        "other_fees_percent": null,
+        "default_rate_percent": "42.07 6",
+        "recovery_rate_percent": null
+      }
+    },
+    {
+      "agency": "Department of Energy",
+      "bureau": "Energy Programs",
+      "account": null,
+      "program": "Advanced Technology Vehicle Manufacturing",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": "21.74 7",
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 17.79,
+        "interest": 4.05,
+        "fees": -0.1,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 9,
+        "borrower_rate_percent": 3.24,
+        "grace_period_years": null,
+        "upfront_fees_percent": 0.1,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 40.85,
+        "recovery_rate_percent": 50
+      }
+    },
+    {
+      "agency": "Department of Energy",
+      "bureau": "Energy Programs",
+      "account": "Title 17 Innovative Technology Program",
+      "program": "Section 1703 FFB Loans",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": "0.00 7",
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 12.96,
+        "interest": -0.8762,
+        "fees": -12.08,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 16,
+        "borrower_rate_percent": 4.74,
+        "grace_period_years": 4,
+        "upfront_fees_percent": 12.08,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 61.09,
+        "recovery_rate_percent": 51.28
+      }
+    },
+    {
+      "agency": "Department of Energy",
+      "bureau": "Energy Programs",
+      "account": "Title 17 Innovative Technology Program",
+      "program": "Section 1705 FFB Loans",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": "11.81 7",
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 11.8081,
+        "interest": "*",
+        "fees": null,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 15,
+        "borrower_rate_percent": 4.75,
+        "grace_period_years": 2,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 39.77,
+        "recovery_rate_percent": 55
+      }
+    },
+    {
+      "agency": "Department of Homeland Security",
+      "bureau": "Federal Emergency Management Agency",
+      "account": null,
+      "program": "State Share Loans",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": 1.0391,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": null,
+        "interest": 0.6854,
+        "fees": null,
+        "other": 0.3536
+      },
+      "loan_characteristics": {
+        "maturity_years": 6,
+        "borrower_rate_percent": 4.54,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": null,
+        "recovery_rate_percent": null
+      }
+    },
+    {
+      "agency": "Department of Homeland Security",
+      "bureau": "Federal Emergency Management Agency",
+      "account": null,
+      "program": "Community Disaster Loans",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": 93.9452,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": null,
+        "interest": 5.0433,
+        "fees": null,
+        "other": 88.9018
+      },
+      "loan_characteristics": {
+        "maturity_years": 5,
+        "borrower_rate_percent": 4.42,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": null,
+        "recovery_rate_percent": null
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": null,
+      "account": "Office of Housing",
+      "program": "Energy Retrofit Loans",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": 89.8164,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 22.1087,
+        "interest": 69.4015,
+        "fees": null,
+        "other": -1.6938
+      },
+      "loan_characteristics": {
+        "maturity_years": 30,
+        "borrower_rate_percent": 1,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 99.35,
+        "recovery_rate_percent": null
+      }
+    },
+    {
+      "agency": "Department of State",
+      "bureau": null,
+      "account": "Bureau of Consular Affairs",
+      "program": "Repatriation Loans",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": 59.7719,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 59.3607,
+        "interest": 0.4112,
+        "fees": null,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": "*",
+        "borrower_rate_percent": 1.2,
+        "grace_period_years": "*",
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 94.19,
+        "recovery_rate_percent": 39.81
+      }
+    },
+    {
+      "agency": "Department of Transportation",
+      "bureau": null,
+      "account": "Transportation Infrastructure Finance and Innovation",
+      "program": "TIFIA Direct Loans",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": 10.496,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 10.0609,
+        "interest": 0.4351,
+        "fees": null,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 38,
+        "borrower_rate_percent": 5.21,
+        "grace_period_years": 5,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 55,
+        "recovery_rate_percent": 50.25
+      }
+    },
+    {
+      "agency": "Department of Transportation",
+      "bureau": null,
+      "account": "Transportation Infrastructure Finance and Innovation",
+      "program": "TIFIA Lines of Credit",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": 9.9972,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": null,
+        "interest": null,
+        "fees": null,
+        "other": 9.9972
+      },
+      "loan_characteristics": {
+        "maturity_years": 35,
+        "borrower_rate_percent": 5.21,
+        "grace_period_years": 15,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 94.44,
+        "recovery_rate_percent": 56.62
+      }
+    },
+    {
+      "agency": "Railroad Rehabilitation and Improvement Financing",
+      "bureau": null,
+      "account": null,
+      "program": "Program",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": 0.0018,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 3.0964,
+        "interest": -1.2846,
+        "fees": -1.81,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 25,
+        "borrower_rate_percent": 5.14,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": 1.81,
+        "default_rate_percent": 50.77,
+        "recovery_rate_percent": 62.74
+      }
+    },
+    {
+      "agency": "Department of Treasury",
+      "bureau": "Departmental Offices",
+      "account": null,
+      "program": "GSE MBS Purchases",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": -2.36,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.25,
+        "interest": -2.61,
+        "fees": null,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 30,
+        "borrower_rate_percent": 5.5,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 0.31,
+        "recovery_rate_percent": null
+      }
+    },
+    {
+      "agency": "Office Financial Stability:",
+      "bureau": null,
+      "account": "TARP Direct Loans",
+      "program": "Automotive Industry Financing Program ",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": 49.32753289473684,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 46.62,
+        "interest": 2.89,
+        "fees": null,
+        "other": -0.18503289473684212
+      },
+      "loan_characteristics": {
+        "maturity_years": 3,
+        "borrower_rate_percent": 5.7,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": 0.28,
+        "default_rate_percent": 67.5,
+        "recovery_rate_percent": 18.2
+      }
+    },
+    {
+      "agency": "Office Financial Stability:",
+      "bureau": null,
+      "account": "TARP Direct Loans",
+      "program": "Other Section 101",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": "33.33 7",
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 6.61,
+        "interest": 26.72,
+        "fees": null,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 15,
+        "borrower_rate_percent": 5,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": "13.03 6",
+        "recovery_rate_percent": null
+      }
+    },
+    {
+      "agency": "Office Financial Stability:",
+      "bureau": null,
+      "account": "TARP Equity Purchases",
+      "program": "Capital Purchase Program",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": 26.99,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": null,
+        "interest": null,
+        "fees": null,
+        "other": "26.99 9"
+      },
+      "loan_characteristics": {
+        "maturity_years": -10,
+        "borrower_rate_percent": 5,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": 7.8,
+        "default_rate_percent": null,
+        "recovery_rate_percent": null
+      }
+    },
+    {
+      "agency": "Office Financial Stability:",
+      "bureau": null,
+      "account": "TARP Equity Purchases",
+      "program": "Systemically Significant Failing Institutions",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": 82.78,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": null,
+        "interest": null,
+        "fees": null,
+        "other": "82.78 9"
+      },
+      "loan_characteristics": {
+        "maturity_years": -10,
+        "borrower_rate_percent": 10,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": 0.53,
+        "default_rate_percent": null,
+        "recovery_rate_percent": null
+      }
+    },
+    {
+      "agency": "Office Financial Stability:",
+      "bureau": null,
+      "account": "TARP Equity Purchases",
+      "program": "Targeted Investment Program",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": 48.85,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": null,
+        "interest": null,
+        "fees": null,
+        "other": "48.85 9"
+      },
+      "loan_characteristics": {
+        "maturity_years": -10,
+        "borrower_rate_percent": 8,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": 10,
+        "default_rate_percent": null,
+        "recovery_rate_percent": null
+      }
+    },
+    {
+      "agency": "Office Financial Stability:",
+      "bureau": null,
+      "account": "TARP Equity Purchases",
+      "program": "Automotive Industry Financing Program ",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": 64.7852,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": null,
+        "interest": null,
+        "fees": null,
+        "other": "64.79 9"
+      },
+      "loan_characteristics": {
+        "maturity_years": -10,
+        "borrower_rate_percent": 8,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": 2.69,
+        "default_rate_percent": null,
+        "recovery_rate_percent": null
+      }
+    },
+    {
+      "agency": "Financial Stabilization Reserve:",
+      "bureau": null,
+      "account": null,
+      "program": "Financial Stabilization Reserve",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": 33.33,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 6.61,
+        "interest": 26.72,
+        "fees": null,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 15,
+        "borrower_rate_percent": 5,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": "13.03 6",
+        "recovery_rate_percent": null
+      }
+    },
+    {
+      "agency": "Department of Veterans Affairs",
+      "bureau": "Benefits Programs",
+      "account": null,
+      "program": "Acquired Loans",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": 3.0381,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 9.9551,
+        "interest": -7.6552,
+        "fees": null,
+        "other": 0.7382
+      },
+      "loan_characteristics": {
+        "maturity_years": 30,
+        "borrower_rate_percent": 5.65,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 78.89,
+        "recovery_rate_percent": 40.7
+      }
+    },
+    {
+      "agency": "Department of Veterans Affairs",
+      "bureau": "Benefits Programs",
+      "account": null,
+      "program": "Vendee Loans",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": -3.2949,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.2809,
+        "interest": -21.5346,
+        "fees": -1.9072,
+        "other": 19.8659
+      },
+      "loan_characteristics": {
+        "maturity_years": 30,
+        "borrower_rate_percent": 6.81,
+        "grace_period_years": null,
+        "upfront_fees_percent": 1.95,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 0.65,
+        "recovery_rate_percent": -4.27
+      }
+    },
+    {
+      "agency": "Department of Veterans Affairs",
+      "bureau": "Benefits Programs",
+      "account": null,
+      "program": "Native American Veteran Housing Loans",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": -10.0733,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": null,
+        "interest": -17.9175,
+        "fees": -0.7335,
+        "other": 8.5778
+      },
+      "loan_characteristics": {
+        "maturity_years": 30,
+        "borrower_rate_percent": 6.81,
+        "grace_period_years": null,
+        "upfront_fees_percent": 1.15,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": null,
+        "recovery_rate_percent": null
+      }
+    },
+    {
+      "agency": "Department of Veterans Affairs",
+      "bureau": "Benefits Programs",
+      "account": null,
+      "program": "Vocational Rehabilitation Loan Fund",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": 1.9335,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.2876,
+        "interest": 1.8771,
+        "fees": null,
+        "other": -0.2311
+      },
+      "loan_characteristics": {
+        "maturity_years": 1,
+        "borrower_rate_percent": null,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 0.3,
+        "recovery_rate_percent": null
+      }
+    },
+    {
+      "agency": "International Assistance Programs",
+      "bureau": "Overseas Private Investment Corporation",
+      "account": null,
+      "program": "OPIC Direct Loans",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": 2.34,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 13.7051,
+        "interest": -1.5912,
+        "fees": -9.7712,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 13,
+        "borrower_rate_percent": 6.37,
+        "grace_period_years": 5,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": 1.5,
+        "other_fees_percent": null,
+        "default_rate_percent": 33.97,
+        "recovery_rate_percent": 50
+      }
+    },
+    {
+      "agency": "Small Business Administration",
+      "bureau": null,
+      "account": "General Business Loan Programs",
+      "program": "7(m) Direct Microloans",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": 11.6572,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.3748,
+        "interest": 7.574,
+        "fees": null,
+        "other": 3.7083
+      },
+      "loan_characteristics": {
+        "maturity_years": 10,
+        "borrower_rate_percent": 3.44,
+        "grace_period_years": 1,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 0.65,
+        "recovery_rate_percent": 10.16
+      }
+    },
+    {
+      "agency": "Secondary Market 7(a) Broker/Dealer",
+      "bureau": null,
+      "account": null,
+      "program": "Loans\u2014ARRA",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": "0.00 7",
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.289,
+        "interest": 7.2223,
+        "fees": -7.5066,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 2,
+        "borrower_rate_percent": 0.5,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": 3.91,
+        "other_fees_percent": null,
+        "default_rate_percent": 0.31,
+        "recovery_rate_percent": 0
+      }
+    },
+    {
+      "agency": "Secondary Market 7(a) Broker/Dealer",
+      "bureau": null,
+      "account": "Disaster Loan Program",
+      "program": "Disaster Assistance",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": 14.9166,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 9.0496,
+        "interest": 12.4326,
+        "fees": null,
+        "other": -6.5655
+      },
+      "loan_characteristics": {
+        "maturity_years": 23,
+        "borrower_rate_percent": 3.77,
+        "grace_period_years": 1,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 21.54,
+        "recovery_rate_percent": 16.7
+      }
+    },
+    {
+      "agency": "Other Independent Agencies",
+      "bureau": "Export-Import Bank of the United States",
+      "account": null,
+      "program": "Direct Loans",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": 0,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 2.03,
+        "interest": -2.02,
+        "fees": null,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 6,
+        "borrower_rate_percent": 4.68,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": "1.97 6",
+        "recovery_rate_percent": null
+      }
+    },
+    {
+      "agency": "Other Independent Agencies",
+      "bureau": "Export-Import Bank of the United States",
+      "account": null,
+      "program": "Direct Loans",
+      "cohort_year": 2009,
+      "subsidy_rate_percent": 33.01,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 3.98,
+        "interest": 31.79,
+        "fees": -2.75,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 24,
+        "borrower_rate_percent": 1.3,
+        "grace_period_years": 3,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": 2.83,
+        "other_fees_percent": null,
+        "default_rate_percent": "3.98 6",
+        "recovery_rate_percent": null
+      }
+    }
+  ]
+}

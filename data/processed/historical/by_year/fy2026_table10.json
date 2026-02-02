@@ -1,0 +1,802 @@
+{
+  "metadata": {
+    "source": "Federal Credit Supplement, Budget of the U.S. Government",
+    "table": "Table 10: Loan Guarantee Programs - Disbursement Schedules",
+    "description": "Percentage of total disbursements made in each year after origination",
+    "units": "percent"
+  },
+  "programs": [
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Agricultural Credit Insurance Fund",
+      "program": "Farm Ownership--Unsubsidized",
+      "disbursement_schedule_percent": {
+        "year_1": 81,
+        "year_2": 19,
+        "year_3": 1,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Agricultural Credit Insurance Fund",
+      "program": "Farm Operating--Unsubsidized",
+      "disbursement_schedule_percent": {
+        "year_1": 90,
+        "year_2": 10,
+        "year_3": null,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Commodity Credit Corporation Export Loans",
+      "program": "GSM 102",
+      "disbursement_schedule_percent": {
+        "year_1": 90,
+        "year_2": 10,
+        "year_3": null,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Commodity Credit Corporation Export Loans",
+      "program": "Export Guarantee Program--Facilities",
+      "disbursement_schedule_percent": {
+        "year_1": 90,
+        "year_2": 10,
+        "year_3": null,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Community Facilities",
+      "program": "Community Facility Loan Guarantees",
+      "disbursement_schedule_percent": {
+        "year_1": 10,
+        "year_2": 31,
+        "year_3": 29,
+        "year_4": 19,
+        "year_5": 9,
+        "year_6": 2,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Housing Insurance Fund",
+      "program": "Guaranteed 538 Multifamily Housing",
+      "disbursement_schedule_percent": {
+        "year_1": 11,
+        "year_2": 34,
+        "year_3": 29,
+        "year_4": 18,
+        "year_5": 5,
+        "year_6": 3,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Housing Insurance Fund",
+      "program": "Guaranteed 502 Single Family Housing",
+      "disbursement_schedule_percent": {
+        "year_1": 92,
+        "year_2": 8,
+        "year_3": null,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Business-Cooperative Service",
+      "account": "Rural Business",
+      "program": "Business and Industry Loan Guarantees",
+      "disbursement_schedule_percent": {
+        "year_1": 44,
+        "year_2": 40,
+        "year_3": 11,
+        "year_4": 4,
+        "year_5": 1,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Business-Cooperative Service",
+      "account": "Rural Energy for America Program",
+      "program": "Renewable Energy Loan Guarantees",
+      "disbursement_schedule_percent": {
+        "year_1": 3,
+        "year_2": 44,
+        "year_3": 34,
+        "year_4": 12,
+        "year_5": 6,
+        "year_6": 1,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Business-Cooperative Service",
+      "account": "Biorefinery Assistance",
+      "program": "Section 9003 Loan Guarantees",
+      "disbursement_schedule_percent": {
+        "year_1": 75,
+        "year_2": 25,
+        "year_3": null,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Utilities Service",
+      "account": "Rural Water and Waste Disposal",
+      "program": "Water and Waste Disposal Loan Guarantees",
+      "disbursement_schedule_percent": {
+        "year_1": 9,
+        "year_2": 29,
+        "year_3": 30,
+        "year_4": 15,
+        "year_5": 17,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Energy",
+      "bureau": "Energy Programs",
+      "account": "Tribal Energy Loan Guarantee Program",
+      "program": "Tribal Energy Loan Guarantees",
+      "disbursement_schedule_percent": {
+        "year_1": null,
+        "year_2": 33,
+        "year_3": 33,
+        "year_4": 33,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Health and Human Services",
+      "bureau": "Administration for a Healthy America",
+      "account": "Primary Care",
+      "program": "AHA Facilities Renovation Loans",
+      "disbursement_schedule_percent": {
+        "year_1": 100,
+        "year_2": null,
+        "year_3": null,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Public and Indian Housing Programs",
+      "account": "Native American Programs",
+      "program": "Title VI Indian Federal Guarantees Program",
+      "disbursement_schedule_percent": {
+        "year_1": 18,
+        "year_2": 49,
+        "year_3": 20,
+        "year_4": 13,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Public and Indian Housing Programs",
+      "account": "Indian Housing Loan Guarantee Fund",
+      "program": "Indian Housing Loan Guarantee",
+      "disbursement_schedule_percent": {
+        "year_1": 64,
+        "year_2": 31,
+        "year_3": 3,
+        "year_4": 2,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Housing Programs",
+      "account": "FHA-Mutual Mortgage Insurance",
+      "program": "MMI Fund",
+      "disbursement_schedule_percent": {
+        "year_1": 100,
+        "year_2": null,
+        "year_3": null,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Housing Programs",
+      "account": "FHA-Mutual Mortgage Insurance",
+      "program": "MMI HECM",
+      "disbursement_schedule_percent": {
+        "year_1": 100,
+        "year_2": null,
+        "year_3": null,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Housing Programs",
+      "account": "FHA-General and Special Risk",
+      "program": "Apartment New Construction / Substantial Rehab",
+      "disbursement_schedule_percent": {
+        "year_1": 91,
+        "year_2": 9,
+        "year_3": null,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Housing Programs",
+      "account": "FHA-General and Special Risk",
+      "program": "Tax Credits",
+      "disbursement_schedule_percent": {
+        "year_1": 66,
+        "year_2": 27,
+        "year_3": 7,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Housing Programs",
+      "account": "FHA-General and Special Risk",
+      "program": "Apartment Refinances",
+      "disbursement_schedule_percent": {
+        "year_1": 85,
+        "year_2": 15,
+        "year_3": null,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Housing Programs",
+      "account": "FHA-General and Special Risk",
+      "program": "Housing Finance Agency Risk Sharing",
+      "disbursement_schedule_percent": {
+        "year_1": 4,
+        "year_2": 84,
+        "year_3": 12,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Housing Programs",
+      "account": "FHA-General and Special Risk",
+      "program": "Residential Care Facilities",
+      "disbursement_schedule_percent": {
+        "year_1": 100,
+        "year_2": null,
+        "year_3": null,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Housing Programs",
+      "account": "FHA-General and Special Risk",
+      "program": "Residential Care Facility Refinances",
+      "disbursement_schedule_percent": {
+        "year_1": 81,
+        "year_2": 19,
+        "year_3": null,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Housing Programs",
+      "account": "FHA-General and Special Risk",
+      "program": "Hospitals",
+      "disbursement_schedule_percent": {
+        "year_1": 88,
+        "year_2": 12,
+        "year_3": null,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Housing Programs",
+      "account": "FHA-General and Special Risk",
+      "program": "Other Rental",
+      "disbursement_schedule_percent": {
+        "year_1": 88,
+        "year_2": 12,
+        "year_3": null,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Housing Programs",
+      "account": "FHA-General and Special Risk",
+      "program": "Title 1 Property Improvement",
+      "disbursement_schedule_percent": {
+        "year_1": 100,
+        "year_2": null,
+        "year_3": null,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Housing Programs",
+      "account": "FHA-General and Special Risk",
+      "program": "Title 1 Manufactured Housing",
+      "disbursement_schedule_percent": {
+        "year_1": 100,
+        "year_2": null,
+        "year_3": null,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Government National Mortgage Association",
+      "account": "Guarantees of Mortgage-backed Securities Loan Guarantee Program",
+      "program": "Guarantees of Mortgage-backed Securities",
+      "disbursement_schedule_percent": {
+        "year_1": 100,
+        "year_2": null,
+        "year_3": null,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "International Assistance Programs",
+      "bureau": "International Security Assistance",
+      "account": "Foreign Military Financing Loan",
+      "program": "FMF Guaranteed Loan Program",
+      "disbursement_schedule_percent": {
+        "year_1": null,
+        "year_2": 50,
+        "year_3": null,
+        "year_4": null,
+        "year_5": 50,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "International Assistance Programs",
+      "bureau": "United States International Development Finance Corporation",
+      "account": "Insurance of Debt",
+      "program": "Insurance of Debt",
+      "disbursement_schedule_percent": {
+        "year_1": 100,
+        "year_2": null,
+        "year_3": null,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "International Assistance Programs",
+      "bureau": "United States International Development Finance Corporation",
+      "account": "Program Account",
+      "program": "USAID Mission-led Guarantees",
+      "disbursement_schedule_percent": {
+        "year_1": 25,
+        "year_2": 25,
+        "year_3": 25,
+        "year_4": 25,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "International Assistance Programs",
+      "bureau": "United States International Development Finance Corporation",
+      "account": "Program Account",
+      "program": "Loan Guarantees",
+      "disbursement_schedule_percent": {
+        "year_1": 50,
+        "year_2": 50,
+        "year_3": null,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "International Assistance Programs",
+      "bureau": "United States International Development Finance Corporation",
+      "account": "Program Account",
+      "program": "Loan Guarantees in Foreign Currencies",
+      "disbursement_schedule_percent": {
+        "year_1": 67,
+        "year_2": 33,
+        "year_3": null,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Department of Veterans Affairs",
+      "bureau": "Benefits Programs",
+      "account": "Veterans Housing Benefit Program Fund",
+      "program": "Housing Guaranteed Loans",
+      "disbursement_schedule_percent": {
+        "year_1": 100,
+        "year_2": null,
+        "year_3": null,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Small Business Administration",
+      "bureau": "Small Business Administration",
+      "account": "Business Loans",
+      "program": "7(a) General Business Loan Guarantees",
+      "disbursement_schedule_percent": {
+        "year_1": 63,
+        "year_2": 22,
+        "year_3": 1,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Small Business Administration",
+      "bureau": "Small Business Administration",
+      "account": "Business Loans",
+      "program": "Section 504 Certified Development Companies Debentures",
+      "disbursement_schedule_percent": {
+        "year_1": 31,
+        "year_2": 45,
+        "year_3": 18,
+        "year_4": 4,
+        "year_5": 1,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Small Business Administration",
+      "bureau": "Small Business Administration",
+      "account": "Business Loans",
+      "program": "SBIC Debentures",
+      "disbursement_schedule_percent": {
+        "year_1": 24,
+        "year_2": 37,
+        "year_3": 18,
+        "year_4": 7,
+        "year_5": 3,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Small Business Administration",
+      "bureau": "Small Business Administration",
+      "account": "Business Loans",
+      "program": "Secondary Market Guarantee",
+      "disbursement_schedule_percent": {
+        "year_1": 100,
+        "year_2": null,
+        "year_3": null,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Small Business Administration",
+      "bureau": "Small Business Administration",
+      "account": "Business Loans",
+      "program": "504 Commercial Real Estate (CRE) Refinance Program",
+      "disbursement_schedule_percent": {
+        "year_1": 52,
+        "year_2": 47,
+        "year_3": 1,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Export-Import Bank of the United States",
+      "bureau": "Export-Import Bank of the United States",
+      "account": "Export-Import Bank Loans",
+      "program": "Long Term Guarantees",
+      "disbursement_schedule_percent": {
+        "year_1": 90,
+        "year_2": 10,
+        "year_3": null,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Export-Import Bank of the United States",
+      "bureau": "Export-Import Bank of the United States",
+      "account": "Export-Import Bank Loans",
+      "program": "Medium Term Guarantees",
+      "disbursement_schedule_percent": {
+        "year_1": 90,
+        "year_2": 10,
+        "year_3": null,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Export-Import Bank of the United States",
+      "bureau": "Export-Import Bank of the United States",
+      "account": "Export-Import Bank Loans",
+      "program": "Short Term Insurance",
+      "disbursement_schedule_percent": {
+        "year_1": 95,
+        "year_2": 5,
+        "year_3": null,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Export-Import Bank of the United States",
+      "bureau": "Export-Import Bank of the United States",
+      "account": "Export-Import Bank Loans",
+      "program": "Medium Term Insurance",
+      "disbursement_schedule_percent": {
+        "year_1": 100,
+        "year_2": null,
+        "year_3": null,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    },
+    {
+      "agency": "Export-Import Bank of the United States",
+      "bureau": "Export-Import Bank of the United States",
+      "account": "Export-Import Bank Loans",
+      "program": "Working Capital Fund",
+      "disbursement_schedule_percent": {
+        "year_1": 100,
+        "year_2": null,
+        "year_3": null,
+        "year_4": null,
+        "year_5": null,
+        "year_6": null,
+        "year_7": null,
+        "year_8": null,
+        "year_9": null,
+        "year_10_plus": null
+      }
+    }
+  ]
+}

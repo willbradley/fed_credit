@@ -1,0 +1,1990 @@
+{
+  "metadata": {
+    "source": "Federal Credit Supplement, Budget of the U.S. Government, FY 2011",
+    "table": "Table 4: Loan Guarantee Programs - Subsidy Estimates and Loan Characteristics",
+    "cohort_year": 2010,
+    "units": {
+      "rates": "percent",
+      "maturity": "years",
+      "grace_period": "years",
+      "guarantee": "percent of loan"
+    }
+  },
+  "programs": [
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "CCC Export Loan Guarantees",
+      "program": "GSM",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": -1.2052,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": -0.5791,
+        "interest": null,
+        "fees": -0.6261,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 3,
+        "borrower_rate_percent": 2.3,
+        "grace_period_years": null,
+        "upfront_fees_percent": 0.6,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 5.3294,
+        "recovery_rate_percent": ".98 3",
+        "guarantee_percent": 98
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "CCC Export Loan Guarantees",
+      "program": "Facilities",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": 11.1301,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 11.8995,
+        "interest": null,
+        "fees": -0.7693,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 5,
+        "borrower_rate_percent": 2.3,
+        "grace_period_years": null,
+        "upfront_fees_percent": 0.77,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 13.06,
+        "recovery_rate_percent": null,
+        "guarantee_percent": 95
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Agricultural Credit Insurance Fund",
+      "program": "Farm Operating\u2014Unsubsidized",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": 2.3381,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 3.2351,
+        "interest": null,
+        "fees": -0.897,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 4,
+        "borrower_rate_percent": 6.09,
+        "grace_period_years": null,
+        "upfront_fees_percent": 1,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 3.788,
+        "recovery_rate_percent": 7.42,
+        "guarantee_percent": 90
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Agricultural Credit Insurance Fund",
+      "program": "Farm Operating\u2014Subsidized",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": 14.0612,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 2.1971,
+        "interest": 11.864,
+        "fees": null,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 6,
+        "borrower_rate_percent": 6.09,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 2.615,
+        "recovery_rate_percent": 5.89,
+        "guarantee_percent": 90
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Agricultural Credit Insurance Fund",
+      "program": "Farm Ownership\u2014Unsubsidized",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": 0.3731,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 1.2601,
+        "interest": null,
+        "fees": -0.887,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 18,
+        "borrower_rate_percent": 6.04,
+        "grace_period_years": null,
+        "upfront_fees_percent": 1,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 1.894,
+        "recovery_rate_percent": 26.98,
+        "guarantee_percent": 90
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Agricultural Credit Insurance Fund",
+      "program": "Conservation\u2014Guaranteed",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": 0.3731,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 1.2601,
+        "interest": null,
+        "fees": -0.887,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 18,
+        "borrower_rate_percent": 6.04,
+        "grace_period_years": null,
+        "upfront_fees_percent": 1,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 1.894,
+        "recovery_rate_percent": 26.98,
+        "guarantee_percent": 90
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Utilities Service",
+      "account": null,
+      "program": "Water and Waste Disposal Loans",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": -0.8192,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": null,
+        "interest": null,
+        "fees": -0.8192,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 21,
+        "borrower_rate_percent": null,
+        "grace_period_years": null,
+        "upfront_fees_percent": 1,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": null,
+        "recovery_rate_percent": null,
+        "guarantee_percent": 81.92
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": null,
+      "program": "Community Facility Loan Guarantees",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": 3.2054,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 4.0745,
+        "interest": null,
+        "fees": -0.8691,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 22,
+        "borrower_rate_percent": 7.23,
+        "grace_period_years": null,
+        "upfront_fees_percent": 1,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 5.0889,
+        "recovery_rate_percent": 9.54,
+        "guarantee_percent": 86.92
+      }
+    },
+    {
+      "agency": "Guaranteed 502 Single-Family",
+      "bureau": null,
+      "account": null,
+      "program": "Housing, Purchase",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": 1.4406,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 3.4406,
+        "interest": null,
+        "fees": -2,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 30,
+        "borrower_rate_percent": 8.06,
+        "grace_period_years": null,
+        "upfront_fees_percent": 2,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 3.9668,
+        "recovery_rate_percent": 2.41,
+        "guarantee_percent": 90
+      }
+    },
+    {
+      "agency": "Guaranteed 502 Single-Family",
+      "bureau": null,
+      "account": null,
+      "program": "Guaranteed 502, Refinance",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": 1.7188,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 2.2188,
+        "interest": null,
+        "fees": -0.5,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 30,
+        "borrower_rate_percent": 8.06,
+        "grace_period_years": null,
+        "upfront_fees_percent": 0.5,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 2.5633,
+        "recovery_rate_percent": 3.27,
+        "guarantee_percent": 90
+      }
+    },
+    {
+      "agency": "Guaranteed 502 Single-Family",
+      "bureau": null,
+      "account": null,
+      "program": "Guaranteed 538 Multifamily Housing",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": 1.1502,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 1.1502,
+        "interest": null,
+        "fees": null,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 33,
+        "borrower_rate_percent": 7.51,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 1.492,
+        "recovery_rate_percent": null,
+        "guarantee_percent": 89.97
+      }
+    },
+    {
+      "agency": "Guaranteed 502 Single-Family",
+      "bureau": null,
+      "account": null,
+      "program": "Guaranteed 538 Tornado Supplemental",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": 19.2811,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.7937,
+        "interest": 26.6624,
+        "fees": -8.175,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 33,
+        "borrower_rate_percent": 7.51,
+        "grace_period_years": null,
+        "upfront_fees_percent": 1,
+        "annual_fees_percent": 0.5,
+        "other_fees_percent": null,
+        "default_rate_percent": 1.0149,
+        "recovery_rate_percent": null,
+        "guarantee_percent": 89.97
+      }
+    },
+    {
+      "agency": "Guaranteed 502 Single-Family",
+      "bureau": null,
+      "account": "Rural Business\u2014Cooperative Service",
+      "program": "Business and Industry Loan Guarantees",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": 5.3309,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 8.4165,
+        "interest": null,
+        "fees": -3.0856,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 17,
+        "borrower_rate_percent": 6.25,
+        "grace_period_years": null,
+        "upfront_fees_percent": 1.88,
+        "annual_fees_percent": 0.25,
+        "other_fees_percent": null,
+        "default_rate_percent": 12.5032,
+        "recovery_rate_percent": 28.79,
+        "guarantee_percent": 78.01
+      }
+    },
+    {
+      "agency": "North American Development Bank",
+      "bureau": null,
+      "account": null,
+      "program": "Loan Guarantees",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": 7.9609,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 11.2263,
+        "interest": null,
+        "fees": -3.2653,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 17,
+        "borrower_rate_percent": 6.25,
+        "grace_period_years": null,
+        "upfront_fees_percent": 2,
+        "annual_fees_percent": 0.25,
+        "other_fees_percent": null,
+        "default_rate_percent": 15.0943,
+        "recovery_rate_percent": 23.19,
+        "guarantee_percent": 80.72
+      }
+    },
+    {
+      "agency": "North American Development Bank",
+      "bureau": null,
+      "account": null,
+      "program": "Renewable Energy Loan Guarantees",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": 13.6416,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 15.619,
+        "interest": null,
+        "fees": -1.9773,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 12,
+        "borrower_rate_percent": 6.25,
+        "grace_period_years": null,
+        "upfront_fees_percent": 1,
+        "annual_fees_percent": 0.25,
+        "other_fees_percent": null,
+        "default_rate_percent": 21.8293,
+        "recovery_rate_percent": 24.82,
+        "guarantee_percent": 80.78
+      }
+    },
+    {
+      "agency": "North American Development Bank",
+      "bureau": null,
+      "account": null,
+      "program": "Section 9003 Loan Guarantees",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": 35.4673,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 39.1265,
+        "interest": null,
+        "fees": -6.3045,
+        "other": 2.6454
+      },
+      "loan_characteristics": {
+        "maturity_years": 15,
+        "borrower_rate_percent": 10.5,
+        "grace_period_years": null,
+        "upfront_fees_percent": 1.59,
+        "annual_fees_percent": 5.45,
+        "other_fees_percent": null,
+        "default_rate_percent": 55.8018,
+        "recovery_rate_percent": 25,
+        "guarantee_percent": 80
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": null,
+      "account": "Federal Family Education Loan Program",
+      "program": "Weighted Average of Total Commitments",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": 1.25,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.48,
+        "interest": 0.2,
+        "fees": -1.62,
+        "other": 2.19
+      },
+      "loan_characteristics": {
+        "maturity_years": 9,
+        "borrower_rate_percent": 6.38,
+        "grace_period_years": "*",
+        "upfront_fees_percent": 1.59,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 15.6,
+        "recovery_rate_percent": ".10 3",
+        "guarantee_percent": 97
+      }
+    },
+    {
+      "agency": "Weighted Average of Total Commitments",
+      "bureau": null,
+      "account": null,
+      "program": "(Legislative Proposal)",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": -0.22,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.48,
+        "interest": -0.93,
+        "fees": -1.56,
+        "other": 1.79
+      },
+      "loan_characteristics": {
+        "maturity_years": 9,
+        "borrower_rate_percent": 6.46,
+        "grace_period_years": "*",
+        "upfront_fees_percent": 1.52,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 17.77,
+        "recovery_rate_percent": ".30 3",
+        "guarantee_percent": 97
+      }
+    },
+    {
+      "agency": "Weighted Average of Total Commitments",
+      "bureau": null,
+      "account": null,
+      "program": "Subsidized Stafford",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": 14.405,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.4667,
+        "interest": 13.0894,
+        "fees": -1.25,
+        "other": 2.0987
+      },
+      "loan_characteristics": {
+        "maturity_years": 9,
+        "borrower_rate_percent": 5.55,
+        "grace_period_years": "*",
+        "upfront_fees_percent": 1.25,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 16.84,
+        "recovery_rate_percent": ".94 3",
+        "guarantee_percent": 97
+      }
+    },
+    {
+      "agency": "Weighted Average of Total Commitments",
+      "bureau": null,
+      "account": null,
+      "program": "Subsidized Stafford (Legislative Proposal)",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": 10.4933,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.4669,
+        "interest": 9.61,
+        "fees": -1.25,
+        "other": 1.6663
+      },
+      "loan_characteristics": {
+        "maturity_years": 9,
+        "borrower_rate_percent": 5.92,
+        "grace_period_years": "*",
+        "upfront_fees_percent": 1.25,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 18.99,
+        "recovery_rate_percent": ".94 3",
+        "guarantee_percent": 97
+      }
+    },
+    {
+      "agency": "Weighted Average of Total Commitments",
+      "bureau": null,
+      "account": null,
+      "program": "Unsubsidized Stafford",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": -6.0255,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.4724,
+        "interest": -7.4664,
+        "fees": -1.25,
+        "other": 2.2185
+      },
+      "loan_characteristics": {
+        "maturity_years": 9,
+        "borrower_rate_percent": 6.46,
+        "grace_period_years": "*",
+        "upfront_fees_percent": 1.25,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 17.07,
+        "recovery_rate_percent": ".94 3",
+        "guarantee_percent": 97
+      }
+    },
+    {
+      "agency": "Weighted Average of Total Commitments",
+      "bureau": null,
+      "account": null,
+      "program": "Unsubsidized Stafford (Legislative Proposal)",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": -6.2421,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.4748,
+        "interest": -7.2876,
+        "fees": -1.25,
+        "other": 1.8205
+      },
+      "loan_characteristics": {
+        "maturity_years": 9,
+        "borrower_rate_percent": 6.46,
+        "grace_period_years": "*",
+        "upfront_fees_percent": 1.25,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 19.09,
+        "recovery_rate_percent": ".94 3",
+        "guarantee_percent": 97
+      }
+    },
+    {
+      "agency": "Weighted Average of Total Commitments",
+      "bureau": null,
+      "account": null,
+      "program": "PLUS",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": -9.0667,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.5126,
+        "interest": -7.9185,
+        "fees": -4,
+        "other": 2.339
+      },
+      "loan_characteristics": {
+        "maturity_years": 8,
+        "borrower_rate_percent": 8.5,
+        "grace_period_years": null,
+        "upfront_fees_percent": 4,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 6.72,
+        "recovery_rate_percent": ".69 3",
+        "guarantee_percent": 97
+      }
+    },
+    {
+      "agency": "Weighted Average of Total Commitments",
+      "bureau": null,
+      "account": null,
+      "program": "PLUS (Legislative Proposal)",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": -8.7943,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.472,
+        "interest": -7.2954,
+        "fees": -4,
+        "other": 2.029
+      },
+      "loan_characteristics": {
+        "maturity_years": 8,
+        "borrower_rate_percent": 8.5,
+        "grace_period_years": null,
+        "upfront_fees_percent": 4,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 7.15,
+        "recovery_rate_percent": ".69 3",
+        "guarantee_percent": 97
+      }
+    },
+    {
+      "agency": "Weighted Average of Total Commitments",
+      "bureau": null,
+      "account": null,
+      "program": "Consolidated",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": -3.17,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 1.7895,
+        "interest": 1.58,
+        "fees": -10.2095,
+        "other": 3.6699
+      },
+      "loan_characteristics": {
+        "maturity_years": 19,
+        "borrower_rate_percent": 6.18,
+        "grace_period_years": null,
+        "upfront_fees_percent": 1,
+        "annual_fees_percent": 1.05,
+        "other_fees_percent": null,
+        "default_rate_percent": 14.16,
+        "recovery_rate_percent": ".77 3",
+        "guarantee_percent": 97
+      }
+    },
+    {
+      "agency": "Weighted Average of Total Commitments",
+      "bureau": null,
+      "account": null,
+      "program": "Consolidated (Legislative Proposal)",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": -3.0746,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 1.7957,
+        "interest": 1.6683,
+        "fees": -10.2084,
+        "other": 3.6696
+      },
+      "loan_characteristics": {
+        "maturity_years": 19,
+        "borrower_rate_percent": 6.17,
+        "grace_period_years": null,
+        "upfront_fees_percent": 1,
+        "annual_fees_percent": 1.05,
+        "other_fees_percent": null,
+        "default_rate_percent": 14.16,
+        "recovery_rate_percent": ".77 3",
+        "guarantee_percent": 97
+      }
+    },
+    {
+      "agency": "Title 17 Innovative Technology Program:",
+      "bureau": null,
+      "account": null,
+      "program": "Section 1703 Loan Guarantees (Self Pay)",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": 0,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 13.3124,
+        "interest": null,
+        "fees": -13.31,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 30,
+        "borrower_rate_percent": 7.6,
+        "grace_period_years": 3,
+        "upfront_fees_percent": 13.31,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 34.2031,
+        "recovery_rate_percent": 55,
+        "guarantee_percent": 80
+      }
+    },
+    {
+      "agency": "Title 17 Innovative Technology Program:",
+      "bureau": null,
+      "account": null,
+      "program": "Section 1705 Loan Guarantees",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": 7.23,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 4.7826,
+        "interest": null,
+        "fees": null,
+        "other": 2.4492
+      },
+      "loan_characteristics": {
+        "maturity_years": 20,
+        "borrower_rate_percent": 7.6,
+        "grace_period_years": 2,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 11.5228,
+        "recovery_rate_percent": 55,
+        "guarantee_percent": 80
+      }
+    },
+    {
+      "agency": "Health Resources and Services",
+      "bureau": null,
+      "account": "Health Centers Loan Guarantees",
+      "program": "Facilities Renovation Loans",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": 2.9175,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 2.9175,
+        "interest": null,
+        "fees": null,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 20,
+        "borrower_rate_percent": 8.25,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 13.6,
+        "recovery_rate_percent": 74,
+        "guarantee_percent": 80
+      }
+    },
+    {
+      "agency": "Health Resources and Services",
+      "bureau": null,
+      "account": "Health Centers Loan Guarantees",
+      "program": "Managed Care Network Loans",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": 9.6083,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 10.5987,
+        "interest": null,
+        "fees": -0.9903,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 10,
+        "borrower_rate_percent": 10,
+        "grace_period_years": null,
+        "upfront_fees_percent": 1,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 19.7802,
+        "recovery_rate_percent": 40,
+        "guarantee_percent": 90
+      }
+    },
+    {
+      "agency": "Health Resources and Services",
+      "bureau": null,
+      "account": "Health Centers Loan Guarantees",
+      "program": "Managed Care Plan Loans",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": 5.7168,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 6.7072,
+        "interest": null,
+        "fees": -0.9903,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 5,
+        "borrower_rate_percent": 10,
+        "grace_period_years": null,
+        "upfront_fees_percent": 1,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 17.1,
+        "recovery_rate_percent": 60,
+        "guarantee_percent": 90
+      }
+    },
+    {
+      "agency": "Development",
+      "bureau": "Public and Indian Housing Programs",
+      "account": null,
+      "program": "Indian Housing Loan Guarantees",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": 0.6768,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 1.6768,
+        "interest": null,
+        "fees": -1,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 30,
+        "borrower_rate_percent": 6.5,
+        "grace_period_years": null,
+        "upfront_fees_percent": 1,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 3.7583,
+        "recovery_rate_percent": 53.7,
+        "guarantee_percent": 100
+      }
+    },
+    {
+      "agency": "Development",
+      "bureau": "Public and Indian Housing Programs",
+      "account": null,
+      "program": "Title VI Indian Housing Guarantees",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": 11.1812,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 11.1812,
+        "interest": null,
+        "fees": null,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 20,
+        "borrower_rate_percent": 7,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 14.25,
+        "recovery_rate_percent": null,
+        "guarantee_percent": 95
+      }
+    },
+    {
+      "agency": "Development",
+      "bureau": "Public and Indian Housing Programs",
+      "account": null,
+      "program": "Native Hawaiian Housing Loan Guarantees",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": 2.5213,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 3.5213,
+        "interest": null,
+        "fees": -1,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 30,
+        "borrower_rate_percent": 6.5,
+        "grace_period_years": null,
+        "upfront_fees_percent": 1,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 7.8925,
+        "recovery_rate_percent": 53.7,
+        "guarantee_percent": 100
+      }
+    },
+    {
+      "agency": "Community Development Loan Guarantees",
+      "bureau": null,
+      "account": null,
+      "program": "(Section 108)",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": 2.3972,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 2.3972,
+        "interest": null,
+        "fees": null,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 10,
+        "borrower_rate_percent": 3.5,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 12.7335,
+        "recovery_rate_percent": 80,
+        "guarantee_percent": 100
+      }
+    },
+    {
+      "agency": "Community Development Loan Guarantees",
+      "bureau": "Housing Programs",
+      "account": "FHA General and Special Risk Insurance Fund",
+      "program": "Multifamily Development",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": -1.6264,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 4.2362,
+        "interest": null,
+        "fees": -5.8627,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 40,
+        "borrower_rate_percent": 7.01,
+        "grace_period_years": null,
+        "upfront_fees_percent": 0.45,
+        "annual_fees_percent": 0.45,
+        "other_fees_percent": 0.8,
+        "default_rate_percent": 14.7215,
+        "recovery_rate_percent": 67.99,
+        "guarantee_percent": 100
+      }
+    },
+    {
+      "agency": "Community Development Loan Guarantees",
+      "bureau": "Housing Programs",
+      "account": "FHA General and Special Risk Insurance Fund",
+      "program": "Section 221(d)(3) Cooperatives",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": 6.6148,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 14.2169,
+        "interest": null,
+        "fees": -7.6021,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 40,
+        "borrower_rate_percent": 5.33,
+        "grace_period_years": null,
+        "upfront_fees_percent": 0.8,
+        "annual_fees_percent": 0.8,
+        "other_fees_percent": 0.8,
+        "default_rate_percent": 42.3639,
+        "recovery_rate_percent": 63.03,
+        "guarantee_percent": 100
+      }
+    },
+    {
+      "agency": "Community Development Loan Guarantees",
+      "bureau": "Housing Programs",
+      "account": "FHA General and Special Risk Insurance Fund",
+      "program": "Tax Credit New Construction",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": -3.5808,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 1.5313,
+        "interest": null,
+        "fees": -5.1121,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 37,
+        "borrower_rate_percent": 3.88,
+        "grace_period_years": null,
+        "upfront_fees_percent": 0.45,
+        "annual_fees_percent": 0.45,
+        "other_fees_percent": null,
+        "default_rate_percent": 7.7172,
+        "recovery_rate_percent": 70.78,
+        "guarantee_percent": 90
+      }
+    },
+    {
+      "agency": "Community Development Loan Guarantees",
+      "bureau": "Housing Programs",
+      "account": "FHA General and Special Risk Insurance Fund",
+      "program": "Section 238(c) Military Impact Area",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": 0.4324,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 3.1861,
+        "interest": null,
+        "fees": -3.9264,
+        "other": 1.1727
+      },
+      "loan_characteristics": {
+        "maturity_years": 30,
+        "borrower_rate_percent": 5.23,
+        "grace_period_years": null,
+        "upfront_fees_percent": 0,
+        "annual_fees_percent": 0.53,
+        "other_fees_percent": null,
+        "default_rate_percent": 12.2667,
+        "recovery_rate_percent": 71.67,
+        "guarantee_percent": 100
+      }
+    },
+    {
+      "agency": "Community Development Loan Guarantees",
+      "bureau": "Housing Programs",
+      "account": "FHA General and Special Risk Insurance Fund",
+      "program": "Apartment Refinance",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": -3.8656,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 1.4482,
+        "interest": null,
+        "fees": -5.3139,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 34,
+        "borrower_rate_percent": 6.61,
+        "grace_period_years": null,
+        "upfront_fees_percent": 0.91,
+        "annual_fees_percent": 0.45,
+        "other_fees_percent": 0.28,
+        "default_rate_percent": 4.9957,
+        "recovery_rate_percent": 67.08,
+        "guarantee_percent": 100
+      }
+    },
+    {
+      "agency": "Community Development Loan Guarantees",
+      "bureau": "Housing Programs",
+      "account": "FHA General and Special Risk Insurance Fund",
+      "program": "Section 241 Supplemental Loans",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": 2.1045,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 9.7997,
+        "interest": null,
+        "fees": -7.6952,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 36,
+        "borrower_rate_percent": 6.37,
+        "grace_period_years": null,
+        "upfront_fees_percent": 0.8,
+        "annual_fees_percent": 0.8,
+        "other_fees_percent": 0.8,
+        "default_rate_percent": 11.1947,
+        "recovery_rate_percent": null,
+        "guarantee_percent": 100
+      }
+    },
+    {
+      "agency": "Community Development Loan Guarantees",
+      "bureau": "Housing Programs",
+      "account": "FHA General and Special Risk Insurance Fund",
+      "program": "Multifamily Operating Loss Loans",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": 23.3966,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 28.8369,
+        "interest": null,
+        "fees": -5.4403,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 35,
+        "borrower_rate_percent": 6.31,
+        "grace_period_years": null,
+        "upfront_fees_percent": 0.8,
+        "annual_fees_percent": 0.8,
+        "other_fees_percent": 0.3,
+        "default_rate_percent": 32.2947,
+        "recovery_rate_percent": null,
+        "guarantee_percent": 100
+      }
+    },
+    {
+      "agency": "Community Development Loan Guarantees",
+      "bureau": "Housing Programs",
+      "account": "FHA General and Special Risk Insurance Fund",
+      "program": "Housing Finance Authority Risk Sharing",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": -1.6143,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 1.732,
+        "interest": null,
+        "fees": -3.3464,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 36,
+        "borrower_rate_percent": 3.95,
+        "grace_period_years": null,
+        "upfront_fees_percent": 0.5,
+        "annual_fees_percent": 0.5,
+        "other_fees_percent": 0.25,
+        "default_rate_percent": 8.2389,
+        "recovery_rate_percent": 78.58,
+        "guarantee_percent": 72
+      }
+    },
+    {
+      "agency": "Community Development Loan Guarantees",
+      "bureau": "Housing Programs",
+      "account": "FHA General and Special Risk Insurance Fund",
+      "program": "GSE Risk Sharing",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": -1.6421,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.6424,
+        "interest": null,
+        "fees": -2.2845,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 37,
+        "borrower_rate_percent": 5,
+        "grace_period_years": null,
+        "upfront_fees_percent": 0.25,
+        "annual_fees_percent": 0.5,
+        "other_fees_percent": null,
+        "default_rate_percent": ".80 5",
+        "recovery_rate_percent": null,
+        "guarantee_percent": 50
+      }
+    },
+    {
+      "agency": "Community Development Loan Guarantees",
+      "bureau": "Housing Programs",
+      "account": "FHA General and Special Risk Insurance Fund",
+      "program": "Health Care and Nursing Homes",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": -0.5314,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 6.2951,
+        "interest": null,
+        "fees": -6.8266,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 36,
+        "borrower_rate_percent": 7.07,
+        "grace_period_years": null,
+        "upfront_fees_percent": 0.57,
+        "annual_fees_percent": 0.57,
+        "other_fees_percent": 0.8,
+        "default_rate_percent": 14.1083,
+        "recovery_rate_percent": 48.93,
+        "guarantee_percent": 100
+      }
+    },
+    {
+      "agency": "Community Development Loan Guarantees",
+      "bureau": "Housing Programs",
+      "account": "FHA General and Special Risk Insurance Fund",
+      "program": "Health Care Refinances",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": -2.2905,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 3.6685,
+        "interest": null,
+        "fees": -5.959,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 32,
+        "borrower_rate_percent": 6.02,
+        "grace_period_years": null,
+        "upfront_fees_percent": 1,
+        "annual_fees_percent": 0.5,
+        "other_fees_percent": 0.3,
+        "default_rate_percent": 10.0484,
+        "recovery_rate_percent": 56.22,
+        "guarantee_percent": 100
+      }
+    },
+    {
+      "agency": "Community Development Loan Guarantees",
+      "bureau": "Housing Programs",
+      "account": "FHA General and Special Risk Insurance Fund",
+      "program": "Hospitals",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": -4.2754,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 1.5502,
+        "interest": null,
+        "fees": -5.8256,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 24,
+        "borrower_rate_percent": 5.36,
+        "grace_period_years": null,
+        "upfront_fees_percent": 0.5,
+        "annual_fees_percent": 0.5,
+        "other_fees_percent": 0.55,
+        "default_rate_percent": 5.7063,
+        "recovery_rate_percent": 76.96,
+        "guarantee_percent": 100
+      }
+    },
+    {
+      "agency": "Community Development Loan Guarantees",
+      "bureau": "Housing Programs",
+      "account": "FHA General and Special Risk Insurance Fund",
+      "program": "Other Rental",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": -2.9507,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 3.9076,
+        "interest": null,
+        "fees": -6.8583,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 40,
+        "borrower_rate_percent": 5.44,
+        "grace_period_years": null,
+        "upfront_fees_percent": 0.5,
+        "annual_fees_percent": 0.5,
+        "other_fees_percent": 0.8,
+        "default_rate_percent": 13.2728,
+        "recovery_rate_percent": 67.14,
+        "guarantee_percent": 100
+      }
+    },
+    {
+      "agency": "Community Development Loan Guarantees",
+      "bureau": "Housing Programs",
+      "account": "FHA General and Special Risk Insurance Fund",
+      "program": "Title I Property Improvement",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": -0.7682,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 2.5437,
+        "interest": null,
+        "fees": -3.312,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 12,
+        "borrower_rate_percent": 13,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": 1,
+        "other_fees_percent": null,
+        "default_rate_percent": 4.5634,
+        "recovery_rate_percent": 39.62,
+        "guarantee_percent": 90
+      }
+    },
+    {
+      "agency": "Community Development Loan Guarantees",
+      "bureau": "Housing Programs",
+      "account": "FHA General and Special Risk Insurance Fund",
+      "program": "Title I Manufactured Housing",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": -0.5127,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 6.8986,
+        "interest": null,
+        "fees": -7.4113,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 18,
+        "borrower_rate_percent": 13,
+        "grace_period_years": null,
+        "upfront_fees_percent": 2.25,
+        "annual_fees_percent": 1,
+        "other_fees_percent": null,
+        "default_rate_percent": 9.9605,
+        "recovery_rate_percent": 21.41,
+        "guarantee_percent": 90
+      }
+    },
+    {
+      "agency": "Community Development Loan Guarantees",
+      "bureau": "Housing Programs",
+      "account": "FHA Mutual Mortgage Insurance Fund",
+      "program": "Mutual Mortgage Insurance Program",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": -0.62,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 3.217,
+        "interest": null,
+        "fees": -4.9638,
+        "other": 1.1256
+      },
+      "loan_characteristics": {
+        "maturity_years": 30,
+        "borrower_rate_percent": 5.23,
+        "grace_period_years": null,
+        "upfront_fees_percent": 1.72,
+        "annual_fees_percent": 0.53,
+        "other_fees_percent": null,
+        "default_rate_percent": 11.8184,
+        "recovery_rate_percent": 70.29,
+        "guarantee_percent": 100
+      }
+    },
+    {
+      "agency": "Mutual Mortgage Insurance Program\u2014",
+      "bureau": null,
+      "account": null,
+      "program": "HECM",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": -0.4957,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 5.1053,
+        "interest": null,
+        "fees": -5.601,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 40,
+        "borrower_rate_percent": 5.55,
+        "grace_period_years": null,
+        "upfront_fees_percent": 2,
+        "annual_fees_percent": 0.5,
+        "other_fees_percent": null,
+        "default_rate_percent": 42.91,
+        "recovery_rate_percent": 112.92,
+        "guarantee_percent": 100
+      }
+    },
+    {
+      "agency": "Mutual Mortgage Insurance Program\u2014",
+      "bureau": null,
+      "account": null,
+      "program": "Hope for Homeowners Loan Guarantees",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": 16.9102,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 22.2602,
+        "interest": null,
+        "fees": -5.8943,
+        "other": 0.5443
+      },
+      "loan_characteristics": {
+        "maturity_years": 30,
+        "borrower_rate_percent": 8,
+        "grace_period_years": null,
+        "upfront_fees_percent": 2,
+        "annual_fees_percent": 0.75,
+        "other_fees_percent": null,
+        "default_rate_percent": 54.757,
+        "recovery_rate_percent": 54.97,
+        "guarantee_percent": 100
+      }
+    },
+    {
+      "agency": "Mutual Mortgage Insurance Program\u2014",
+      "bureau": "Government National Mortgage Association",
+      "account": null,
+      "program": "Guarantees of Mortgage-Backed Securities",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": -0.2356,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": null,
+        "interest": null,
+        "fees": -0.2361,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 30,
+        "borrower_rate_percent": 5.97,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": 0.06,
+        "other_fees_percent": 0.02,
+        "default_rate_percent": null,
+        "recovery_rate_percent": ".62 3",
+        "guarantee_percent": 100
+      }
+    },
+    {
+      "agency": "Department of the Interior",
+      "bureau": "Bureau of Indian Affairs",
+      "account": null,
+      "program": "Indian Guaranteed Loans",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": 7.2902,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 3.838,
+        "interest": 5.2521,
+        "fees": -1.8,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 12,
+        "borrower_rate_percent": 6.87,
+        "grace_period_years": null,
+        "upfront_fees_percent": 2,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 4.8467,
+        "recovery_rate_percent": 7.1,
+        "guarantee_percent": 90
+      }
+    },
+    {
+      "agency": "Department of the Interior",
+      "bureau": "Bureau of Indian Affairs",
+      "account": null,
+      "program": "Indian Insured Loans",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": 3.0781,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 3.9715,
+        "interest": null,
+        "fees": -0.8934,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 5,
+        "borrower_rate_percent": 6.87,
+        "grace_period_years": null,
+        "upfront_fees_percent": 1,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 4.9173,
+        "recovery_rate_percent": 5.25,
+        "guarantee_percent": 90
+      }
+    },
+    {
+      "agency": "Department of Transportation",
+      "bureau": "Office of the Secretary",
+      "account": null,
+      "program": "Minority Business Resource Center",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": 1.8581,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 1.8581,
+        "interest": null,
+        "fees": null,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 2,
+        "borrower_rate_percent": 6.75,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 1.9247,
+        "recovery_rate_percent": null,
+        "guarantee_percent": 75
+      }
+    },
+    {
+      "agency": "Transportation Infrastructure Finance and",
+      "bureau": null,
+      "account": "Innovation",
+      "program": "TIFIA Loan Guarantees",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": 9.9951,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 9.9951,
+        "interest": null,
+        "fees": null,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 37,
+        "borrower_rate_percent": 4.93,
+        "grace_period_years": 5,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 51.7899,
+        "recovery_rate_percent": 65.25,
+        "guarantee_percent": 100
+      }
+    },
+    {
+      "agency": "Railroad Rehabilitation and Improvement",
+      "bureau": null,
+      "account": null,
+      "program": "Financing Guarantees",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": 0.0026,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 1.4726,
+        "interest": null,
+        "fees": -1.47,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 25,
+        "borrower_rate_percent": 5.14,
+        "grace_period_years": 6,
+        "upfront_fees_percent": 1.47,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 23.442,
+        "recovery_rate_percent": 98.95,
+        "guarantee_percent": 80
+      }
+    },
+    {
+      "agency": "Railroad Rehabilitation and Improvement",
+      "bureau": "Maritime Administration",
+      "account": "Maritime Guaranteed Loan Program",
+      "program": "Weighted Average",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": 7.39,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 12.28,
+        "interest": null,
+        "fees": -4.89,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 25,
+        "borrower_rate_percent": 5.25,
+        "grace_period_years": null,
+        "upfront_fees_percent": 4.89,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 22.78,
+        "recovery_rate_percent": 38,
+        "guarantee_percent": 100
+      }
+    },
+    {
+      "agency": "Department of Veterans Affairs",
+      "bureau": "Benefits Programs",
+      "account": null,
+      "program": "Housing Guaranteed Loans",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": -0.1697,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 1.5057,
+        "interest": null,
+        "fees": -1.6754,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 30,
+        "borrower_rate_percent": 6.08,
+        "grace_period_years": null,
+        "upfront_fees_percent": 1.65,
+        "annual_fees_percent": null,
+        "other_fees_percent": 0.02,
+        "default_rate_percent": 5.2233,
+        "recovery_rate_percent": 66.96,
+        "guarantee_percent": 25
+      }
+    },
+    {
+      "agency": "Department of Veterans Affairs",
+      "bureau": "Benefits Programs",
+      "account": null,
+      "program": "Guaranteed Loan Sale Securities",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": 2.4154,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 2.8944,
+        "interest": null,
+        "fees": null,
+        "other": -0.479
+      },
+      "loan_characteristics": {
+        "maturity_years": 30,
+        "borrower_rate_percent": 6.08,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 3.2685,
+        "recovery_rate_percent": null,
+        "guarantee_percent": 100
+      }
+    },
+    {
+      "agency": "International Assistance Programs",
+      "bureau": "Agency for International Development",
+      "account": "Development Credit Authority (DCA)",
+      "program": "Loan Guarantees",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": 4.86,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 6.4,
+        "interest": null,
+        "fees": -1.54,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 7,
+        "borrower_rate_percent": 4.91,
+        "grace_period_years": 5,
+        "upfront_fees_percent": 0.68,
+        "annual_fees_percent": 1.16,
+        "other_fees_percent": null,
+        "default_rate_percent": 14.33,
+        "recovery_rate_percent": null,
+        "guarantee_percent": 50
+      }
+    },
+    {
+      "agency": "International Assistance Programs",
+      "bureau": "Overseas Private Investment Corporation",
+      "account": null,
+      "program": "OPIC Loan Guarantees",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": 1.8492,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 10.1726,
+        "interest": null,
+        "fees": -8.3234,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 15,
+        "borrower_rate_percent": 6.89,
+        "grace_period_years": 5,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": 1.25,
+        "other_fees_percent": null,
+        "default_rate_percent": 22.751,
+        "recovery_rate_percent": 50,
+        "guarantee_percent": 100
+      }
+    },
+    {
+      "agency": "International Assistance Programs",
+      "bureau": "Overseas Private Investment Corporation",
+      "account": null,
+      "program": "OPIC Investment Funds",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": -3.814,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 10.5264,
+        "interest": null,
+        "fees": -14.3405,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 12,
+        "borrower_rate_percent": 7.13,
+        "grace_period_years": 11,
+        "upfront_fees_percent": 0.5,
+        "annual_fees_percent": 1.5,
+        "other_fees_percent": null,
+        "default_rate_percent": 14.5783,
+        "recovery_rate_percent": null,
+        "guarantee_percent": 100
+      }
+    },
+    {
+      "agency": "Small Business Administration",
+      "bureau": null,
+      "account": "General Business Loan Programs",
+      "program": "7(a) General Business Loan Guarantees",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": 0.4597,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 4.3427,
+        "interest": null,
+        "fees": -3.8829,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 13,
+        "borrower_rate_percent": 7.71,
+        "grace_period_years": null,
+        "upfront_fees_percent": 2.23,
+        "annual_fees_percent": 0.55,
+        "other_fees_percent": null,
+        "default_rate_percent": 7.5908,
+        "recovery_rate_percent": 42.6,
+        "guarantee_percent": 71.42
+      }
+    },
+    {
+      "agency": "7(a) General Business Loan",
+      "bureau": null,
+      "account": null,
+      "program": "Guarantees\u2014ARRA",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": 4.231,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 6.0745,
+        "interest": null,
+        "fees": -1.8434,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 13,
+        "borrower_rate_percent": 7.74,
+        "grace_period_years": null,
+        "upfront_fees_percent": 0.01,
+        "annual_fees_percent": 0.55,
+        "other_fees_percent": null,
+        "default_rate_percent": 10.83,
+        "recovery_rate_percent": 43.9,
+        "guarantee_percent": 80.62
+      }
+    },
+    {
+      "agency": "7(a) General Business Loan",
+      "bureau": null,
+      "account": null,
+      "program": "7(a) Dealer Floor Plan",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": 0.0447,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.2894,
+        "interest": null,
+        "fees": -0.2446,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 5,
+        "borrower_rate_percent": 6,
+        "grace_period_years": null,
+        "upfront_fees_percent": 3.5,
+        "annual_fees_percent": 0.55,
+        "other_fees_percent": null,
+        "default_rate_percent": 0.6544,
+        "recovery_rate_percent": 55,
+        "guarantee_percent": 75
+      }
+    },
+    {
+      "agency": "7(a) General Business Loan",
+      "bureau": null,
+      "account": null,
+      "program": "7(a) Dealer Floor Plan\u2014ARRA",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": 0.2067,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.2893,
+        "interest": null,
+        "fees": -0.0826,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 5,
+        "borrower_rate_percent": 6,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": 0.55,
+        "other_fees_percent": null,
+        "default_rate_percent": 0.654,
+        "recovery_rate_percent": 55,
+        "guarantee_percent": 75
+      }
+    },
+    {
+      "agency": "Section 504 Certified Development",
+      "bureau": null,
+      "account": null,
+      "program": "Companies Debentures",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": 0.0019,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 4.1984,
+        "interest": null,
+        "fees": -4.5188,
+        "other": 0.3224
+      },
+      "loan_characteristics": {
+        "maturity_years": 19,
+        "borrower_rate_percent": 5.52,
+        "grace_period_years": null,
+        "upfront_fees_percent": 0.87,
+        "annual_fees_percent": 0.56,
+        "other_fees_percent": null,
+        "default_rate_percent": 7.34,
+        "recovery_rate_percent": 40.82,
+        "guarantee_percent": 100
+      }
+    },
+    {
+      "agency": "Section 504 Certified Development",
+      "bureau": null,
+      "account": null,
+      "program": "Companies Debentures\u2014ARRA",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": 2.05,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 4.0844,
+        "interest": null,
+        "fees": -2.3599,
+        "other": 0.324
+      },
+      "loan_characteristics": {
+        "maturity_years": 19,
+        "borrower_rate_percent": 5.52,
+        "grace_period_years": null,
+        "upfront_fees_percent": -1.28,
+        "annual_fees_percent": 0.56,
+        "other_fees_percent": null,
+        "default_rate_percent": 7.1455,
+        "recovery_rate_percent": 40.8,
+        "guarantee_percent": 100
+      }
+    },
+    {
+      "agency": "Section 504 Certified Development",
+      "bureau": null,
+      "account": null,
+      "program": "SBIC Debentures",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": -0.003,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 4.8296,
+        "interest": null,
+        "fees": -4.8615,
+        "other": 0.0289
+      },
+      "loan_characteristics": {
+        "maturity_years": 10,
+        "borrower_rate_percent": 4.57,
+        "grace_period_years": null,
+        "upfront_fees_percent": 3,
+        "annual_fees_percent": 0.28,
+        "other_fees_percent": null,
+        "default_rate_percent": 30.914,
+        "recovery_rate_percent": 87.81,
+        "guarantee_percent": 100
+      }
+    },
+    {
+      "agency": "Section 504 Certified Development",
+      "bureau": null,
+      "account": null,
+      "program": "Secondary Market Guarantee",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": 0.0005,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": null,
+        "interest": null,
+        "fees": null,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 20,
+        "borrower_rate_percent": 5.67,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": null,
+        "recovery_rate_percent": null,
+        "guarantee_percent": 100
+      }
+    },
+    {
+      "agency": "Section 503: Secondary Market 504 First",
+      "bureau": null,
+      "account": null,
+      "program": "Mortgage Guarantees Loans\u2014ARRA",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": -0.0047,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.9204,
+        "interest": null,
+        "fees": -0.9251,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 20,
+        "borrower_rate_percent": 4.11,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": 0.16,
+        "other_fees_percent": null,
+        "default_rate_percent": 8.8353,
+        "recovery_rate_percent": 90,
+        "guarantee_percent": 80
+      }
+    },
+    {
+      "agency": "Section 506: ARC Bridge Loan",
+      "bureau": null,
+      "account": null,
+      "program": "Guarantees\u2014ARRA",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": 76.1453,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 57.7792,
+        "interest": 18.3661,
+        "fees": null,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 6.5,
+        "borrower_rate_percent": null,
+        "grace_period_years": 1,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 61.8521,
+        "recovery_rate_percent": 4.05,
+        "guarantee_percent": 100
+      }
+    },
+    {
+      "agency": "Section 506: ARC Bridge Loan",
+      "bureau": null,
+      "account": "Disaster Loan Program",
+      "program": "Disaster Assistance\u2014Immediate",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": 2.83,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 2.83,
+        "interest": null,
+        "fees": null,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 2,
+        "borrower_rate_percent": 4.31,
+        "grace_period_years": 9,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 4.13,
+        "recovery_rate_percent": 25,
+        "guarantee_percent": 85
+      }
+    },
+    {
+      "agency": "Section 506: ARC Bridge Loan",
+      "bureau": null,
+      "account": "Disaster Loan Program",
+      "program": "Disaster Assistance\u2014Expedited",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": 2.14,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 2.14,
+        "interest": null,
+        "fees": null,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 2,
+        "borrower_rate_percent": 4.31,
+        "grace_period_years": 9,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 3.17,
+        "recovery_rate_percent": 25,
+        "guarantee_percent": 80
+      }
+    },
+    {
+      "agency": "Short, Medium, and Long Term Guarantees",
+      "bureau": null,
+      "account": "and Insurance",
+      "program": "Risk Category A",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": 0.89,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 2.93,
+        "interest": null,
+        "fees": -2.04,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 4,
+        "borrower_rate_percent": 5.8,
+        "grace_period_years": 1,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": 2.04,
+        "other_fees_percent": null,
+        "default_rate_percent": 2.93,
+        "recovery_rate_percent": null,
+        "guarantee_percent": 100
+      }
+    },
+    {
+      "agency": "Short, Medium, and Long Term Guarantees",
+      "bureau": null,
+      "account": "and Insurance",
+      "program": "Risk Category B",
+      "cohort_year": 2010,
+      "subsidy_rate_percent": -2.7476,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.8864,
+        "interest": null,
+        "fees": -3.634,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 10,
+        "borrower_rate_percent": 3.8,
+        "grace_period_years": 1,
+        "upfront_fees_percent": 0.12,
+        "annual_fees_percent": 3.61,
+        "other_fees_percent": null,
+        "default_rate_percent": 0.943,
+        "recovery_rate_percent": null,
+        "guarantee_percent": 100
+      }
+    }
+  ]
+}

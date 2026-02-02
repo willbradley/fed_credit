@@ -1,0 +1,1886 @@
+{
+  "metadata": {
+    "source": "Federal Credit Supplement, Budget of the U.S. Government, FY 2024",
+    "table": "Table 5: Direct Loan Programs - Subsidy Estimates and Loan Characteristics",
+    "cohort_year": 2024,
+    "units": {
+      "rates": "percent",
+      "maturity": "years",
+      "grace_period": "years"
+    }
+  },
+  "programs": [
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Agricultural Credit Insurance Fund",
+      "program": "Farm Ownership",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": -0.75,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.32,
+        "interest": -0.8,
+        "fees": null,
+        "other": -0.27
+      },
+      "loan_characteristics": {
+        "maturity_years": 32,
+        "borrower_rate_percent": 4.11,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 1.21,
+        "recovery_rate_percent": 29.38
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Agricultural Credit Insurance Fund",
+      "program": "Farm Operating",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": 1.69,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 3.65,
+        "interest": -2.66,
+        "fees": null,
+        "other": 0.71
+      },
+      "loan_characteristics": {
+        "maturity_years": 7,
+        "borrower_rate_percent": 4.71,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 5.59,
+        "recovery_rate_percent": 4.62
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Agricultural Credit Insurance Fund",
+      "program": "Emergency Disaster",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": 9.31,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 8.49,
+        "interest": 1.05,
+        "fees": null,
+        "other": -0.22
+      },
+      "loan_characteristics": {
+        "maturity_years": 12,
+        "borrower_rate_percent": 3.75,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 14.19,
+        "recovery_rate_percent": 6.59
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Agricultural Credit Insurance Fund",
+      "program": "Indian Tribe Land Acquisition",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": -12.14,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": null,
+        "interest": -12.14,
+        "fees": null,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 40,
+        "borrower_rate_percent": 5,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": null,
+        "recovery_rate_percent": null
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Agricultural Credit Insurance Fund",
+      "program": "Boll Weevil Eradication",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": 0.43,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": null,
+        "interest": 0.43,
+        "fees": null,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 10,
+        "borrower_rate_percent": 3.73,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": null,
+        "recovery_rate_percent": null
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Agricultural Credit Insurance Fund",
+      "program": "Indian Highly Fractionated Land",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": 31.53,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.49,
+        "interest": 32.22,
+        "fees": null,
+        "other": -1.19
+      },
+      "loan_characteristics": {
+        "maturity_years": 30,
+        "borrower_rate_percent": 1,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 1.22,
+        "recovery_rate_percent": 14.68
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Agricultural Credit Insurance Fund",
+      "program": "Heirs Property Relending Program",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": 31.53,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.49,
+        "interest": 32.22,
+        "fees": null,
+        "other": -1.19
+      },
+      "loan_characteristics": {
+        "maturity_years": 30,
+        "borrower_rate_percent": 1,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 1.22,
+        "recovery_rate_percent": 14.68
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Farm Storage Facility Loans",
+      "program": "Farm Storage Facility Loans",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": 0.05,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": null,
+        "interest": 0.33,
+        "fees": -0.27,
+        "other": -0.01
+      },
+      "loan_characteristics": {
+        "maturity_years": 7,
+        "borrower_rate_percent": 3.74,
+        "grace_period_years": null,
+        "upfront_fees_percent": 0.27,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": null,
+        "recovery_rate_percent": 50
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Farm Service Agency",
+      "account": "Farm Storage Facility Loans",
+      "program": "Sugar Storage Facility Loans",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": -1.52,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": null,
+        "interest": -1.68,
+        "fees": null,
+        "other": 0.16
+      },
+      "loan_characteristics": {
+        "maturity_years": 15,
+        "borrower_rate_percent": 4.09,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": null,
+        "recovery_rate_percent": 50
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Community Facilities",
+      "program": "Community Facility Loans",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": -0.5,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 3.41,
+        "interest": -3.75,
+        "fees": null,
+        "other": -0.16
+      },
+      "loan_characteristics": {
+        "maturity_years": 34,
+        "borrower_rate_percent": 4.24,
+        "grace_period_years": 1,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 7.89,
+        "recovery_rate_percent": 0.87
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Housing Insurance Fund",
+      "program": "Section 502 Single Family Housing",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": 13.73,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 4.04,
+        "interest": 8.03,
+        "fees": null,
+        "other": 1.66
+      },
+      "loan_characteristics": {
+        "maturity_years": 34,
+        "borrower_rate_percent": 4.23,
+        "grace_period_years": 1,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 23.43,
+        "recovery_rate_percent": 44.61
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Housing Insurance Fund",
+      "program": "Section 515 Multifamily Housing",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": 34.98,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.96,
+        "interest": 35.8,
+        "fees": null,
+        "other": -1.78
+      },
+      "loan_characteristics": {
+        "maturity_years": 30,
+        "borrower_rate_percent": 1,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 2.74,
+        "recovery_rate_percent": 2.14
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Housing Insurance Fund",
+      "program": "Section 504 Housing Repair",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": 17.35,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": -0.03,
+        "interest": 23.34,
+        "fees": null,
+        "other": -5.95
+      },
+      "loan_characteristics": {
+        "maturity_years": 20,
+        "borrower_rate_percent": 1,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 0.23,
+        "recovery_rate_percent": 107.52
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Housing Insurance Fund",
+      "program": "Section 514 Farm Labor Housing",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": 34.81,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.12,
+        "interest": 35.27,
+        "fees": null,
+        "other": -0.58
+      },
+      "loan_characteristics": {
+        "maturity_years": 33,
+        "borrower_rate_percent": 1,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 0.3,
+        "recovery_rate_percent": 7.12
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Housing Insurance Fund",
+      "program": "Section 524 Site Development",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": 9.53,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 3.42,
+        "interest": 5.63,
+        "fees": null,
+        "other": 0.48
+      },
+      "loan_characteristics": {
+        "maturity_years": 2,
+        "borrower_rate_percent": 4.43,
+        "grace_period_years": 4,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 6.5,
+        "recovery_rate_percent": 39.33
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Housing Insurance Fund",
+      "program": "Section 523 Self-Help Housing",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": 12.73,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 4.46,
+        "interest": 8.22,
+        "fees": null,
+        "other": 0.05
+      },
+      "loan_characteristics": {
+        "maturity_years": 2,
+        "borrower_rate_percent": 3,
+        "grace_period_years": 4,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 5.17,
+        "recovery_rate_percent": null
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Housing Insurance Fund",
+      "program": "Single Family Housing Credit Sales",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": -2.31,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 2.16,
+        "interest": -6.05,
+        "fees": null,
+        "other": 1.58
+      },
+      "loan_characteristics": {
+        "maturity_years": 24,
+        "borrower_rate_percent": 4.54,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 13.5,
+        "recovery_rate_percent": 56.75
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Housing Insurance Fund",
+      "program": "Multifamily Housing Revitalization Seconds",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": 66.77,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.36,
+        "interest": 66.5,
+        "fees": null,
+        "other": -0.09
+      },
+      "loan_characteristics": {
+        "maturity_years": 37,
+        "borrower_rate_percent": 1,
+        "grace_period_years": 30,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 1.37,
+        "recovery_rate_percent": null
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Housing Insurance Fund",
+      "program": "Multifamily Housing Revitalization Zero",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": 56.26,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.27,
+        "interest": 56.22,
+        "fees": null,
+        "other": -0.23
+      },
+      "loan_characteristics": {
+        "maturity_years": 30,
+        "borrower_rate_percent": 0,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 1.07,
+        "recovery_rate_percent": null
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Housing Service",
+      "account": "Rural Housing Insurance Fund",
+      "program": "Native American Single Family Relending Pilot",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": 45.76,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 7.26,
+        "interest": 40.13,
+        "fees": null,
+        "other": -1.63
+      },
+      "loan_characteristics": {
+        "maturity_years": 33,
+        "borrower_rate_percent": 1,
+        "grace_period_years": 3,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 16.23,
+        "recovery_rate_percent": null
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Business-Cooperative Service",
+      "account": null,
+      "program": "Rural Microenterprise Direct Loans",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": 15.7,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 2.12,
+        "interest": 17.74,
+        "fees": null,
+        "other": -4.16
+      },
+      "loan_characteristics": {
+        "maturity_years": 19,
+        "borrower_rate_percent": 1.72,
+        "grace_period_years": 1,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 4.06,
+        "recovery_rate_percent": 15.42
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Business-Cooperative Service",
+      "account": null,
+      "program": "Intermediary Relending Program",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": 30.35,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 1.14,
+        "interest": 31.09,
+        "fees": null,
+        "other": -1.87
+      },
+      "loan_characteristics": {
+        "maturity_years": 28,
+        "borrower_rate_percent": 1,
+        "grace_period_years": 1,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 2.71,
+        "recovery_rate_percent": 0.03
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Business-Cooperative Service",
+      "account": null,
+      "program": "Rural Economic Development Loans",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": 17.86,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.01,
+        "interest": 18.48,
+        "fees": null,
+        "other": -0.62
+      },
+      "loan_characteristics": {
+        "maturity_years": 10,
+        "borrower_rate_percent": 0,
+        "grace_period_years": 1,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 0.01,
+        "recovery_rate_percent": null
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Utilities Service",
+      "account": "Rural Water and Waste Disposal",
+      "program": "Water and Waste Disposal Loans",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": 8.35,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.12,
+        "interest": 15.29,
+        "fees": null,
+        "other": -7.06
+      },
+      "loan_characteristics": {
+        "maturity_years": 39,
+        "borrower_rate_percent": 2.93,
+        "grace_period_years": 1,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 0.28,
+        "recovery_rate_percent": 0.46
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Utilities Service",
+      "account": "Rural Water and Waste Disposal",
+      "program": "Water and Waste 1%",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": 26.95,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.09,
+        "interest": 40.84,
+        "fees": null,
+        "other": -13.99
+      },
+      "loan_characteristics": {
+        "maturity_years": 39,
+        "borrower_rate_percent": 1,
+        "grace_period_years": 1,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 0.23,
+        "recovery_rate_percent": 0.57
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Utilities Service",
+      "account": "Rural Electrification and Telecommunications Loans",
+      "program": "Treasury Electric Loans",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": -1.95,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": null,
+        "interest": null,
+        "fees": null,
+        "other": -1.95
+      },
+      "loan_characteristics": {
+        "maturity_years": 32,
+        "borrower_rate_percent": 3.98,
+        "grace_period_years": 1,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": null,
+        "recovery_rate_percent": null
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Utilities Service",
+      "account": "Rural Electrification and Telecommunications Loans",
+      "program": "FFB Electric Loans",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": -4.22,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.01,
+        "interest": -3.92,
+        "fees": null,
+        "other": -0.31
+      },
+      "loan_characteristics": {
+        "maturity_years": 29,
+        "borrower_rate_percent": 4.29,
+        "grace_period_years": 1,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 0.01,
+        "recovery_rate_percent": null
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Utilities Service",
+      "account": "Rural Electrification and Telecommunications Loans",
+      "program": "Treasury Telecommunications Loans",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": 1.04,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.5,
+        "interest": 0.3,
+        "fees": null,
+        "other": 0.24
+      },
+      "loan_characteristics": {
+        "maturity_years": 17,
+        "borrower_rate_percent": 3.87,
+        "grace_period_years": 1,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 0.82,
+        "recovery_rate_percent": null
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Utilities Service",
+      "account": "Rural Electrification and Telecommunications Loans",
+      "program": "Rural Energy Savings Program",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": 17.89,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.52,
+        "interest": 17.75,
+        "fees": null,
+        "other": -0.37
+      },
+      "loan_characteristics": {
+        "maturity_years": 10,
+        "borrower_rate_percent": 0,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 0.71,
+        "recovery_rate_percent": 5.91
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Utilities Service",
+      "account": "Rural Electrification and Telecommunications Loans",
+      "program": "IRA Section",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": 37.27,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.01,
+        "interest": 37.52,
+        "fees": null,
+        "other": -0.26
+      },
+      "loan_characteristics": {
+        "maturity_years": 30,
+        "borrower_rate_percent": 4.1,
+        "grace_period_years": 2,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 0.01,
+        "recovery_rate_percent": null
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Utilities Service",
+      "account": "Rural Electrification and Telecommunications Loans",
+      "program": "IRA Section",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": 19.3,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.01,
+        "interest": 20.5,
+        "fees": null,
+        "other": -1.2
+      },
+      "loan_characteristics": {
+        "maturity_years": 30,
+        "borrower_rate_percent": 2.25,
+        "grace_period_years": 2,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 0.01,
+        "recovery_rate_percent": null
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Utilities Service",
+      "account": "Rural Electrification and Telecommunications Loans",
+      "program": "IRA Section 22004 Zero",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": 42.23,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": null,
+        "interest": 44.29,
+        "fees": null,
+        "other": -2.06
+      },
+      "loan_characteristics": {
+        "maturity_years": 30,
+        "borrower_rate_percent": 0,
+        "grace_period_years": 2,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 0.01,
+        "recovery_rate_percent": null
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Utilities Service",
+      "account": "Distance Learning, Telemedicine, and Broadband Program",
+      "program": "Broadband Treasury Rate Loans",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": 13.88,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 13.6,
+        "interest": 0.3,
+        "fees": null,
+        "other": -0.01
+      },
+      "loan_characteristics": {
+        "maturity_years": 17,
+        "borrower_rate_percent": 3.84,
+        "grace_period_years": 3,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 29.92,
+        "recovery_rate_percent": 30.17
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Utilities Service",
+      "account": "Distance Learning, Telemedicine, and Broadband Program",
+      "program": "ReConnect Direct Loans",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": 22.52,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 8.76,
+        "interest": 15.72,
+        "fees": null,
+        "other": -1.96
+      },
+      "loan_characteristics": {
+        "maturity_years": 17,
+        "borrower_rate_percent": 2,
+        "grace_period_years": 3,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 19.56,
+        "recovery_rate_percent": 32.08
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "bureau": "Rural Utilities Service",
+      "account": "Distance Learning, Telemedicine, and Broadband Program",
+      "program": "ReConnect Grant Assisted Loans",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": 9.16,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 8.75,
+        "interest": null,
+        "fees": null,
+        "other": 0.41
+      },
+      "loan_characteristics": {
+        "maturity_years": 17,
+        "borrower_rate_percent": 4.56,
+        "grace_period_years": 3,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 19.65,
+        "recovery_rate_percent": 31.9
+      }
+    },
+    {
+      "agency": "Department of Commerce",
+      "bureau": "National Oceanic and Atmospheric Administration",
+      "account": null,
+      "program": "Individual Fishing Quota Loans",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": -11.26,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.2,
+        "interest": -22.35,
+        "fees": -0.82,
+        "other": 11.71
+      },
+      "loan_characteristics": {
+        "maturity_years": 23,
+        "borrower_rate_percent": 5.99,
+        "grace_period_years": null,
+        "upfront_fees_percent": 0.5,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 1.59,
+        "recovery_rate_percent": 83.9
+      }
+    },
+    {
+      "agency": "Department of Commerce",
+      "bureau": "National Oceanic and Atmospheric Administration",
+      "account": null,
+      "program": "Traditional Direct Loans",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": -5.49,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 1.76,
+        "interest": -15.12,
+        "fees": -0.56,
+        "other": 8.43
+      },
+      "loan_characteristics": {
+        "maturity_years": 15,
+        "borrower_rate_percent": 5.86,
+        "grace_period_years": null,
+        "upfront_fees_percent": 0.5,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 3.26,
+        "recovery_rate_percent": 30.56
+      }
+    },
+    {
+      "agency": "Department of Commerce",
+      "bureau": "National Oceanic and Atmospheric Administration",
+      "account": null,
+      "program": "Community Development Quota",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": -7.84,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 1.96,
+        "interest": -28.19,
+        "fees": -0.56,
+        "other": 18.95
+      },
+      "loan_characteristics": {
+        "maturity_years": 30,
+        "borrower_rate_percent": 6.1,
+        "grace_period_years": null,
+        "upfront_fees_percent": 0.5,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 4.72,
+        "recovery_rate_percent": 30.65
+      }
+    },
+    {
+      "agency": "Department of Commerce",
+      "bureau": "National Institute of Standards and Technology",
+      "account": null,
+      "program": "CHIPS Direct Loans",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": 2.8,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 2.8,
+        "interest": null,
+        "fees": null,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 15,
+        "borrower_rate_percent": 4.2,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 3.97,
+        "recovery_rate_percent": 36
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Office of Postsecondary Education",
+      "account": null,
+      "program": "Historically Black Colleges and Universities (HBCU)",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": 5.34,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 9.17,
+        "interest": -2.46,
+        "fees": -1.36,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 30,
+        "borrower_rate_percent": 3.98,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": 0.14,
+        "default_rate_percent": 15.96,
+        "recovery_rate_percent": null
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Office of Federal Student Aid",
+      "account": "Teacher Education Assistance",
+      "program": "TEACH Grants",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": 49.56,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 2.32,
+        "interest": 77.45,
+        "fees": null,
+        "other": -30.21
+      },
+      "loan_characteristics": {
+        "maturity_years": 11,
+        "borrower_rate_percent": null,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 18.81,
+        "recovery_rate_percent": 101.99
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Office of Federal Student Aid",
+      "account": "Federal Direct Student Loan",
+      "program": "Consolidation",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": 38.65,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.75,
+        "interest": 33.08,
+        "fees": null,
+        "other": 4.82
+      },
+      "loan_characteristics": {
+        "maturity_years": 22,
+        "borrower_rate_percent": 5.62,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 18.21,
+        "recovery_rate_percent": 89.51
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Office of Federal Student Aid",
+      "account": "Federal Direct Student Loan",
+      "program": "PLUS",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": -2.76,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 1.91,
+        "interest": 18.01,
+        "fees": -4.23,
+        "other": -18.45
+      },
+      "loan_characteristics": {
+        "maturity_years": 16,
+        "borrower_rate_percent": 7.91,
+        "grace_period_years": null,
+        "upfront_fees_percent": 4.23,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 13.74,
+        "recovery_rate_percent": 93.35
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Office of Federal Student Aid",
+      "account": "Federal Direct Student Loan",
+      "program": "Stafford",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": 21.52,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 3.11,
+        "interest": 31.32,
+        "fees": -1.06,
+        "other": -11.85
+      },
+      "loan_characteristics": {
+        "maturity_years": 15,
+        "borrower_rate_percent": 5.34,
+        "grace_period_years": null,
+        "upfront_fees_percent": 1.06,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 29.54,
+        "recovery_rate_percent": 100.08
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Office of Federal Student Aid",
+      "account": "Federal Direct Student Loan",
+      "program": "Unsubsidized Stafford",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": 15.81,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 2.82,
+        "interest": 31.96,
+        "fees": -1.06,
+        "other": -17.91
+      },
+      "loan_characteristics": {
+        "maturity_years": 16,
+        "borrower_rate_percent": 5.95,
+        "grace_period_years": null,
+        "upfront_fees_percent": 1.06,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 23.56,
+        "recovery_rate_percent": 95.03
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "bureau": "Office of Federal Student Aid",
+      "account": "Federal Direct Student Loan",
+      "program": "Weighted Average of Total Obligations",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": 19.64,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 2.08,
+        "interest": 29.53,
+        "fees": -1.36,
+        "other": -10.61
+      },
+      "loan_characteristics": {
+        "maturity_years": 19,
+        "borrower_rate_percent": 6.15,
+        "grace_period_years": null,
+        "upfront_fees_percent": 1.36,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 20.93,
+        "recovery_rate_percent": 93.78
+      }
+    },
+    {
+      "agency": "Department of Energy",
+      "bureau": null,
+      "account": "Advanced Technology Vehicles Manufacturing Loan",
+      "program": "Advanced Technology Vehicles Manufacturing Loans\u2026",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": 7.26,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 7.36,
+        "interest": null,
+        "fees": -0.1,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 12,
+        "borrower_rate_percent": 3.74,
+        "grace_period_years": 3,
+        "upfront_fees_percent": 0.1,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 23.8,
+        "recovery_rate_percent": 65
+      }
+    },
+    {
+      "agency": "Department of Energy",
+      "bureau": null,
+      "account": "Title 17 Innovative Technology Loan Guarantee Program",
+      "program": "Section 1703 FFB Loans",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": 4.7,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 8.26,
+        "interest": -2.29,
+        "fees": -1.27,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 13,
+        "borrower_rate_percent": 4.14,
+        "grace_period_years": 2,
+        "upfront_fees_percent": 1.27,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 23.61,
+        "recovery_rate_percent": 57
+      }
+    },
+    {
+      "agency": "Department of Energy",
+      "bureau": null,
+      "account": "Title 17 Innovative Technology Loan Guarantee Program",
+      "program": "Section 1706 FFB Loans",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": 8.09,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 10.91,
+        "interest": -2.82,
+        "fees": null,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 17,
+        "borrower_rate_percent": 4.16,
+        "grace_period_years": 2,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 32.29,
+        "recovery_rate_percent": 55
+      }
+    },
+    {
+      "agency": "Department of Energy",
+      "bureau": null,
+      "account": "Carbon Dioxide Transportation IFI",
+      "program": "CO2 Transportation Infrastructure Direct Loans",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": 9.88,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 9.98,
+        "interest": null,
+        "fees": -0.1,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 17,
+        "borrower_rate_percent": 3.81,
+        "grace_period_years": 2,
+        "upfront_fees_percent": 0.1,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 29.9,
+        "recovery_rate_percent": 55
+      }
+    },
+    {
+      "agency": "Department of Energy",
+      "bureau": null,
+      "account": "Tribal Energy Loan Guarantee Program",
+      "program": "Tribal Energy FFB Loans",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": 0.08,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 2.81,
+        "interest": -1.78,
+        "fees": -0.95,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 10,
+        "borrower_rate_percent": 4.11,
+        "grace_period_years": 3,
+        "upfront_fees_percent": 0.95,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 7.36,
+        "recovery_rate_percent": 55
+      }
+    },
+    {
+      "agency": "Department of Homeland Security",
+      "bureau": "Federal Emergency Management Agency",
+      "account": null,
+      "program": "Community Disaster Loan Program",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": 91.22,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.02,
+        "interest": 6.21,
+        "fees": null,
+        "other": 84.99
+      },
+      "loan_characteristics": {
+        "maturity_years": 5,
+        "borrower_rate_percent": 3.71,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 0.03,
+        "recovery_rate_percent": null
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Housing Programs",
+      "account": "Project-based Rental Assistance",
+      "program": "Multifamily Housing - Distressed Capital Loan",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": 39.14,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 2.3,
+        "interest": 51.59,
+        "fees": null,
+        "other": -14.75
+      },
+      "loan_characteristics": {
+        "maturity_years": 30,
+        "borrower_rate_percent": 1,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 6.5,
+        "recovery_rate_percent": 3.63
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Housing Programs",
+      "account": "Green and Resilient Retrofit Program for Multifamily Housing",
+      "program": "Surplus Cash Loan - 25%",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": 47.04,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 2.86,
+        "interest": 74.62,
+        "fees": null,
+        "other": -30.44
+      },
+      "loan_characteristics": {
+        "maturity_years": 27,
+        "borrower_rate_percent": 1.01,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 3.03,
+        "recovery_rate_percent": 5.61
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Housing Programs",
+      "account": "Green and Resilient Retrofit Program for Multifamily Housing",
+      "program": "Amortizing Repayment Loan",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": -14.89,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.04,
+        "interest": -20.7,
+        "fees": null,
+        "other": 5.77
+      },
+      "loan_characteristics": {
+        "maturity_years": 12,
+        "borrower_rate_percent": 0,
+        "grace_period_years": 5,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 0.08,
+        "recovery_rate_percent": 55.68
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Housing Programs",
+      "account": "Green and Resilient Retrofit Program for Multifamily Housing",
+      "program": "Surplus Cash Loan - 50%",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": 36.31,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 1.26,
+        "interest": 50.36,
+        "fees": null,
+        "other": -15.3
+      },
+      "loan_characteristics": {
+        "maturity_years": 27,
+        "borrower_rate_percent": 1.01,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 1.36,
+        "recovery_rate_percent": 7.71
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "bureau": "Housing Programs",
+      "account": "FHA-General and Special Risk Insurance Fund",
+      "program": "FFB Risk Sharing",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": -7.83,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.03,
+        "interest": -8.57,
+        "fees": -0.98,
+        "other": 1.69
+      },
+      "loan_characteristics": {
+        "maturity_years": 38,
+        "borrower_rate_percent": 3.4,
+        "grace_period_years": null,
+        "upfront_fees_percent": 0.13,
+        "annual_fees_percent": 0.13,
+        "other_fees_percent": null,
+        "default_rate_percent": 0.17,
+        "recovery_rate_percent": 87.32
+      }
+    },
+    {
+      "agency": "Department of State",
+      "bureau": "Administration of Foreign Affairs",
+      "account": null,
+      "program": "Repatriation Loans",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": 54.19,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 30.74,
+        "interest": 0.72,
+        "fees": null,
+        "other": 22.72
+      },
+      "loan_characteristics": {
+        "maturity_years": 1,
+        "borrower_rate_percent": 1,
+        "grace_period_years": "*",
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 94,
+        "recovery_rate_percent": 71.69
+      }
+    },
+    {
+      "agency": "International Assistance Programs",
+      "bureau": "International Security Assistance",
+      "account": null,
+      "program": "FMF Direct Loan Program",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": 0,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 1.72,
+        "interest": -1.72,
+        "fees": null,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 12,
+        "borrower_rate_percent": 3.88,
+        "grace_period_years": 1,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 2.35,
+        "recovery_rate_percent": null
+      }
+    },
+    {
+      "agency": "International Assistance Programs",
+      "bureau": "Multilateral Assistance",
+      "account": null,
+      "program": "Clean Technology Fund Direct Loans",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": 34.45,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 6,
+        "interest": 28.45,
+        "fees": null,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 30,
+        "borrower_rate_percent": 0.75,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 6,
+        "recovery_rate_percent": null
+      }
+    },
+    {
+      "agency": "United States International Development Finance",
+      "bureau": null,
+      "account": "Corporation",
+      "program": "Direct Loans",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": -6.54,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 7.04,
+        "interest": null,
+        "fees": -13.58,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 8,
+        "borrower_rate_percent": 3.78,
+        "grace_period_years": 3,
+        "upfront_fees_percent": 0.29,
+        "annual_fees_percent": 3,
+        "other_fees_percent": null,
+        "default_rate_percent": 15.47,
+        "recovery_rate_percent": 48.67
+      }
+    },
+    {
+      "agency": "United States International Development Finance",
+      "bureau": null,
+      "account": "Corporation",
+      "program": "Direct Loan Investment Funds",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": -10.54,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 9.87,
+        "interest": null,
+        "fees": -20.41,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 12,
+        "borrower_rate_percent": 3.44,
+        "grace_period_years": null,
+        "upfront_fees_percent": 0.47,
+        "annual_fees_percent": 1.35,
+        "other_fees_percent": null,
+        "default_rate_percent": 14.94,
+        "recovery_rate_percent": null
+      }
+    },
+    {
+      "agency": "United States International Development Finance",
+      "bureau": null,
+      "account": "Corporation",
+      "program": "Direct Loans in Foreign Currencies",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": 10,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 6.98,
+        "interest": null,
+        "fees": -1.56,
+        "other": 4.58
+      },
+      "loan_characteristics": {
+        "maturity_years": 21,
+        "borrower_rate_percent": 4.06,
+        "grace_period_years": 3,
+        "upfront_fees_percent": 1.1,
+        "annual_fees_percent": 0.21,
+        "other_fees_percent": null,
+        "default_rate_percent": 35.67,
+        "recovery_rate_percent": 75
+      }
+    },
+    {
+      "agency": "United States International Development Finance",
+      "bureau": null,
+      "account": "Contributions to IMF Facilities and Trust Funds",
+      "program": "Loans to Poverty Reduction and Growth Trust",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": 0.07,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.07,
+        "interest": null,
+        "fees": null,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 6,
+        "borrower_rate_percent": 5,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 0.77,
+        "recovery_rate_percent": 106.84
+      }
+    },
+    {
+      "agency": "United States International Development Finance",
+      "bureau": null,
+      "account": "Contributions to IMF Facilities and Trust Funds",
+      "program": "Loans to Resilience and Sustainability Trust",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": 0.09,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.09,
+        "interest": null,
+        "fees": null,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 20,
+        "borrower_rate_percent": 5,
+        "grace_period_years": 10,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 1.48,
+        "recovery_rate_percent": 88.81
+      }
+    },
+    {
+      "agency": "Transportation, Infrastructure, Finance & Innovation (TIFIA)",
+      "bureau": null,
+      "account": null,
+      "program": "Direct Loans",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": 0.7,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 1.7,
+        "interest": -1,
+        "fees": null,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 40,
+        "borrower_rate_percent": 4.18,
+        "grace_period_years": 5,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 17.12,
+        "recovery_rate_percent": 77.9
+      }
+    },
+    {
+      "agency": "Railroad Rehabilitation and Improvement Financing",
+      "bureau": null,
+      "account": null,
+      "program": "Direct Loans",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": 0.11,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 1.66,
+        "interest": -1.54,
+        "fees": null,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 35,
+        "borrower_rate_percent": null,
+        "grace_period_years": 5,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 13.69,
+        "recovery_rate_percent": 58.19
+      }
+    },
+    {
+      "agency": "Railroad Rehabilitation and Improvement Financing",
+      "bureau": "Maritime Administration",
+      "account": null,
+      "program": "Federal Ship Financing FFB Loan Guarantees",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": 4.58,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 9.98,
+        "interest": null,
+        "fees": -5.4,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 24,
+        "borrower_rate_percent": null,
+        "grace_period_years": null,
+        "upfront_fees_percent": 5.4,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 21.41,
+        "recovery_rate_percent": 25.05
+      }
+    },
+    {
+      "agency": "Department of the Treasury",
+      "bureau": "Departmental Offices",
+      "account": null,
+      "program": "CDFI Assistance Program",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": 8.68,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 7.4,
+        "interest": 1.29,
+        "fees": null,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 13,
+        "borrower_rate_percent": 3.78,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 10.82,
+        "recovery_rate_percent": null
+      }
+    },
+    {
+      "agency": "Department of the Treasury",
+      "bureau": "Departmental Offices",
+      "account": null,
+      "program": "Bond Guarantee Program",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": 2,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 6.28,
+        "interest": -4.28,
+        "fees": null,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 27,
+        "borrower_rate_percent": 4.32,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 11.78,
+        "recovery_rate_percent": 7.71
+      }
+    },
+    {
+      "agency": "Department of Veterans Affairs",
+      "bureau": "Benefits Programs",
+      "account": "Veterans Housing Benefit Program Fund",
+      "program": "Acquired Direct Loans",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": 11.99,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 8.25,
+        "interest": 4.21,
+        "fees": null,
+        "other": -0.47
+      },
+      "loan_characteristics": {
+        "maturity_years": 30,
+        "borrower_rate_percent": 3.68,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 29.18,
+        "recovery_rate_percent": 29.93
+      }
+    },
+    {
+      "agency": "Department of Veterans Affairs",
+      "bureau": "Benefits Programs",
+      "account": "Veterans Housing Benefit Program Fund",
+      "program": "Vendee Direct Loans",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": -27.93,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.02,
+        "interest": -26.08,
+        "fees": -2.2,
+        "other": 0.33
+      },
+      "loan_characteristics": {
+        "maturity_years": 30,
+        "borrower_rate_percent": 6.07,
+        "grace_period_years": null,
+        "upfront_fees_percent": 2.25,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 5.44,
+        "recovery_rate_percent": 78.79
+      }
+    },
+    {
+      "agency": "Department of Veterans Affairs",
+      "bureau": "Benefits Programs",
+      "account": "Native American Veteran Housing Loan",
+      "program": "Native American Direct Loans",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": -20.26,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": null,
+        "interest": -27.82,
+        "fees": -0.47,
+        "other": 8.02
+      },
+      "loan_characteristics": {
+        "maturity_years": 30,
+        "borrower_rate_percent": 6.07,
+        "grace_period_years": null,
+        "upfront_fees_percent": 0.4,
+        "annual_fees_percent": null,
+        "other_fees_percent": 0.13,
+        "default_rate_percent": null,
+        "recovery_rate_percent": null
+      }
+    },
+    {
+      "agency": "Department of Veterans Affairs",
+      "bureau": "Benefits Programs",
+      "account": "Native American Veteran Housing Loan",
+      "program": "Vocational Rehabilitation",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": 3.87,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": null,
+        "interest": 3.87,
+        "fees": null,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 1,
+        "borrower_rate_percent": 0,
+        "grace_period_years": null,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": null,
+        "recovery_rate_percent": null
+      }
+    },
+    {
+      "agency": "Corps of Engineers\u2014Civil Works",
+      "bureau": null,
+      "account": "Water Infrastructure Finance and Innovation",
+      "program": "Water Infrastructure Finance and Innovation, Corps",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": 4.95,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 4.95,
+        "interest": null,
+        "fees": null,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 35,
+        "borrower_rate_percent": 2.18,
+        "grace_period_years": 5,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 18.19,
+        "recovery_rate_percent": 25
+      }
+    },
+    {
+      "agency": "Corps of Engineers\u2014Civil Works",
+      "bureau": null,
+      "account": "Water Infrastructure Finance and Innovation",
+      "program": "Water Infrastructure Direct Loans",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": 0.96,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 0.96,
+        "interest": null,
+        "fees": null,
+        "other": null
+      },
+      "loan_characteristics": {
+        "maturity_years": 40,
+        "borrower_rate_percent": 4.36,
+        "grace_period_years": 5,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 8.18,
+        "recovery_rate_percent": 67
+      }
+    },
+    {
+      "agency": "Small Business Administration",
+      "bureau": null,
+      "account": "Business Loans",
+      "program": "7(m) Direct Microloans",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": 10.46,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 2.06,
+        "interest": 8.68,
+        "fees": null,
+        "other": -0.27
+      },
+      "loan_characteristics": {
+        "maturity_years": 10,
+        "borrower_rate_percent": 2.12,
+        "grace_period_years": 1,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 8.69,
+        "recovery_rate_percent": 67.21
+      }
+    },
+    {
+      "agency": "Small Business Administration",
+      "bureau": null,
+      "account": "Disaster Loans",
+      "program": "Disaster Assistance Loans",
+      "cohort_year": 2024,
+      "subsidy_rate_percent": 20.5,
+      "subsidy_composition": {
+        "defaults_net_of_recoveries": 10.41,
+        "interest": 12.5,
+        "fees": null,
+        "other": -2.4
+      },
+      "loan_characteristics": {
+        "maturity_years": 26,
+        "borrower_rate_percent": 2.94,
+        "grace_period_years": 1,
+        "upfront_fees_percent": null,
+        "annual_fees_percent": null,
+        "other_fees_percent": null,
+        "default_rate_percent": 28.27,
+        "recovery_rate_percent": 27.65
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "sectors": {
+    "agriculture": {
+      "name": "Agriculture",
+      "description": "Farm credit, rural development, and agricultural lending"
+    },
+    "housing": {
+      "name": "Housing",
+      "description": "Residential mortgage programs, rental assistance, and housing finance"
+    },
+    "education": {
+      "name": "Education",
+      "description": "Student loans, postsecondary education credit programs"
+    },
+    "small_business": {
+      "name": "Small Business",
+      "description": "SBA lending programs and small business support"
+    },
+    "energy_environment": {
+      "name": "Energy & Environment",
+      "description": "Energy loans, environmental cleanup, and green infrastructure"
+    },
+    "international": {
+      "name": "International",
+      "description": "Export-Import Bank, development finance, foreign assistance"
+    },
+    "veterans": {
+      "name": "Veterans",
+      "description": "VA home loans and veterans benefit programs"
+    },
+    "healthcare": {
+      "name": "Healthcare",
+      "description": "Health facility loans, medical education, health program financing"
+    },
+    "transportation": {
+      "name": "Transportation",
+      "description": "Maritime, railroad, and transportation infrastructure lending"
+    },
+    "disaster_assistance": {
+      "name": "Disaster Assistance",
+      "description": "Disaster loans, flood insurance, emergency lending"
+    },
+    "defense_security": {
+      "name": "Defense & Security",
+      "description": "Defense procurement credit, homeland security lending"
+    },
+    "other_government": {
+      "name": "Other Government",
+      "description": "Treasury, Commerce, Interior, and other miscellaneous programs"
+    }
+  },
+  "classification_priority": [
+    "1. Program-level overrides",
+    "2. Bureau-level rules",
+    "3. Agency-level fallback"
+  ],
+  "program_override_count": 24,
+  "bureau_rule_count": 34,
+  "agency_rule_count": 20
+}
