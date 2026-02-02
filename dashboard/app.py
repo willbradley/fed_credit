@@ -13,14 +13,13 @@ import plotly.graph_objects as go
 
 from dashboard.data_loader import load_budget_formulation
 from dashboard.components.metrics import display_metrics, _fmt_dollars, _fmt_pct, _fmt_count
+from dashboard.pages import overview, agency, program, sector, download
 
 st.set_page_config(
-    page_title="All Programs",
+    page_title="Federal Credit Budget Center",
     page_icon=":classical_building:",
     layout="wide",
 )
-
-st.sidebar.title("View Federal Credit Budget Data")
 
 # ---------------------------------------------------------------------------
 # Helpers
@@ -109,265 +108,264 @@ def _make_trend_chart(budget_year: int, yaxis_title: str) -> go.Figure:
 
 
 # ---------------------------------------------------------------------------
-# Load data
+# All Programs page (landing page)
 # ---------------------------------------------------------------------------
 
-bf = load_budget_formulation()
-available_years = sorted(bf["budget_year"].unique(), reverse=True)
-current_bf = bf[bf["cohort_type"] == "current"].copy()
+def all_programs_page():
+    bf = load_budget_formulation()
+    available_years = sorted(bf["budget_year"].unique(), reverse=True)
+    current_bf = bf[bf["cohort_type"] == "current"].copy()
 
-# ---------------------------------------------------------------------------
-# Header + year picker
-# ---------------------------------------------------------------------------
+    st.title("Federal Credit Budget Center")
 
-st.title("Federal Credit Budget Center")
-
-budget_year = st.selectbox(
-    "Budget Year",
-    available_years,
-    index=0,
-    key="budget_year",
-)
-
-st.caption(
-    f"Budget formulation data for the **FY{budget_year} cohort** "
-    f"(loans projected to be originated during FY{budget_year})."
-)
-
-cohort = current_bf[current_bf["budget_year"] == budget_year].copy()
-prior_year = budget_year - 1
-prior_cohort = current_bf[current_bf["budget_year"] == prior_year]
-
-# ---------------------------------------------------------------------------
-# Metric cards with YoY deltas
-# ---------------------------------------------------------------------------
-
-curr_vol, curr_n, curr_sub, curr_rate = _year_stats(cohort)
-has_prior = len(prior_cohort) > 0
-if has_prior:
-    prev_vol, prev_n, prev_sub, prev_rate = _year_stats(prior_cohort)
-else:
-    prev_vol = prev_n = prev_sub = prev_rate = None
-
-display_metrics([
-    {
-        "label": "Total Loan Volume",
-        "value": _fmt_dollars(curr_vol),
-        "delta": _fmt_dollars(curr_vol - prev_vol) if prev_vol is not None else None,
-    },
-    {
-        "label": "Active Programs",
-        "value": _fmt_count(curr_n),
-        "delta": f"{curr_n - prev_n:+d}" if prev_n is not None else None,
-    },
-    {
-        "label": "Net Credit Subsidy",
-        "value": _fmt_dollars(curr_sub),
-        "delta": _fmt_dollars(curr_sub - prev_sub) if prev_sub is not None else None,
-        "delta_color": "inverse",
-    },
-    {
-        "label": "Wtd. Avg. Subsidy Rate",
-        "value": _fmt_pct(curr_rate),
-        "delta": (
-            f"{curr_rate - prev_rate:+.2f} pp"
-            if curr_rate is not None and prev_rate is not None
-            else None
-        ),
-        "delta_color": "inverse",
-    },
-])
-
-# ---------------------------------------------------------------------------
-# 2x2 trend chart matrix
-# ---------------------------------------------------------------------------
-
-st.markdown("---")
-
-min_trend_year = budget_year - _TREND_WINDOW + 1
-trend_data = current_bf[
-    (current_bf["budget_year"] >= min_trend_year)
-    & (current_bf["budget_year"] <= budget_year)
-]
-
-# --- Aggregation by credit type ---
-type_agg = (
-    trend_data.groupby(["budget_year", "credit_type"])
-    .agg(
-        volume_b=("obligations_millions", lambda x: x.sum() / 1_000),
-        subsidy_b=("subsidy_amount_thousands", lambda x: x.sum() / 1_000_000),
+    budget_year = st.selectbox(
+        "Budget Year",
+        available_years,
+        index=0,
+        key="budget_year",
     )
-    .reset_index()
-)
 
-# --- Top 4 sectors (by volume in the selected year) ---
-top_sectors = (
-    cohort.groupby("sector_name")["obligations_millions"]
-    .sum()
-    .nlargest(4)
-    .index.tolist()
-)
-
-sector_agg = (
-    trend_data[trend_data["sector_name"].isin(top_sectors)]
-    .groupby(["budget_year", "sector_name"])
-    .agg(
-        volume_b=("obligations_millions", lambda x: x.sum() / 1_000),
-        subsidy_b=("subsidy_amount_thousands", lambda x: x.sum() / 1_000_000),
+    st.caption(
+        f"Budget formulation data for the **FY{budget_year} cohort** "
+        f"(loans projected to be originated during FY{budget_year})."
     )
-    .reset_index()
-)
 
-# Row 1: Volume and subsidy by credit type
-row1_left, row1_right = st.columns(2)
+    cohort = current_bf[current_bf["budget_year"] == budget_year].copy()
+    prior_year = budget_year - 1
+    prior_cohort = current_bf[current_bf["budget_year"] == prior_year]
 
-with row1_left:
-    st.markdown("**Loan Volume by Credit Type**")
-    fig = _make_trend_chart(budget_year, "$ Billions")
-    for ct in ["direct_loan", "loan_guarantee"]:
-        d = type_agg[type_agg["credit_type"] == ct].sort_values("budget_year")
-        fig.add_trace(go.Scatter(
-            x=d["budget_year"], y=d["volume_b"],
-            name=_CREDIT_LABELS[ct],
-            line=dict(color=_CREDIT_COLORS[ct]),
-            mode="lines+markers",
-            marker=dict(size=6),
-        ))
-    st.plotly_chart(fig, use_container_width=True)
-
-with row1_right:
-    st.markdown("**Credit Subsidy by Credit Type**")
-    fig = _make_trend_chart(budget_year, "$ Billions")
-    for ct in ["direct_loan", "loan_guarantee"]:
-        d = type_agg[type_agg["credit_type"] == ct].sort_values("budget_year")
-        fig.add_trace(go.Scatter(
-            x=d["budget_year"], y=d["subsidy_b"],
-            name=_CREDIT_LABELS[ct],
-            line=dict(color=_CREDIT_COLORS[ct]),
-            mode="lines+markers",
-            marker=dict(size=6),
-        ))
-    fig.add_hline(y=0, line_dash="dash", line_color="gray", opacity=0.3)
-    st.plotly_chart(fig, use_container_width=True)
-
-# Row 2: Volume and subsidy by top sectors
-row2_left, row2_right = st.columns(2)
-
-with row2_left:
-    st.markdown("**Loan Volume — Top Sectors**")
-    fig = _make_trend_chart(budget_year, "$ Billions")
-    for i, sector in enumerate(top_sectors):
-        d = sector_agg[sector_agg["sector_name"] == sector].sort_values("budget_year")
-        fig.add_trace(go.Scatter(
-            x=d["budget_year"], y=d["volume_b"],
-            name=sector,
-            line=dict(color=_SECTOR_COLORS[i]),
-            mode="lines+markers",
-            marker=dict(size=6),
-        ))
-    st.plotly_chart(fig, use_container_width=True)
-
-with row2_right:
-    st.markdown("**Credit Subsidy — Top Sectors**")
-    fig = _make_trend_chart(budget_year, "$ Billions")
-    for i, sector in enumerate(top_sectors):
-        d = sector_agg[sector_agg["sector_name"] == sector].sort_values("budget_year")
-        fig.add_trace(go.Scatter(
-            x=d["budget_year"], y=d["subsidy_b"],
-            name=sector,
-            line=dict(color=_SECTOR_COLORS[i]),
-            mode="lines+markers",
-            marker=dict(size=6),
-        ))
-    fig.add_hline(y=0, line_dash="dash", line_color="gray", opacity=0.3)
-    st.plotly_chart(fig, use_container_width=True)
-
-# ---------------------------------------------------------------------------
-# Agency table (matching PDF scorecard format)
-# ---------------------------------------------------------------------------
-
-st.markdown("---")
-st.subheader(f"FY{budget_year} Budget by Agency")
-
-cohort["subsidy_cost_millions"] = cohort["subsidy_amount_thousands"] / 1_000
-
-agency_agg = (
-    cohort.groupby("agency")
-    .agg(
-        volume_m=("obligations_millions", "sum"),
-        subsidy_m=("subsidy_cost_millions", "sum"),
-    )
-    .sort_values("volume_m", ascending=False)
-    .reset_index()
-)
-
-# Group small agencies into "Other"
-big = agency_agg[agency_agg["volume_m"] >= 1_000].copy()   # >= $1B
-small = agency_agg[agency_agg["volume_m"] < 1_000]
-
-if len(small) > 0:
-    other = pd.DataFrame([{
-        "agency": "Other",
-        "volume_m": small["volume_m"].sum(),
-        "subsidy_m": small["subsidy_m"].sum(),
-    }])
-    table_df = pd.concat([big, other], ignore_index=True)
-else:
-    table_df = big.copy()
-
-# Totals row
-totals = pd.DataFrame([{
-    "agency": "TOTAL",
-    "volume_m": table_df["volume_m"].sum(),
-    "subsidy_m": table_df["subsidy_m"].sum(),
-}])
-table_df = pd.concat([table_df, totals], ignore_index=True)
-
-# Build HTML table matching PDF styling
-_HDR_BG = "#2c3e50"
-_ALT_BG = "#f8f9fa"
-_TOT_BG = "#ecf0f1"
-_BORDER = "#bdc3c7"
-
-html_rows = []
-for i, row in table_df.iterrows():
-    is_total = row["agency"] == "TOTAL"
-    if is_total:
-        bg, fw = _TOT_BG, "font-weight:bold;"
-    elif i % 2 == 1:
-        bg, fw = _ALT_BG, ""
+    # Metric cards with YoY deltas
+    curr_vol, curr_n, curr_sub, curr_rate = _year_stats(cohort)
+    has_prior = len(prior_cohort) > 0
+    if has_prior:
+        prev_vol, prev_n, prev_sub, prev_rate = _year_stats(prior_cohort)
     else:
-        bg, fw = "white", ""
+        prev_vol = prev_n = prev_sub = prev_rate = None
 
-    name = AGENCY_SHORT.get(row["agency"], row["agency"])
-    vol = _fmt_dollars_table(row["volume_m"])
-    sub = _fmt_dollars_table(row["subsidy_m"])
-    rate = _fmt_rate_table(row["subsidy_m"], row["volume_m"])
+    display_metrics([
+        {
+            "label": "Total Loan Volume",
+            "value": _fmt_dollars(curr_vol),
+            "delta": _fmt_dollars(curr_vol - prev_vol) if prev_vol is not None else None,
+        },
+        {
+            "label": "Active Programs",
+            "value": _fmt_count(curr_n),
+            "delta": f"{curr_n - prev_n:+d}" if prev_n is not None else None,
+        },
+        {
+            "label": "Net Credit Subsidy",
+            "value": _fmt_dollars(curr_sub),
+            "delta": _fmt_dollars(curr_sub - prev_sub) if prev_sub is not None else None,
+            "delta_color": "inverse",
+        },
+        {
+            "label": "Wtd. Avg. Subsidy Rate",
+            "value": _fmt_pct(curr_rate),
+            "delta": (
+                f"{curr_rate - prev_rate:+.2f} pp"
+                if curr_rate is not None and prev_rate is not None
+                else None
+            ),
+            "delta_color": "inverse",
+        },
+    ])
 
-    td = f'<td style="padding:6px 12px;border-bottom:1px solid {_BORDER};'
-    html_rows.append(
-        f'<tr style="background:{bg};{fw}">'
-        f'{td}text-align:left;">{name}</td>'
-        f'{td}text-align:right;">{vol}</td>'
-        f'{td}text-align:right;">{sub}</td>'
-        f'{td}text-align:right;">{rate}</td>'
-        f'</tr>'
+    # 2x2 trend chart matrix
+    st.markdown("---")
+
+    min_trend_year = budget_year - _TREND_WINDOW + 1
+    trend_data = current_bf[
+        (current_bf["budget_year"] >= min_trend_year)
+        & (current_bf["budget_year"] <= budget_year)
+    ]
+
+    type_agg = (
+        trend_data.groupby(["budget_year", "credit_type"])
+        .agg(
+            volume_b=("obligations_millions", lambda x: x.sum() / 1_000),
+            subsidy_b=("subsidy_amount_thousands", lambda x: x.sum() / 1_000_000),
+        )
+        .reset_index()
     )
 
-html = (
-    f'<table style="width:100%;border-collapse:collapse;font-size:14px;">'
-    f'<tr style="background:{_HDR_BG};color:white;font-weight:bold;">'
-    f'<th style="padding:8px 12px;text-align:left;">Agency</th>'
-    f'<th style="padding:8px 12px;text-align:right;">Loan Volume</th>'
-    f'<th style="padding:8px 12px;text-align:right;">Credit Subsidy</th>'
-    f'<th style="padding:8px 12px;text-align:right;">Subsidy Rate</th>'
-    f'</tr>'
-    + "".join(html_rows)
-    + '</table>'
-)
+    top_sectors = (
+        cohort.groupby("sector_name")["obligations_millions"]
+        .sum()
+        .nlargest(4)
+        .index.tolist()
+    )
 
-st.markdown(html, unsafe_allow_html=True)
-st.caption(
-    'Agencies with less than $1B in loan volume grouped into "Other." '
-    "Negative subsidies = expected revenue to government."
-)
+    sector_agg = (
+        trend_data[trend_data["sector_name"].isin(top_sectors)]
+        .groupby(["budget_year", "sector_name"])
+        .agg(
+            volume_b=("obligations_millions", lambda x: x.sum() / 1_000),
+            subsidy_b=("subsidy_amount_thousands", lambda x: x.sum() / 1_000_000),
+        )
+        .reset_index()
+    )
+
+    row1_left, row1_right = st.columns(2)
+
+    with row1_left:
+        st.markdown("**Loan Volume by Credit Type**")
+        fig = _make_trend_chart(budget_year, "$ Billions")
+        for ct in ["direct_loan", "loan_guarantee"]:
+            d = type_agg[type_agg["credit_type"] == ct].sort_values("budget_year")
+            fig.add_trace(go.Scatter(
+                x=d["budget_year"], y=d["volume_b"],
+                name=_CREDIT_LABELS[ct],
+                line=dict(color=_CREDIT_COLORS[ct]),
+                mode="lines+markers",
+                marker=dict(size=6),
+            ))
+        st.plotly_chart(fig, use_container_width=True)
+
+    with row1_right:
+        st.markdown("**Credit Subsidy by Credit Type**")
+        fig = _make_trend_chart(budget_year, "$ Billions")
+        for ct in ["direct_loan", "loan_guarantee"]:
+            d = type_agg[type_agg["credit_type"] == ct].sort_values("budget_year")
+            fig.add_trace(go.Scatter(
+                x=d["budget_year"], y=d["subsidy_b"],
+                name=_CREDIT_LABELS[ct],
+                line=dict(color=_CREDIT_COLORS[ct]),
+                mode="lines+markers",
+                marker=dict(size=6),
+            ))
+        fig.add_hline(y=0, line_dash="dash", line_color="gray", opacity=0.3)
+        st.plotly_chart(fig, use_container_width=True)
+
+    row2_left, row2_right = st.columns(2)
+
+    with row2_left:
+        st.markdown("**Loan Volume — Top Sectors**")
+        fig = _make_trend_chart(budget_year, "$ Billions")
+        for i, sector_name in enumerate(top_sectors):
+            d = sector_agg[sector_agg["sector_name"] == sector_name].sort_values("budget_year")
+            fig.add_trace(go.Scatter(
+                x=d["budget_year"], y=d["volume_b"],
+                name=sector_name,
+                line=dict(color=_SECTOR_COLORS[i]),
+                mode="lines+markers",
+                marker=dict(size=6),
+            ))
+        st.plotly_chart(fig, use_container_width=True)
+
+    with row2_right:
+        st.markdown("**Credit Subsidy — Top Sectors**")
+        fig = _make_trend_chart(budget_year, "$ Billions")
+        for i, sector_name in enumerate(top_sectors):
+            d = sector_agg[sector_agg["sector_name"] == sector_name].sort_values("budget_year")
+            fig.add_trace(go.Scatter(
+                x=d["budget_year"], y=d["subsidy_b"],
+                name=sector_name,
+                line=dict(color=_SECTOR_COLORS[i]),
+                mode="lines+markers",
+                marker=dict(size=6),
+            ))
+        fig.add_hline(y=0, line_dash="dash", line_color="gray", opacity=0.3)
+        st.plotly_chart(fig, use_container_width=True)
+
+    # Agency table
+    st.markdown("---")
+    st.subheader(f"FY{budget_year} Budget by Agency")
+
+    cohort["subsidy_cost_millions"] = cohort["subsidy_amount_thousands"] / 1_000
+
+    agency_agg = (
+        cohort.groupby("agency")
+        .agg(
+            volume_m=("obligations_millions", "sum"),
+            subsidy_m=("subsidy_cost_millions", "sum"),
+        )
+        .sort_values("volume_m", ascending=False)
+        .reset_index()
+    )
+
+    big = agency_agg[agency_agg["volume_m"] >= 1_000].copy()
+    small = agency_agg[agency_agg["volume_m"] < 1_000]
+
+    if len(small) > 0:
+        other = pd.DataFrame([{
+            "agency": "Other",
+            "volume_m": small["volume_m"].sum(),
+            "subsidy_m": small["subsidy_m"].sum(),
+        }])
+        table_df = pd.concat([big, other], ignore_index=True)
+    else:
+        table_df = big.copy()
+
+    totals = pd.DataFrame([{
+        "agency": "TOTAL",
+        "volume_m": table_df["volume_m"].sum(),
+        "subsidy_m": table_df["subsidy_m"].sum(),
+    }])
+    table_df = pd.concat([table_df, totals], ignore_index=True)
+
+    _HDR_BG = "#2c3e50"
+    _ALT_BG = "#f8f9fa"
+    _TOT_BG = "#ecf0f1"
+    _BORDER = "#bdc3c7"
+
+    html_rows = []
+    for i, row in table_df.iterrows():
+        is_total = row["agency"] == "TOTAL"
+        if is_total:
+            bg, fw = _TOT_BG, "font-weight:bold;"
+        elif i % 2 == 1:
+            bg, fw = _ALT_BG, ""
+        else:
+            bg, fw = "white", ""
+
+        name = AGENCY_SHORT.get(row["agency"], row["agency"])
+        vol = _fmt_dollars_table(row["volume_m"])
+        sub = _fmt_dollars_table(row["subsidy_m"])
+        rate = _fmt_rate_table(row["subsidy_m"], row["volume_m"])
+
+        td = f'<td style="padding:6px 12px;border-bottom:1px solid {_BORDER};'
+        html_rows.append(
+            f'<tr style="background:{bg};{fw}">'
+            f'{td}text-align:left;">{name}</td>'
+            f'{td}text-align:right;">{vol}</td>'
+            f'{td}text-align:right;">{sub}</td>'
+            f'{td}text-align:right;">{rate}</td>'
+            f'</tr>'
+        )
+
+    html = (
+        f'<table style="width:100%;border-collapse:collapse;font-size:14px;">'
+        f'<tr style="background:{_HDR_BG};color:white;font-weight:bold;">'
+        f'<th style="padding:8px 12px;text-align:left;">Agency</th>'
+        f'<th style="padding:8px 12px;text-align:right;">Loan Volume</th>'
+        f'<th style="padding:8px 12px;text-align:right;">Credit Subsidy</th>'
+        f'<th style="padding:8px 12px;text-align:right;">Subsidy Rate</th>'
+        f'</tr>'
+        + "".join(html_rows)
+        + '</table>'
+    )
+
+    st.markdown(html, unsafe_allow_html=True)
+    st.caption(
+        'Agencies with less than $1B in loan volume grouped into "Other." '
+        "Negative subsidies = expected revenue to government."
+    )
+
+
+# ---------------------------------------------------------------------------
+# Navigation
+# ---------------------------------------------------------------------------
+
+pg = st.navigation({
+    "View Federal Credit Budget Data": [
+        st.Page(all_programs_page, title="All Programs", default=True),
+        st.Page(overview.render, title="Overview"),
+        st.Page(agency.render, title="Agency"),
+        st.Page(program.render, title="Program"),
+        st.Page(sector.render, title="Sector"),
+        st.Page(download.render, title="Download"),
+    ],
+})
+
+pg.run()
