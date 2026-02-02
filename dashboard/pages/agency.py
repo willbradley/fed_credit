@@ -135,3 +135,6 @@ def render():
         st.dataframe(re_summary, use_container_width=True, hide_index=True)
     else:
         st.info("No reestimate data available for this selection.")
+
+
+render()

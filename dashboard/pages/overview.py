@@ -101,3 +101,6 @@ def render():
     # --- Row 4: Sector bar ---
     chart_year = min(latest_year, year_range[1])
     st.plotly_chart(sector_obligations_chart(bf_f, chart_year), use_container_width=True)
+
+
+render()

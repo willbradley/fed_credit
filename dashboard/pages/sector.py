@@ -67,3 +67,6 @@ def render():
         )
         agg.columns = ["Sector", "Total Obligations ($M)", "Programs", "Avg Subsidy Rate (%)"]
         st.dataframe(agg, use_container_width=True, hide_index=True)
+
+
+render()

@@ -130,3 +130,6 @@ def render():
             st.dataframe(re_prog.drop(columns=["program_id"]), use_container_width=True, hide_index=True)
         else:
             st.info("No reestimate data.")
+
+
+render()
