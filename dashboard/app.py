@@ -357,15 +357,15 @@ def all_programs_page():
 # Navigation
 # ---------------------------------------------------------------------------
 
-pg = st.navigation({
-    "View Federal Credit Budget Data": [
-        st.Page(all_programs_page, title="All Programs", default=True),
-        st.Page(overview.render, title="Overview"),
-        st.Page(agency.render, title="Agency"),
-        st.Page(program.render, title="Program"),
-        st.Page(sector.render, title="Sector"),
-        st.Page(download.render, title="Download"),
-    ],
-})
+_PAGES = {
+    "All Programs": all_programs_page,
+    "Overview": overview.render,
+    "Agency": agency.render,
+    "Program": program.render,
+    "Sector": sector.render,
+    "Download": download.render,
+}
 
-pg.run()
+st.sidebar.title("View Federal Credit Budget Data")
+selection = st.sidebar.radio("", list(_PAGES.keys()), label_visibility="collapsed")
+_PAGES[selection]()
