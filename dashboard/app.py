@@ -1,5 +1,12 @@
 """Federal Credit Supplement — Budget Formulation Scorecard."""
 
+import sys
+from pathlib import Path
+
+# Ensure the repo root is on sys.path so `from dashboard.*` imports work
+# regardless of where Streamlit launches the script from.
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+
 import streamlit as st
 import pandas as pd
 import plotly.graph_objects as go
